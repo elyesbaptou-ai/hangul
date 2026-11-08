@@ -83094,8 +83094,8 @@ jP(a){var s=this.a.bv(a,new A.afL(a))
 s.currentTime=0
 s.play()}}
 A.afL.prototype={
-$0(){var s=v.G.document.createElement("audio")
-s.src="assets/assets/sounds/"+this.a+".wav"
+$0(){var s=v.G.document.createElement("audio"),r=this.a,q=r==="complete"?"wav":"mp3"
+s.src="assets/assets/sounds/"+r+"."+q
 s.preload="auto"
 s.volume=0.6
 return s},
