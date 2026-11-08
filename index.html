@@ -42,6 +42,19 @@
       content: ""; display: block; width: 40%; height: 100%; background: #fff; border-radius: 4px;
       animation: slide 1.1s ease-in-out infinite;
     }
+    #help {
+      display: none; flex-direction: column; align-items: center; gap: 10px;
+      margin: 8px 24px 0; color: #fff; font-size: 15px; font-weight: 600; text-align: center;
+    }
+    #help .err {
+      max-width: 300px; max-height: 120px; overflow: auto; white-space: pre-wrap; word-break: break-word;
+      font: 11px/1.4 ui-monospace, Menlo, monospace; background: rgba(0,0,0,.18);
+      border-radius: 10px; padding: 8px 10px; margin: 0;
+    }
+    #help button {
+      border: 0; border-radius: 14px; padding: 12px 22px; background: #fff; color: #FF6B6B;
+      font: 700 16px -apple-system, BlinkMacSystemFont, sans-serif;
+    }
     @keyframes pop { from { transform: scale(.4); opacity: 0 } to { transform: scale(1); opacity: 1 } }
     @keyframes slide { from { transform: translateX(-100%) } to { transform: translateX(250%) } }
   </style>
@@ -51,13 +64,45 @@
     <div class="logo">한</div>
     <div class="name">Hangul</div>
     <div class="bar"></div>
+    <div id="help">
+      <div>Le chargement prend trop de temps.</div>
+      <pre class="err"></pre>
+      <button onclick="hardReload()">Réessayer</button>
+    </div>
   </div>
   <script>
+    // Drop any offline copy left by an older version so the phone always runs the latest build.
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(function (rs) { rs.forEach(function (r) { r.unregister(); }); });
+    }
+    if (window.caches) caches.keys().then(function (ks) { ks.forEach(function (k) { caches.delete(k); }); });
+
+    var bootErrors = [];
+    window.addEventListener('error', function (e) { bootErrors.push(e.message || String(e)); });
+    window.addEventListener('unhandledrejection', function (e) { bootErrors.push(String(e.reason)); });
+
+    var started = false;
     window.addEventListener('flutter-first-frame', function () {
+      started = true;
       var l = document.getElementById('loader');
       l.style.opacity = '0';
       setTimeout(function () { l.remove(); }, 400);
     });
+
+    // If nothing showed up after 15 s, say so instead of spinning forever.
+    setTimeout(function () {
+      if (started) return;
+      var help = document.getElementById('help');
+      help.querySelector('.err').textContent = bootErrors.length ? bootErrors.slice(0, 3).join('\n') : 'Aucune erreur détectée (connexion lente ?)';
+      help.style.display = 'flex';
+    }, 15000);
+
+    function hardReload() {
+      Promise.all([
+        'serviceWorker' in navigator ? navigator.serviceWorker.getRegistrations().then(function (rs) { return Promise.all(rs.map(function (r) { return r.unregister(); })); }) : null,
+        window.caches ? caches.keys().then(function (ks) { return Promise.all(ks.map(function (k) { return caches.delete(k); })); }) : null
+      ]).then(function () { location.replace(location.pathname + '?v=' + Date.now()); });
+    }
   </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
