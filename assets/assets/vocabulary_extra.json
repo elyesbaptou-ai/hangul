@@ -2603,6 +2603,614 @@
      "level": 4
     }
    ]
+  },
+  {
+   "id": "ph_health",
+   "nameFR": "Phrases : santé & urgences",
+   "icon": "cross.fill",
+   "colorHex": "#FF7675",
+   "words": [
+    {
+     "id": "x_ph_health_001",
+     "hangul": "머리가 아파요",
+     "romanization": "meoriga apayo",
+     "french": "J'ai mal à la tête",
+     "level": 1,
+     "note": "Partie du corps + 이/가 아파요 = j'ai mal à…"
+    },
+    {
+     "id": "x_ph_health_002",
+     "hangul": "배가 아파요",
+     "romanization": "baega apayo",
+     "french": "J'ai mal au ventre",
+     "level": 1,
+     "note": "배 = ventre (et aussi bateau, poire !)."
+    },
+    {
+     "id": "x_ph_health_003",
+     "hangul": "열이 나요",
+     "romanization": "yeori nayo",
+     "french": "J'ai de la fièvre",
+     "level": 2,
+     "note": "열 = fièvre ; 나다 = apparaître."
+    },
+    {
+     "id": "x_ph_health_004",
+     "hangul": "병원에 가야 돼요",
+     "romanization": "byeongwone gaya dwaeyo",
+     "french": "Je dois aller à l'hôpital",
+     "level": 2,
+     "note": "-아/어야 되다 = devoir."
+    },
+    {
+     "id": "x_ph_health_005",
+     "hangul": "약국이 어디에 있어요?",
+     "romanization": "yakgugi eodie isseoyo?",
+     "french": "Où est la pharmacie ?",
+     "level": 1,
+     "note": "약 = médicament, 국 = bureau."
+    },
+    {
+     "id": "x_ph_health_006",
+     "hangul": "구급차를 불러 주세요!",
+     "romanization": "gugeupchareul bulleo juseyo!",
+     "french": "Appelez une ambulance !",
+     "level": 2,
+     "note": "Numéro d'urgence en Corée : 119."
+    },
+    {
+     "id": "x_ph_health_007",
+     "hangul": "다리를 다쳤어요",
+     "romanization": "darireul dachyeosseoyo",
+     "french": "Je me suis blessé à la jambe",
+     "level": 2,
+     "note": "다치다 = se blesser."
+    },
+    {
+     "id": "x_ph_health_008",
+     "hangul": "알레르기 약 있어요?",
+     "romanization": "allereugi yak isseoyo?",
+     "french": "Vous avez un médicament contre l'allergie ?",
+     "level": 2,
+     "note": "Nom + 약 = médicament contre…"
+    },
+    {
+     "id": "x_ph_health_009",
+     "hangul": "감기약 주세요",
+     "romanization": "gamgiyak juseyo",
+     "french": "Un médicament contre le rhume, svp",
+     "level": 1,
+     "note": "감기 + 약."
+    },
+    {
+     "id": "x_ph_health_010",
+     "hangul": "어지러워요",
+     "romanization": "eojireowoyo",
+     "french": "J'ai la tête qui tourne",
+     "level": 3,
+     "note": "어지럽다, ㅂ irrégulier."
+    },
+    {
+     "id": "x_ph_health_011",
+     "hangul": "잠을 못 잤어요",
+     "romanization": "jameul mot jasseoyo",
+     "french": "Je n'ai pas pu dormir",
+     "level": 2,
+     "note": "못 = impossibilité."
+    },
+    {
+     "id": "x_ph_health_012",
+     "hangul": "보험이 있어요",
+     "romanization": "boheomi isseoyo",
+     "french": "J'ai une assurance",
+     "level": 3,
+     "note": "보험 = assurance."
+    },
+    {
+     "id": "x_ph_health_013",
+     "hangul": "지갑을 도둑맞았어요",
+     "romanization": "jigabeul dodungmajasseoyo",
+     "french": "On m'a volé mon portefeuille",
+     "level": 4,
+     "note": "도둑맞다 = se faire voler."
+    },
+    {
+     "id": "x_ph_health_014",
+     "hangul": "대사관에 연락해 주세요",
+     "romanization": "daesagwane yeollakae juseyo",
+     "french": "Contactez l'ambassade, svp",
+     "level": 4,
+     "note": "대사관 = ambassade."
+    },
+    {
+     "id": "x_ph_health_015",
+     "hangul": "숨을 쉬기 힘들어요",
+     "romanization": "sumeul swigi himdeureoyo",
+     "french": "J'ai du mal à respirer",
+     "level": 4,
+     "note": "-기 힘들다 = avoir du mal à."
+    },
+    {
+     "id": "x_ph_health_016",
+     "hangul": "하루에 몇 번 먹어요?",
+     "romanization": "harue myeot beon meogeoyo?",
+     "french": "Combien de fois par jour faut-il le prendre ?",
+     "level": 2,
+     "note": "번 = fois."
+    },
+    {
+     "id": "x_ph_health_017",
+     "hangul": "식후에 드세요",
+     "romanization": "sikue deuseyo",
+     "french": "À prendre après le repas",
+     "level": 3,
+     "note": "식후 = après repas, 식전 = avant."
+    },
+    {
+     "id": "x_ph_health_018",
+     "hangul": "푹 쉬세요",
+     "romanization": "puk swiseyo",
+     "french": "Reposez-vous bien",
+     "level": 2,
+     "note": "푹 = profondément."
+    },
+    {
+     "id": "x_ph_health_019",
+     "hangul": "빨리 나으세요",
+     "romanization": "ppalli naeuseyo",
+     "french": "Bon rétablissement",
+     "level": 3,
+     "note": "낫다 → 나으세요 (ㅅ irrégulier)."
+    },
+    {
+     "id": "x_ph_health_020",
+     "hangul": "다 나았어요",
+     "romanization": "da naasseoyo",
+     "french": "Je suis complètement guéri",
+     "level": 3,
+     "note": "낫다 → 나았어요."
+    }
+   ]
+  },
+  {
+   "id": "ph_love",
+   "nameFR": "Phrases : amour & amitié",
+   "icon": "heart.fill",
+   "colorHex": "#E84393",
+   "words": [
+    {
+     "id": "x_ph_love_001",
+     "hangul": "보고 싶었어요",
+     "romanization": "bogo sipeosseoyo",
+     "french": "Tu m'as manqué",
+     "level": 2,
+     "note": "Passé de 보고 싶다."
+    },
+    {
+     "id": "x_ph_love_002",
+     "hangul": "우리 친구 할래요?",
+     "romanization": "uri chingu hallaeyo?",
+     "french": "On devient amis ?",
+     "level": 2,
+     "note": "-(으)ㄹ래요 = proposition."
+    },
+    {
+     "id": "x_ph_love_003",
+     "hangul": "같이 있으면 행복해요",
+     "romanization": "gachi isseumyeon haengbokaeyo",
+     "french": "Je suis heureux quand on est ensemble",
+     "level": 3,
+     "note": "-(으)면 = quand."
+    },
+    {
+     "id": "x_ph_love_004",
+     "hangul": "너무 고마워",
+     "romanization": "neomu gomawo",
+     "french": "Merci beaucoup (familier)",
+     "level": 2,
+     "note": "반말 : sans -요."
+    },
+    {
+     "id": "x_ph_love_005",
+     "hangul": "나랑 사귈래?",
+     "romanization": "narang sagwillae?",
+     "french": "Tu veux sortir avec moi ?",
+     "level": 3,
+     "note": "사귀다 = sortir ensemble ; 랑 = avec (oral)."
+    },
+    {
+     "id": "x_ph_love_006",
+     "hangul": "우리 헤어지자",
+     "romanization": "uri heeojija",
+     "french": "Séparons-nous",
+     "level": 4,
+     "note": "-자 = proposition en 반말 (« faisons… »)."
+    },
+    {
+     "id": "x_ph_love_007",
+     "hangul": "연락 기다릴게",
+     "romanization": "yeollak gidarilge",
+     "french": "J'attends de tes nouvelles",
+     "level": 3,
+     "note": "-(으)ㄹ게 = promesse (반말)."
+    },
+    {
+     "id": "x_ph_love_008",
+     "hangul": "생일 축하해!",
+     "romanization": "saengil chukahae!",
+     "french": "Joyeux anniversaire !",
+     "level": 1,
+     "note": "축하하다 = féliciter."
+    },
+    {
+     "id": "x_ph_love_009",
+     "hangul": "오늘 정말 즐거웠어요",
+     "romanization": "oneul jeongmal jeulgeowosseoyo",
+     "french": "J'ai passé une super journée",
+     "level": 3,
+     "note": "즐겁다 → 즐거웠어요 (ㅂ irrégulier)."
+    },
+    {
+     "id": "x_ph_love_010",
+     "hangul": "항상 응원할게요",
+     "romanization": "hangsang eungwonhalgeyo",
+     "french": "Je te soutiendrai toujours",
+     "level": 3,
+     "note": "응원하다 = encourager."
+    },
+    {
+     "id": "x_ph_love_011",
+     "hangul": "너 없으면 안 돼",
+     "romanization": "neo eopseumyeon an dwae",
+     "french": "Je ne peux pas vivre sans toi",
+     "level": 4,
+     "note": "-(으)면 안 되다 = ce n'est pas possible si."
+    },
+    {
+     "id": "x_ph_love_012",
+     "hangul": "첫눈에 반했어요",
+     "romanization": "cheonnune banhaesseoyo",
+     "french": "J'ai eu le coup de foudre",
+     "level": 4,
+     "note": "첫눈 = premier regard ; 반하다 = tomber sous le charme."
+    },
+    {
+     "id": "x_ph_love_013",
+     "hangul": "말 편하게 해요",
+     "romanization": "mal pyeonhage haeyo",
+     "french": "Parle-moi naturellement (tutoie-moi)",
+     "level": 4,
+     "note": "Invite à passer au 반말."
+    },
+    {
+     "id": "x_ph_love_014",
+     "hangul": "우리 언제 한번 밥 먹어요",
+     "romanization": "uri eonje hanbeon bap meogeoyo",
+     "french": "On mange ensemble un de ces jours",
+     "level": 3,
+     "note": "Formule souvent polie, pas toujours une vraie invitation !"
+    },
+    {
+     "id": "x_ph_love_015",
+     "hangul": "요즘 어떻게 지내요?",
+     "romanization": "yojeum eotteoke jinaeyo?",
+     "french": "Comment ça va ces temps-ci ?",
+     "level": 2,
+     "note": "지내다 = passer le temps, vivre."
+    },
+    {
+     "id": "x_ph_love_016",
+     "hangul": "오랜만이에요!",
+     "romanization": "oraenmanieyo!",
+     "french": "Ça fait longtemps !",
+     "level": 2,
+     "note": "오랜만 = après longtemps."
+    },
+    {
+     "id": "x_ph_love_017",
+     "hangul": "연락해 줘서 고마워요",
+     "romanization": "yeollakae jwoseo gomawoyo",
+     "french": "Merci de m'avoir contacté",
+     "level": 3,
+     "note": "-아/어 줘서 고마워요 = merci d'avoir…"
+    },
+    {
+     "id": "x_ph_love_018",
+     "hangul": "힘들 때 언제든지 말해요",
+     "romanization": "himdeul ttae eonjedeunji malhaeyo",
+     "french": "Quand ça ne va pas, parle-moi quand tu veux",
+     "level": 4,
+     "note": "-(으)ㄹ 때 = quand."
+    }
+   ]
+  },
+  {
+   "id": "ph_work",
+   "nameFR": "Phrases : bureau & études",
+   "icon": "briefcase.fill",
+   "colorHex": "#E17055",
+   "words": [
+    {
+     "id": "x_ph_work_001",
+     "hangul": "회의가 몇 시에 시작해요?",
+     "romanization": "hoeuiga myeot sie sijakaeyo?",
+     "french": "À quelle heure commence la réunion ?",
+     "level": 2,
+     "note": "시작하다 = commencer."
+    },
+    {
+     "id": "x_ph_work_002",
+     "hangul": "자료를 보내 드릴게요",
+     "romanization": "jaryoreul bonae deurilgeyo",
+     "french": "Je vous envoie les documents",
+     "level": 3,
+     "note": "드리다 = forme humble de 주다."
+    },
+    {
+     "id": "x_ph_work_003",
+     "hangul": "메일 확인 부탁드립니다",
+     "romanization": "meil hwagin butakdeurimnida",
+     "french": "Merci de vérifier vos mails",
+     "level": 4,
+     "note": "부탁드립니다 = formule formelle de demande."
+    },
+    {
+     "id": "x_ph_work_004",
+     "hangul": "오늘 야근해야 돼요",
+     "romanization": "oneul yageunhaeya dwaeyo",
+     "french": "Je dois faire des heures sup ce soir",
+     "level": 3,
+     "note": "야근 = travail tardif."
+    },
+    {
+     "id": "x_ph_work_005",
+     "hangul": "휴가를 내고 싶어요",
+     "romanization": "hyugareul naego sipeoyo",
+     "french": "Je voudrais poser des congés",
+     "level": 3,
+     "note": "휴가를 내다 = prendre des congés."
+    },
+    {
+     "id": "x_ph_work_006",
+     "hangul": "마감이 언제예요?",
+     "romanization": "magami eonjeyeyo?",
+     "french": "C'est pour quand, la date limite ?",
+     "level": 3,
+     "note": "마감 = échéance."
+    },
+    {
+     "id": "x_ph_work_007",
+     "hangul": "제가 할게요",
+     "romanization": "jega halgeyo",
+     "french": "Je m'en occupe",
+     "level": 2,
+     "note": "-(으)ㄹ게요 = engagement."
+    },
+    {
+     "id": "x_ph_work_008",
+     "hangul": "잠깐 시간 괜찮으세요?",
+     "romanization": "jamkkan sigan gwaenchaneuseyo?",
+     "french": "Vous avez un instant ?",
+     "level": 3,
+     "note": "Façon polie d'aborder un collègue."
+    },
+    {
+     "id": "x_ph_work_009",
+     "hangul": "먼저 퇴근하겠습니다",
+     "romanization": "meonjeo toegeunhagetseumnida",
+     "french": "Je pars avant vous",
+     "level": 4,
+     "note": "Formule polie quand on quitte le bureau avant les autres."
+    },
+    {
+     "id": "x_ph_work_010",
+     "hangul": "숙제를 다 했어요?",
+     "romanization": "sukjereul da haesseoyo?",
+     "french": "Tu as fini tes devoirs ?",
+     "level": 2,
+     "note": "다 = tout."
+    },
+    {
+     "id": "x_ph_work_011",
+     "hangul": "시험 공부를 해야 돼요",
+     "romanization": "siheom gongbureul haeya dwaeyo",
+     "french": "Je dois réviser pour l'examen",
+     "level": 2,
+     "note": "-아/어야 되다."
+    },
+    {
+     "id": "x_ph_work_012",
+     "hangul": "이 단어가 무슨 뜻이에요?",
+     "romanization": "i daneoga museun tteusieyo?",
+     "french": "Que veut dire ce mot ?",
+     "level": 2,
+     "note": "뜻 = sens."
+    },
+    {
+     "id": "x_ph_work_013",
+     "hangul": "한국어로 뭐라고 해요?",
+     "romanization": "hangugeoro mworago haeyo?",
+     "french": "Comment dit-on en coréen ?",
+     "level": 2,
+     "note": "-(이)라고 하다 = dire, appeler."
+    },
+    {
+     "id": "x_ph_work_014",
+     "hangul": "발표 준비가 다 됐어요",
+     "romanization": "balpyo junbiga da dwaesseoyo",
+     "french": "La présentation est prête",
+     "level": 3,
+     "note": "준비가 되다 = être prêt."
+    },
+    {
+     "id": "x_ph_work_015",
+     "hangul": "피드백 주시면 반영하겠습니다",
+     "romanization": "pideubaek jusimyeon banyeonghagetseumnida",
+     "french": "Si vous me faites un retour, j'en tiendrai compte",
+     "level": 5,
+     "note": "반영하다 = refléter, intégrer."
+    },
+    {
+     "id": "x_ph_work_016",
+     "hangul": "일정을 조정할 수 있을까요?",
+     "romanization": "iljeongeul jojeonghal su isseulkkayo?",
+     "french": "Pourrait-on ajuster le planning ?",
+     "level": 4,
+     "note": "-(으)ㄹ 수 있을까요 = demande prudente."
+    },
+    {
+     "id": "x_ph_work_017",
+     "hangul": "이번 프로젝트를 맡게 되었습니다",
+     "romanization": "ibeon peurojekteureul matge doeeotseumnida",
+     "french": "J'ai été chargé de ce projet",
+     "level": 5,
+     "note": "-게 되다 = se retrouver à."
+    },
+    {
+     "id": "x_ph_work_018",
+     "hangul": "결과를 공유해 주세요",
+     "romanization": "gyeolgwareul gongyuhae juseyo",
+     "french": "Partagez les résultats, svp",
+     "level": 3,
+     "note": "공유하다 = partager."
+    },
+    {
+     "id": "x_ph_work_019",
+     "hangul": "면접을 보러 왔습니다",
+     "romanization": "myeonjeobeul boreo watseumnida",
+     "french": "Je viens pour l'entretien",
+     "level": 4,
+     "note": "면접을 보다 = passer un entretien ; -(으)러 = pour."
+    }
+   ]
+  },
+  {
+   "id": "ph_weather",
+   "nameFR": "Phrases : météo & saisons",
+   "icon": "leaf.fill",
+   "colorHex": "#55EFC4",
+   "words": [
+    {
+     "id": "x_ph_weather_001",
+     "hangul": "오늘 날씨 어때요?",
+     "romanization": "oneul nalssi eottaeyo?",
+     "french": "Quel temps fait-il aujourd'hui ?",
+     "level": 1,
+     "note": "어때요 = comment est-ce ?"
+    },
+    {
+     "id": "x_ph_weather_002",
+     "hangul": "날씨가 맑아요",
+     "romanization": "nalssiga malgayo",
+     "french": "Il fait beau (ciel clair)",
+     "level": 2,
+     "note": "맑다 se prononce [막따]."
+    },
+    {
+     "id": "x_ph_weather_003",
+     "hangul": "흐려요",
+     "romanization": "heuryeoyo",
+     "french": "C'est nuageux",
+     "level": 2,
+     "note": "흐리다."
+    },
+    {
+     "id": "x_ph_weather_004",
+     "hangul": "눈이 와요",
+     "romanization": "nuni wayo",
+     "french": "Il neige",
+     "level": 1,
+     "note": "눈 = neige (et œil !)."
+    },
+    {
+     "id": "x_ph_weather_005",
+     "hangul": "바람이 많이 불어요",
+     "romanization": "barami mani bureoyo",
+     "french": "Il y a beaucoup de vent",
+     "level": 2,
+     "note": "바람이 불다 = le vent souffle."
+    },
+    {
+     "id": "x_ph_weather_006",
+     "hangul": "너무 더워요",
+     "romanization": "neomu deowoyo",
+     "french": "Il fait trop chaud",
+     "level": 1,
+     "note": "덥다, ㅂ irrégulier."
+    },
+    {
+     "id": "x_ph_weather_007",
+     "hangul": "추워 죽겠어요",
+     "romanization": "chuwo jukgesseoyo",
+     "french": "Je meurs de froid",
+     "level": 3,
+     "note": "-아/어 죽겠다 = exagération."
+    },
+    {
+     "id": "x_ph_weather_008",
+     "hangul": "우산 가져가세요",
+     "romanization": "usan gajyeogaseyo",
+     "french": "Prenez un parapluie",
+     "level": 2,
+     "note": "가져가다 = emporter."
+    },
+    {
+     "id": "x_ph_weather_009",
+     "hangul": "장마철이에요",
+     "romanization": "jangmacheorieyo",
+     "french": "C'est la saison des pluies",
+     "level": 3,
+     "note": "장마 = mousson d'été (juillet)."
+    },
+    {
+     "id": "x_ph_weather_010",
+     "hangul": "미세먼지가 심해요",
+     "romanization": "misemeonjiga simhaeyo",
+     "french": "Les particules fines sont fortes",
+     "level": 4,
+     "note": "Sujet quotidien en Corée : on porte un masque."
+    },
+    {
+     "id": "x_ph_weather_011",
+     "hangul": "봄에는 벚꽃이 펴요",
+     "romanization": "bomeneun beotkkochi pyeoyo",
+     "french": "Au printemps, les cerisiers fleurissent",
+     "level": 3,
+     "note": "피다 = fleurir."
+    },
+    {
+     "id": "x_ph_weather_012",
+     "hangul": "가을 하늘이 높아요",
+     "romanization": "gaeul haneuri nopayo",
+     "french": "Le ciel d'automne est haut",
+     "level": 3,
+     "note": "Expression coréenne pour le ciel clair d'automne."
+    },
+    {
+     "id": "x_ph_weather_013",
+     "hangul": "기온이 영하로 떨어졌어요",
+     "romanization": "gioni yeongharo tteoreojyeosseoyo",
+     "french": "La température est passée sous zéro",
+     "level": 4,
+     "note": "영하 = en dessous de zéro."
+    },
+    {
+     "id": "x_ph_weather_014",
+     "hangul": "일기 예보에 따르면 내일 비가 온대요",
+     "romanization": "ilgi yeboe ttareumyeon naeil biga ondaeyo",
+     "french": "D'après la météo, il pleuvra demain",
+     "level": 4,
+     "note": "-에 따르면 = selon ; -ㄴ대요 = discours rapporté."
+    },
+    {
+     "id": "x_ph_weather_015",
+     "hangul": "날씨가 점점 따뜻해지고 있어요",
+     "romanization": "nalssiga jeomjeom ttatteuthaejigo isseoyo",
+     "french": "Il fait de plus en plus doux",
+     "level": 4,
+     "note": "-아/어지다 = devenir."
+    }
+   ]
   }
  ],
  "extend": {

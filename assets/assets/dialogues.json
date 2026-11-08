@@ -1,0 +1,909 @@
+{
+ "dialogues": [
+  {
+   "id": "cafe",
+   "title": "Au café",
+   "situation": "Tu commandes une boisson dans un café de Séoul.",
+   "level": 1,
+   "icon": "cup.and.saucer.fill",
+   "speakers": {
+    "A": "Serveur",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "어서 오세요! 주문하시겠어요?",
+     "roman": "eoseo oseyo! jumunhasigesseoyo?",
+     "fr": "Bienvenue ! Vous désirez commander ?",
+     "note": "어서 오세요 = formule d'accueil de tous les commerces."
+    },
+    {
+     "speaker": "B",
+     "ko": "아이스 아메리카노 한 잔 주세요",
+     "roman": "aiseu amerikano han jan juseyo",
+     "fr": "Un americano glacé, s'il vous plaît",
+     "note": "N + nombre natif + compteur (잔) + 주세요."
+    },
+    {
+     "speaker": "A",
+     "ko": "사이즈는 뭘로 하시겠어요?",
+     "roman": "saijeuneun mwollo hasigesseoyo?",
+     "fr": "Quelle taille souhaitez-vous ?",
+     "note": "-(으)시겠어요 = forme très polie du personnel de service."
+    },
+    {
+     "speaker": "B",
+     "ko": "큰 걸로 주세요",
+     "roman": "keun geollo juseyo",
+     "fr": "Une grande, s'il vous plaît",
+     "note": "큰 것 + (으)로 → 큰 걸로 : « avec le grand »."
+    },
+    {
+     "speaker": "A",
+     "ko": "드시고 가세요? 가져가세요?",
+     "roman": "deusigo gaseyo? gajyeogaseyo?",
+     "fr": "Sur place ou à emporter ?",
+     "note": "드시다 = manger/boire (honorifique)."
+    },
+    {
+     "speaker": "B",
+     "ko": "가져갈게요",
+     "roman": "gajyeogalgeyo",
+     "fr": "À emporter",
+     "note": "-(으)ㄹ게요 : je décide (et ça vous concerne)."
+    },
+    {
+     "speaker": "A",
+     "ko": "4,500원입니다. 카드로 하시겠어요?",
+     "roman": "sacheonobaek wonimnida. kadeuro hasigesseoyo?",
+     "fr": "Ça fait 4 500 wons. Par carte ?",
+     "note": "Prix en nombres sino-coréens : 사천오백."
+    },
+    {
+     "speaker": "B",
+     "ko": "네, 카드로 할게요",
+     "roman": "ne, kadeuro halgeyo",
+     "fr": "Oui, par carte",
+     "note": "(으)로 = moyen."
+    },
+    {
+     "speaker": "A",
+     "ko": "진동벨 울리면 오세요",
+     "roman": "jindongbel ullimyeon oseyo",
+     "fr": "Venez quand le bipeur vibre",
+     "note": "-(으)면 = quand / si. Les cafés coréens donnent souvent un bipeur."
+    },
+    {
+     "speaker": "B",
+     "ko": "감사합니다!",
+     "roman": "gamsahamnida!",
+     "fr": "Merci !"
+    }
+   ]
+  },
+  {
+   "id": "meet",
+   "title": "Première rencontre",
+   "situation": "Tu rencontres quelqu'un lors d'un échange linguistique.",
+   "level": 1,
+   "icon": "hand.wave.fill",
+   "speakers": {
+    "A": "Minji",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "안녕하세요! 저는 김민지예요",
+     "roman": "annyeonghaseyo! jeoneun gimminjiyeyo",
+     "fr": "Bonjour ! Je m'appelle Kim Minji",
+     "note": "Le nom de famille vient en premier : 김 + 민지."
+    },
+    {
+     "speaker": "B",
+     "ko": "안녕하세요, 저는 레아예요. 만나서 반가워요",
+     "roman": "annyeonghaseyo, jeoneun reayeyo. mannaseo bangawoyo",
+     "fr": "Bonjour, je suis Léa. Ravie de te rencontrer",
+     "note": "은/는 introduit le thème « moi »."
+    },
+    {
+     "speaker": "A",
+     "ko": "저도 반가워요. 어느 나라 사람이에요?",
+     "roman": "jeodo bangawoyo. eoneu nara saramieyo?",
+     "fr": "Moi aussi. Tu viens de quel pays ?",
+     "note": "도 = aussi ; 어느 = quel (parmi plusieurs)."
+    },
+    {
+     "speaker": "B",
+     "ko": "프랑스 사람이에요. 파리에서 왔어요",
+     "roman": "peurangseu saramieyo. parieseo wasseoyo",
+     "fr": "Je suis française. Je viens de Paris",
+     "note": "에서 = point de départ."
+    },
+    {
+     "speaker": "A",
+     "ko": "와, 한국어를 정말 잘하시네요!",
+     "roman": "wa, hangugeoreul jeongmal jalhasineyo!",
+     "fr": "Waouh, tu parles vraiment bien coréen !",
+     "note": "-네요 = étonnement. Compliment très courant, même pour un débutant !"
+    },
+    {
+     "speaker": "B",
+     "ko": "아니에요, 아직 많이 부족해요",
+     "roman": "anieyo, ajik mani bujokaeyo",
+     "fr": "Mais non, j'ai encore beaucoup à apprendre",
+     "note": "On répond aux compliments avec modestie."
+    },
+    {
+     "speaker": "A",
+     "ko": "한국어를 얼마나 공부했어요?",
+     "roman": "hangugeoreul eolmana gongbuhaesseoyo?",
+     "fr": "Tu étudies le coréen depuis combien de temps ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "6개월 됐어요",
+     "roman": "yukgaewol dwaesseoyo",
+     "fr": "Ça fait six mois",
+     "note": "개월 = mois (durée), avec nombre sino-coréen."
+    },
+    {
+     "speaker": "A",
+     "ko": "우리 카톡 친구 할까요?",
+     "roman": "uri katok chingu halkkayo?",
+     "fr": "On s'ajoute sur KakaoTalk ?",
+     "note": "-(으)ㄹ까요 = proposition."
+    },
+    {
+     "speaker": "B",
+     "ko": "좋아요! 제 아이디 알려 줄게요",
+     "roman": "joayo! je aidi allyeo julgeyo",
+     "fr": "Avec plaisir ! Je te donne mon identifiant",
+     "note": "알려 주다 = faire savoir."
+    }
+   ]
+  },
+  {
+   "id": "restaurant",
+   "title": "Au restaurant",
+   "situation": "Tu dînes dans un restaurant de barbecue coréen.",
+   "level": 2,
+   "icon": "fork.knife",
+   "speakers": {
+    "A": "Serveuse",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "몇 분이세요?",
+     "roman": "myeot buniseyo?",
+     "fr": "Vous êtes combien ?",
+     "note": "분 = compteur honorifique des personnes."
+    },
+    {
+     "speaker": "B",
+     "ko": "두 명이에요",
+     "roman": "du myeongieyo",
+     "fr": "Nous sommes deux",
+     "note": "On utilise 명 pour soi (pas 분)."
+    },
+    {
+     "speaker": "A",
+     "ko": "이쪽으로 앉으세요. 메뉴판 여기 있습니다",
+     "roman": "ijjogeuro anjeuseyo. menyupan yeogi itseumnida",
+     "fr": "Asseyez-vous ici. Voici le menu"
+    },
+    {
+     "speaker": "B",
+     "ko": "삼겹살 이 인분하고 공깃밥 두 개 주세요",
+     "roman": "samgyeopsal i inbunhago gonggitbap du gae juseyo",
+     "fr": "Deux portions de samgyeopsal et deux bols de riz, svp",
+     "note": "인분 = portion, avec sino-coréen (이 인분)."
+    },
+    {
+     "speaker": "A",
+     "ko": "음료는 뭐 드릴까요?",
+     "roman": "eumnyoneun mwo deurilkkayo?",
+     "fr": "Et comme boisson ?",
+     "note": "드릴까요 = « vous donnerais-je ? » (humble)."
+    },
+    {
+     "speaker": "B",
+     "ko": "사이다 한 병 주세요",
+     "roman": "saida han byeong juseyo",
+     "fr": "Une limonade, s'il vous plaît",
+     "note": "사이다 = limonade type Sprite."
+    },
+    {
+     "speaker": "A",
+     "ko": "고기는 제가 구워 드릴게요",
+     "roman": "gogineun jega guwo deurilgeyo",
+     "fr": "Je vais vous griller la viande",
+     "note": "굽다 → 구워 (ㅂ irrégulier) + 드리다."
+    },
+    {
+     "speaker": "B",
+     "ko": "감사합니다. 상추 좀 더 주실 수 있어요?",
+     "roman": "gamsahamnida. sangchu jom deo jusil su isseoyo?",
+     "fr": "Merci. Pourriez-vous rajouter de la salade ?",
+     "note": "-(으)실 수 있어요? = demande très polie."
+    },
+    {
+     "speaker": "A",
+     "ko": "네, 잠시만요",
+     "roman": "ne, jamsimanyo",
+     "fr": "Oui, un instant"
+    },
+    {
+     "speaker": "B",
+     "ko": "정말 맛있어요! 계산은 어디서 해요?",
+     "roman": "jeongmal masisseoyo! gyesaneun eodiseo haeyo?",
+     "fr": "C'est délicieux ! Où est-ce qu'on paie ?",
+     "note": "On paie souvent à la caisse près de la sortie."
+    }
+   ]
+  },
+  {
+   "id": "directions",
+   "title": "Demander son chemin",
+   "situation": "Tu cherches la station de métro.",
+   "level": 1,
+   "icon": "building.2.fill",
+   "speakers": {
+    "A": "Passant",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "B",
+     "ko": "저기요, 실례합니다. 지하철역이 어디예요?",
+     "roman": "jeogiyo, sillyehamnida. jihacheollyeogi eodiyeyo?",
+     "fr": "Excusez-moi. Où est la station de métro ?",
+     "note": "저기요 = pour interpeller poliment un inconnu."
+    },
+    {
+     "speaker": "A",
+     "ko": "이 길로 쭉 가세요",
+     "roman": "i gillo jjuk gaseyo",
+     "fr": "Allez tout droit par cette rue",
+     "note": "쭉 = tout droit, d'un trait."
+    },
+    {
+     "speaker": "B",
+     "ko": "멀어요?",
+     "roman": "meoreoyo?",
+     "fr": "C'est loin ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "아니요, 걸어서 5분쯤 걸려요",
+     "roman": "aniyo, georeoseo obunjjeum geollyeoyo",
+     "fr": "Non, environ 5 minutes à pied",
+     "note": "쯤 = environ."
+    },
+    {
+     "speaker": "A",
+     "ko": "편의점 보이면 오른쪽으로 도세요",
+     "roman": "pyeonuijeom boimyeon oreunjjogeuro doseyo",
+     "fr": "Quand vous voyez la supérette, tournez à droite",
+     "note": "-(으)면 = quand."
+    },
+    {
+     "speaker": "B",
+     "ko": "편의점에서 오른쪽이요?",
+     "roman": "pyeonuijeomeseo oreunjjogiyo?",
+     "fr": "À droite à la supérette ?",
+     "note": "Répéter avec -요 pour vérifier."
+    },
+    {
+     "speaker": "A",
+     "ko": "네, 그러면 바로 2번 출구가 보여요",
+     "roman": "ne, geureomyeon baro ibeon chulguga boyeoyo",
+     "fr": "Oui, et vous verrez tout de suite la sortie 2"
+    },
+    {
+     "speaker": "B",
+     "ko": "정말 감사합니다!",
+     "roman": "jeongmal gamsahamnida!",
+     "fr": "Merci beaucoup !"
+    },
+    {
+     "speaker": "A",
+     "ko": "천만에요. 조심히 가세요",
+     "roman": "cheonmaneyo. josimhi gaseyo",
+     "fr": "Je vous en prie. Bonne route",
+     "note": "조심히 가세요 = « rentrez prudemment »."
+    }
+   ]
+  },
+  {
+   "id": "shop",
+   "title": "Acheter des vêtements",
+   "situation": "Tu essaies une veste dans une boutique.",
+   "level": 2,
+   "icon": "bag.fill",
+   "speakers": {
+    "A": "Vendeur",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "찾으시는 거 있으세요?",
+     "roman": "chajeusineun geo isseuseyo?",
+     "fr": "Vous cherchez quelque chose ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "그냥 구경하고 있어요",
+     "roman": "geunyang gugyeonghago isseoyo",
+     "fr": "Je regarde juste",
+     "note": "-고 있다 = être en train de."
+    },
+    {
+     "speaker": "B",
+     "ko": "이 재킷 입어 봐도 돼요?",
+     "roman": "i jaekit ibeo bwado dwaeyo?",
+     "fr": "Je peux essayer cette veste ?",
+     "note": "-아/어 보다 (essayer) + -아/어도 되다 (permission)."
+    },
+    {
+     "speaker": "A",
+     "ko": "네, 탈의실은 저쪽에 있어요",
+     "roman": "ne, taruisireun jeojjoge isseoyo",
+     "fr": "Oui, la cabine est là-bas"
+    },
+    {
+     "speaker": "B",
+     "ko": "좀 작네요. 한 사이즈 큰 거 있어요?",
+     "roman": "jom jangneyo. han saijeu keun geo isseoyo?",
+     "fr": "C'est un peu petit. Vous avez une taille au-dessus ?",
+     "note": "작네요 se prononce [장네요]."
+    },
+    {
+     "speaker": "A",
+     "ko": "잠시만요… 여기 있습니다",
+     "roman": "jamsimanyo… yeogi itseumnida",
+     "fr": "Un instant… Voilà"
+    },
+    {
+     "speaker": "B",
+     "ko": "이건 딱 맞아요. 얼마예요?",
+     "roman": "igeon ttak majayo. eolmayeyo?",
+     "fr": "Celle-ci est parfaite. C'est combien ?",
+     "note": "딱 맞다 = aller pile."
+    },
+    {
+     "speaker": "A",
+     "ko": "오만 구천 원인데, 지금 20% 할인이에요",
+     "roman": "oman gucheon woninde, jigeum isip peosenteu harinieyo",
+     "fr": "59 000 wons, mais il y a 20 % de réduction",
+     "note": "-ㄴ데 = donne le contexte."
+    },
+    {
+     "speaker": "B",
+     "ko": "좋네요. 이걸로 할게요",
+     "roman": "jonneyo. igeollo halgeyo",
+     "fr": "Super. Je la prends",
+     "note": "이것 + (으)로 → 이걸로."
+    }
+   ]
+  },
+  {
+   "id": "doctor",
+   "title": "Chez le médecin",
+   "situation": "Tu es malade et tu consultes.",
+   "level": 3,
+   "icon": "cross.fill",
+   "speakers": {
+    "A": "Médecin",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "어디가 아프세요?",
+     "roman": "eodiga apeuseyo?",
+     "fr": "Où avez-vous mal ?",
+     "note": "아프다 + -시- : forme respectueuse."
+    },
+    {
+     "speaker": "B",
+     "ko": "어제부터 머리가 아프고 열이 나요",
+     "roman": "eojebuteo meoriga apeugo yeori nayo",
+     "fr": "J'ai mal à la tête et de la fièvre depuis hier",
+     "note": "부터 = depuis ; -고 = et."
+    },
+    {
+     "speaker": "A",
+     "ko": "기침도 하세요?",
+     "roman": "gichimdo haseyo?",
+     "fr": "Vous toussez aussi ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "네, 밤에 기침을 많이 해요",
+     "roman": "ne, bame gichimeul mani haeyo",
+     "fr": "Oui, je tousse beaucoup la nuit"
+    },
+    {
+     "speaker": "A",
+     "ko": "목 좀 볼게요. 아 하세요",
+     "roman": "mok jom bolgeyo. a haseyo",
+     "fr": "Je vais regarder votre gorge. Faites « a »"
+    },
+    {
+     "speaker": "A",
+     "ko": "감기 몸살이에요. 약을 처방해 드릴게요",
+     "roman": "gamgi momsarieyo. yageul cheobanghae deurilgeyo",
+     "fr": "C'est un gros rhume. Je vais vous prescrire des médicaments",
+     "note": "몸살 = courbatures de fatigue."
+    },
+    {
+     "speaker": "B",
+     "ko": "약은 어떻게 먹어야 돼요?",
+     "roman": "yageun eotteoke meogeoya dwaeyo?",
+     "fr": "Comment dois-je prendre les médicaments ?",
+     "note": "-아/어야 되다 = devoir."
+    },
+    {
+     "speaker": "A",
+     "ko": "하루에 세 번, 식후 30분에 드세요",
+     "roman": "harue se beon, sikhu samsipbune deuseyo",
+     "fr": "Trois fois par jour, 30 minutes après les repas",
+     "note": "번 = fois (natif) ; 식후 = après repas."
+    },
+    {
+     "speaker": "B",
+     "ko": "술은 마셔도 돼요?",
+     "roman": "sureun masyeodo dwaeyo?",
+     "fr": "Je peux boire de l'alcool ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "며칠 동안은 마시지 마세요",
+     "roman": "myeochil donganeun masiji maseyo",
+     "fr": "Évitez pendant quelques jours",
+     "note": "-지 마세요 = interdiction."
+    },
+    {
+     "speaker": "B",
+     "ko": "네, 알겠습니다. 감사합니다",
+     "roman": "ne, algetseumnida. gamsahamnida",
+     "fr": "D'accord, compris. Merci"
+    }
+   ]
+  },
+  {
+   "id": "taxi",
+   "title": "En taxi",
+   "situation": "Tu prends un taxi vers ton hôtel.",
+   "level": 2,
+   "icon": "airplane",
+   "speakers": {
+    "A": "Chauffeur",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "어디로 모실까요?",
+     "roman": "eodiro mosilkkayo?",
+     "fr": "Où vous emmène-t-on ?",
+     "note": "모시다 = accompagner (honorifique)."
+    },
+    {
+     "speaker": "B",
+     "ko": "명동 롯데호텔로 가 주세요",
+     "roman": "myeongdong rotdehotello ga juseyo",
+     "fr": "À l'hôtel Lotte de Myeongdong, svp",
+     "note": "(으)로 = direction."
+    },
+    {
+     "speaker": "A",
+     "ko": "네. 지금 길이 좀 막히네요",
+     "roman": "ne. jigeum giri jom makineyo",
+     "fr": "D'accord. Ça bouchonne un peu en ce moment"
+    },
+    {
+     "speaker": "B",
+     "ko": "얼마나 걸려요?",
+     "roman": "eolmana geollyeoyo?",
+     "fr": "Ça prend combien de temps ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "한 30분 정도 걸릴 거예요",
+     "roman": "han samsipbun jeongdo geollil geoyeyo",
+     "fr": "Environ 30 minutes",
+     "note": "한 + nombre = environ ; 정도 = à peu près."
+    },
+    {
+     "speaker": "B",
+     "ko": "괜찮아요. 천천히 가 주세요",
+     "roman": "gwaenchanayo. cheoncheonhi ga juseyo",
+     "fr": "Pas de souci. Allez-y tranquillement"
+    },
+    {
+     "speaker": "A",
+     "ko": "다 왔습니다. 만 이천 원입니다",
+     "roman": "da watseumnida. man icheon wonimnida",
+     "fr": "Nous y sommes. 12 000 wons",
+     "note": "다 왔다 = on est arrivé."
+    },
+    {
+     "speaker": "B",
+     "ko": "카드로 계산할게요. 영수증 주세요",
+     "roman": "kadeuro gyesanhalgeyo. yeongsujeung juseyo",
+     "fr": "Je paie par carte. Un reçu, svp"
+    },
+    {
+     "speaker": "A",
+     "ko": "여기 있습니다. 안녕히 가세요",
+     "roman": "yeogi itseumnida. annyeonghi gaseyo",
+     "fr": "Voici. Au revoir",
+     "note": "안녕히 가세요 = dit à celui qui part."
+    }
+   ]
+  },
+  {
+   "id": "hotel",
+   "title": "À l'hôtel",
+   "situation": "Tu arrives à ton hôtel.",
+   "level": 2,
+   "icon": "house.fill",
+   "speakers": {
+    "A": "Réception",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "B",
+     "ko": "체크인하려고 하는데요",
+     "roman": "chekeuinharyeogo haneundeyo",
+     "fr": "Je voudrais faire le check-in",
+     "note": "-(으)려고 하는데요 = j'ai l'intention de…, ton poli."
+    },
+    {
+     "speaker": "A",
+     "ko": "예약하신 분 성함이 어떻게 되세요?",
+     "roman": "yeyakasin bun seonghami eotteoke doeseyo?",
+     "fr": "À quel nom est la réservation ?",
+     "note": "성함 = nom (honorifique)."
+    },
+    {
+     "speaker": "B",
+     "ko": "마르탱 레아입니다",
+     "roman": "mareutaeng reaimnida",
+     "fr": "Léa Martin",
+     "note": "Nom de famille d'abord, comme en coréen."
+    },
+    {
+     "speaker": "A",
+     "ko": "네, 3박 맞으시죠?",
+     "roman": "ne, sambak majeusijyo?",
+     "fr": "Trois nuits, c'est bien ça ?",
+     "note": "박 = nuitée ; -죠 = vérifie une info."
+    },
+    {
+     "speaker": "B",
+     "ko": "네, 맞아요. 조식 포함이에요?",
+     "roman": "ne, majayo. josik pohamieyo?",
+     "fr": "Oui. Le petit-déjeuner est compris ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "네, 조식은 2층에서 7시부터 10시까지예요",
+     "roman": "ne, josigeun icheungeseo ilgopsibuteo yeolsikkajiyeyo",
+     "fr": "Oui, au 1er étage de 7 h à 10 h",
+     "note": "층 = étage (le 1er étage coréen = rez-de-chaussée)."
+    },
+    {
+     "speaker": "B",
+     "ko": "짐을 맡길 수 있어요?",
+     "roman": "jimeul matgil su isseoyo?",
+     "fr": "Je peux laisser mes bagages ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "물론이죠. 여기 방 카드 키입니다",
+     "roman": "mullonijyo. yeogi bang kadeu kiimnida",
+     "fr": "Bien sûr. Voici la carte de la chambre"
+    },
+    {
+     "speaker": "B",
+     "ko": "와이파이 비밀번호도 알려 주세요",
+     "roman": "waipai bimilbeonhodo allyeo juseyo",
+     "fr": "Et le mot de passe wifi aussi, svp",
+     "note": "도 = aussi."
+    }
+   ]
+  },
+  {
+   "id": "phone",
+   "title": "Au téléphone avec un ami",
+   "situation": "Tu organises une sortie.",
+   "level": 2,
+   "icon": "bubble",
+   "speakers": {
+    "A": "Junho",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "여보세요? 뭐 해?",
+     "roman": "yeoboseyo? mwo hae?",
+     "fr": "Allô ? Tu fais quoi ?",
+     "note": "여보세요 = allô. Junho parle en 반말 (familier) : vous êtes amis."
+    },
+    {
+     "speaker": "B",
+     "ko": "그냥 집에 있어. 왜?",
+     "roman": "geunyang jibe isseo. wae?",
+     "fr": "Je suis juste à la maison. Pourquoi ?",
+     "note": "Réponse en 반말 : on enlève -요."
+    },
+    {
+     "speaker": "A",
+     "ko": "이따가 저녁 같이 먹을래?",
+     "roman": "ittaga jeonyeok gachi meogeullae?",
+     "fr": "Tu veux dîner ensemble tout à l'heure ?",
+     "note": "-(으)ㄹ래 = « tu veux ? »."
+    },
+    {
+     "speaker": "B",
+     "ko": "좋아! 뭐 먹고 싶어?",
+     "roman": "joa! mwo meokgo sipeo?",
+     "fr": "Avec plaisir ! Tu veux manger quoi ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "치킨 어때? 홍대에 맛집 있어",
+     "roman": "chikin eottae? hongdae-e matjip isseo",
+     "fr": "Du poulet frit ? Je connais un bon resto à Hongdae",
+     "note": "맛집 = restaurant réputé."
+    },
+    {
+     "speaker": "B",
+     "ko": "콜! 몇 시에 만날까?",
+     "roman": "kol! myeot sie mannalkka?",
+     "fr": "Ça marche ! On se voit à quelle heure ?",
+     "note": "콜 = « ok », argot (de « call »)."
+    },
+    {
+     "speaker": "A",
+     "ko": "일곱 시 어때? 홍대입구역 9번 출구",
+     "roman": "ilgop si eottae? hongdaeipguyeok gubeon chulgu",
+     "fr": "7 h ? Sortie 9 de la station Hongik Univ."
+    },
+    {
+     "speaker": "B",
+     "ko": "알았어. 늦으면 연락할게",
+     "roman": "arasseo. neujeumyeon yeollakalge",
+     "fr": "Ok. Si je suis en retard, je te préviens",
+     "note": "-(으)ㄹ게 = 반말 de -(으)ㄹ게요."
+    },
+    {
+     "speaker": "A",
+     "ko": "그래, 이따 봐!",
+     "roman": "geurae, itta bwa!",
+     "fr": "D'accord, à tout à l'heure !"
+    }
+   ]
+  },
+  {
+   "id": "work",
+   "title": "Premier jour au bureau",
+   "situation": "Tu te présentes à tes nouveaux collègues.",
+   "level": 3,
+   "icon": "briefcase.fill",
+   "speakers": {
+    "A": "Chef d'équipe",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "오늘부터 같이 일하게 된 레아 씨예요",
+     "roman": "oneulbuteo gachi ilhage doen rea ssiyeyo",
+     "fr": "Voici Léa, qui travaille avec nous à partir d'aujourd'hui",
+     "note": "-게 되다 = finir par / se retrouver à. 씨 = M./Mme."
+    },
+    {
+     "speaker": "B",
+     "ko": "안녕하십니까. 레아라고 합니다",
+     "roman": "annyeonghasimnikka. rearago hamnida",
+     "fr": "Bonjour. Je m'appelle Léa",
+     "note": "-(이)라고 합니다 = « je m'appelle » (formel)."
+    },
+    {
+     "speaker": "B",
+     "ko": "마케팅팀에서 일하게 되었습니다. 잘 부탁드립니다",
+     "roman": "maketingtimeseo ilhage doeeotseumnida. jal butakdeurimnida",
+     "fr": "Je vais travailler dans l'équipe marketing. Je compte sur vous",
+     "note": "Au travail, le style formel -습니다 est de rigueur."
+    },
+    {
+     "speaker": "A",
+     "ko": "궁금한 게 있으면 언제든지 물어보세요",
+     "roman": "gunggeumhan ge isseumyeon eonjedeunji mureoboseyo",
+     "fr": "Si vous avez une question, demandez quand vous voulez",
+     "note": "언제든지 = n'importe quand ; 묻다 → 물어 (ㄷ irrégulier)."
+    },
+    {
+     "speaker": "B",
+     "ko": "감사합니다. 열심히 하겠습니다",
+     "roman": "gamsahamnida. yeolsimhi hagetseumnida",
+     "fr": "Merci. Je ferai de mon mieux",
+     "note": "-겠- = volonté, ton humble et formel."
+    },
+    {
+     "speaker": "A",
+     "ko": "점심은 보통 12시에 팀원들이랑 같이 먹어요",
+     "roman": "jeomsimeun botong yeoldusie timwondeurirang gachi meogeoyo",
+     "fr": "On déjeune d'habitude à midi tous ensemble",
+     "note": "이랑 = avec (oral)."
+    },
+    {
+     "speaker": "B",
+     "ko": "좋네요. 회의는 언제 있어요?",
+     "roman": "jonneyo. hoeuineun eonje isseoyo?",
+     "fr": "Super. Quand ont lieu les réunions ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "매주 월요일 아침 아홉 시에 있어요",
+     "roman": "maeju woryoil achim ahop sie isseoyo",
+     "fr": "Chaque lundi à 9 h",
+     "note": "매주 = chaque semaine."
+    },
+    {
+     "speaker": "B",
+     "ko": "알겠습니다. 메모해 두겠습니다",
+     "roman": "algetseumnida. memohae dugetseumnida",
+     "fr": "Entendu. Je le note",
+     "note": "-아/어 두다 = faire à l'avance, garder."
+    }
+   ]
+  },
+  {
+   "id": "complaint",
+   "title": "Régler un problème",
+   "situation": "Ta commande en ligne est arrivée abîmée.",
+   "level": 4,
+   "icon": "chart",
+   "speakers": {
+    "A": "Service client",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "고객센터입니다. 무엇을 도와드릴까요?",
+     "roman": "gogaeksenteoimnida. mueoseul dowadeurilkkayo?",
+     "fr": "Service client, que puis-je faire pour vous ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "어제 주문한 컵이 깨져서 왔어요",
+     "roman": "eoje jumunhan keobi kkaejyeoseo wasseoyo",
+     "fr": "La tasse que j'ai commandée hier est arrivée cassée",
+     "note": "Relative passée -(으)ㄴ ; 깨지다 = se casser."
+    },
+    {
+     "speaker": "A",
+     "ko": "정말 죄송합니다. 주문 번호를 알려 주시겠어요?",
+     "roman": "jeongmal joesonghamnida. jumun beonhoreul allyeo jusigesseoyo?",
+     "fr": "Toutes nos excuses. Pourriez-vous me donner le numéro de commande ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "2024-1105번이에요. 사진도 찍어 놨어요",
+     "roman": "icheonisipsa-cheonbaego beonieyo. sajindo jjigeo nwasseoyo",
+     "fr": "C'est le 2024-1105. J'ai aussi pris des photos",
+     "note": "-아/어 놓다 = faire et laisser (preuve)."
+    },
+    {
+     "speaker": "A",
+     "ko": "확인해 보니 배송 중에 파손된 것 같습니다",
+     "roman": "hwaginhae boni baesong junge pasondoen geot gatseumnida",
+     "fr": "Après vérification, il semble qu'elle ait été endommagée pendant la livraison",
+     "note": "-아/어 보니 = après avoir essayé, je constate."
+    },
+    {
+     "speaker": "A",
+     "ko": "교환과 환불 중에 어떤 걸 원하세요?",
+     "roman": "gyohwangwa hwanbul junge eotteon geol wonhaseyo?",
+     "fr": "Préférez-vous un échange ou un remboursement ?",
+     "note": "N과 N 중에 = entre N et N."
+    },
+    {
+     "speaker": "B",
+     "ko": "환불해 주셨으면 좋겠어요",
+     "roman": "hwanbulhae jusyeosseumyeon jokesseoyo",
+     "fr": "J'aimerais être remboursé",
+     "note": "-았/었으면 좋겠다 = souhait poli."
+    },
+    {
+     "speaker": "A",
+     "ko": "네, 3일 이내에 처리해 드리겠습니다",
+     "roman": "ne, samil inaee cheorihae deurigetseumnida",
+     "fr": "Bien sûr, ce sera traité sous 3 jours",
+     "note": "이내 = dans un délai de."
+    },
+    {
+     "speaker": "B",
+     "ko": "빨리 처리해 주셔서 감사합니다",
+     "roman": "ppalli cheorihae jusyeoseo gamsahamnida",
+     "fr": "Merci de traiter cela rapidement",
+     "note": "-아/어 주셔서 감사합니다 = merci d'avoir…"
+    }
+   ]
+  },
+  {
+   "id": "debate",
+   "title": "Discussion : vivre à Séoul ?",
+   "situation": "Tu débats avec une amie coréenne.",
+   "level": 5,
+   "icon": "globe",
+   "speakers": {
+    "A": "Sora",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "요즘 서울 집값이 너무 올라서 걱정이야",
+     "roman": "yojeum seoul jipgapsi neomu ollaseo geokjeongiya",
+     "fr": "Je m'inquiète, les prix de l'immobilier à Séoul ont tellement augmenté",
+     "note": "집값 se prononce [집깝]. 반말 entre amies."
+    },
+    {
+     "speaker": "B",
+     "ko": "맞아. 그래도 일자리는 서울에 몰려 있잖아",
+     "roman": "maja. geuraedo iljarineun seoure mollyeo itjana",
+     "fr": "C'est vrai. Mais le travail est concentré à Séoul, non ?",
+     "note": "-잖아 = « tu sais bien que »."
+    },
+    {
+     "speaker": "A",
+     "ko": "재택근무가 늘어나면 지방에서도 살 수 있지 않을까?",
+     "roman": "jaetaekgeunmuga neureonamyeon jibangeseodo sal su itji aneulkka?",
+     "fr": "Si le télétravail se développe, on pourrait vivre en région, non ?",
+     "note": "-지 않을까? = suggère une hypothèse."
+    },
+    {
+     "speaker": "B",
+     "ko": "그럴 수도 있지만 문화생활은 아무래도 서울이 낫지",
+     "roman": "geureol sudo itjiman munhwasaenghwareun amuraedo seouri natji",
+     "fr": "Possible, mais pour la vie culturelle, Séoul reste mieux",
+     "note": "-(으)ㄹ 수도 있다 = il se peut ; 낫다 = être meilleur."
+    },
+    {
+     "speaker": "A",
+     "ko": "하긴. 근데 경쟁이 너무 심해서 지치는 사람도 많아",
+     "roman": "hagin. geunde gyeongjaengi neomu simhaeseo jichineun saramdo mana",
+     "fr": "C'est vrai. Mais beaucoup s'épuisent à cause de la concurrence",
+     "note": "하긴 = « c'est vrai, remarque »."
+    },
+    {
+     "speaker": "B",
+     "ko": "그러니까 정부가 지방 균형 발전에 더 투자해야 한다고 생각해",
+     "roman": "geureonikka jeongbuga jibang gyunhyeong baljeone deo tujahaeya handago saenggakae",
+     "fr": "C'est pour ça que je pense que l'État doit investir dans un développement régional équilibré",
+     "note": "-다고 생각하다 = penser que."
+    },
+    {
+     "speaker": "A",
+     "ko": "동의해. 결국 정책이 문제인 것 같아",
+     "roman": "dongeuihae. gyeolguk jeongchaegi munjein geot gata",
+     "fr": "D'accord avec toi. Au fond, c'est un problème politique",
+     "note": "-인 것 같다 = il semble que c'est."
+    }
+   ]
+  }
+ ]
+}
