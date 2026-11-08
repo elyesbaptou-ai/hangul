@@ -1,0 +1,3109 @@
+{
+ "themes": [
+  {
+   "id": "ph_survival",
+   "nameFR": "Phrases de survie",
+   "icon": "bubble",
+   "colorHex": "#FF6B6B",
+   "words": [
+    {
+     "id": "x_ph_survival_001",
+     "hangul": "죄송합니다",
+     "romanization": "joesonghamnida",
+     "french": "Je suis désolé (formel)",
+     "level": 1,
+     "note": "Excuses sérieuses. 미안해요 est plus léger."
+    },
+    {
+     "id": "x_ph_survival_002",
+     "hangul": "다시 한번 말해 주세요",
+     "romanization": "dasi hanbeon malhae juseyo",
+     "french": "Pouvez-vous répéter ?",
+     "level": 1,
+     "note": "다시 = de nouveau, 한번 = une fois."
+    },
+    {
+     "id": "x_ph_survival_003",
+     "hangul": "한국어를 못해요",
+     "romanization": "hangugeoreul mothaeyo",
+     "french": "Je ne parle pas coréen",
+     "level": 1,
+     "note": "못 + verbe = « ne pas pouvoir ». 못해요 se prononce [모태요]."
+    },
+    {
+     "id": "x_ph_survival_004",
+     "hangul": "영어 할 수 있어요?",
+     "romanization": "yeongeo hal su isseoyo?",
+     "french": "Vous parlez anglais ?",
+     "level": 1,
+     "note": "-(으)ㄹ 수 있다 = pouvoir / savoir faire."
+    },
+    {
+     "id": "x_ph_survival_005",
+     "hangul": "이해가 안 돼요",
+     "romanization": "ihaega an dwaeyo",
+     "french": "Je ne comprends pas",
+     "level": 1,
+     "note": "Littéralement « la compréhension ne se fait pas »."
+    },
+    {
+     "id": "x_ph_survival_006",
+     "hangul": "화장실이 어디예요?",
+     "romanization": "hwajangsiri eodiyeyo?",
+     "french": "Où sont les toilettes ?",
+     "level": 1,
+     "note": "N이/가 어디예요? = « où est N ? ». 이 car 화장실 finit par une consonne."
+    },
+    {
+     "id": "x_ph_survival_007",
+     "hangul": "이거 뭐예요?",
+     "romanization": "igeo mwoyeyo?",
+     "french": "Qu'est-ce que c'est ?",
+     "level": 1,
+     "note": "이거 = ceci (près de moi), 그거 = cela (près de toi), 저거 = là-bas."
+    },
+    {
+     "id": "x_ph_survival_008",
+     "hangul": "얼마예요?",
+     "romanization": "eolmayeyo?",
+     "french": "C'est combien ?",
+     "level": 1,
+     "note": "-예요 après une voyelle, -이에요 après une consonne."
+    },
+    {
+     "id": "x_ph_survival_009",
+     "hangul": "도와주세요!",
+     "romanization": "dowajuseyo!",
+     "french": "Au secours ! / Aidez-moi !",
+     "level": 1,
+     "note": "돕다 (aider) + -아 주세요."
+    },
+    {
+     "id": "x_ph_survival_010",
+     "hangul": "경찰을 불러 주세요",
+     "romanization": "gyeongchareul bulleo juseyo",
+     "french": "Appelez la police",
+     "level": 2,
+     "note": "부르다 → 불러 : conjugaison irrégulière en 르."
+    },
+    {
+     "id": "x_ph_survival_011",
+     "hangul": "길을 잃었어요",
+     "romanization": "gireul ileosseoyo",
+     "french": "Je suis perdu",
+     "level": 2,
+     "note": "-었어요 = passé poli. 잃다 se prononce [일타]."
+    },
+    {
+     "id": "x_ph_survival_012",
+     "hangul": "배터리가 없어요",
+     "romanization": "baeteoriga eopseoyo",
+     "french": "Je n'ai plus de batterie",
+     "level": 1,
+     "note": "N이/가 없어요 = « il n'y a pas N / je n'ai pas N »."
+    },
+    {
+     "id": "x_ph_survival_013",
+     "hangul": "와이파이 비밀번호가 뭐예요?",
+     "romanization": "waipai bimilbeonhoga mwoyeyo?",
+     "french": "Quel est le mot de passe wifi ?",
+     "level": 2,
+     "note": "비밀 = secret, 번호 = numéro."
+    },
+    {
+     "id": "x_ph_survival_014",
+     "hangul": "네, 맞아요",
+     "romanization": "ne, majayo",
+     "french": "Oui, c'est ça",
+     "level": 1,
+     "note": "맞다 = être correct. Très fréquent pour approuver."
+    },
+    {
+     "id": "x_ph_survival_015",
+     "hangul": "아니요, 괜찮아요",
+     "romanization": "aniyo, gwaenchanayo",
+     "french": "Non merci, ça ira",
+     "level": 1,
+     "note": "Façon polie de refuser une offre."
+    },
+    {
+     "id": "x_ph_survival_016",
+     "hangul": "좋아요!",
+     "romanization": "joayo!",
+     "french": "D'accord ! / J'aime bien !",
+     "level": 1,
+     "note": "좋다 = être bien. 좋아요 sert aussi de « like »."
+    },
+    {
+     "id": "x_ph_survival_017",
+     "hangul": "알겠습니다",
+     "romanization": "algesseumnida",
+     "french": "Compris / Entendu",
+     "level": 1,
+     "note": "Formule formelle très courante au travail ou au restaurant."
+    }
+   ]
+  },
+  {
+   "id": "ph_intro",
+   "nameFR": "Se présenter",
+   "icon": "person.badge",
+   "colorHex": "#5856D6",
+   "words": [
+    {
+     "id": "x_ph_intro_001",
+     "hangul": "제 이름은 레아예요",
+     "romanization": "je ireumeun reayeyo",
+     "french": "Je m'appelle Léa",
+     "level": 1,
+     "note": "제 = mon (humble). 은/는 marque le thème de la phrase."
+    },
+    {
+     "id": "x_ph_intro_002",
+     "hangul": "저는 프랑스 사람이에요",
+     "romanization": "jeoneun peurangseu saramieyo",
+     "french": "Je suis français(e)",
+     "level": 1,
+     "note": "Pays + 사람 = personne de ce pays."
+    },
+    {
+     "id": "x_ph_intro_003",
+     "hangul": "저는 학생이에요",
+     "romanization": "jeoneun haksaengieyo",
+     "french": "Je suis étudiant(e)",
+     "level": 1,
+     "note": "-이에요 après consonne (학생 finit par ㅇ)."
+    },
+    {
+     "id": "x_ph_intro_004",
+     "hangul": "파리에서 왔어요",
+     "romanization": "parieseo wasseoyo",
+     "french": "Je viens de Paris",
+     "level": 1,
+     "note": "에서 = « de / depuis » avec un verbe de mouvement. 왔어요 = passé de 오다."
+    },
+    {
+     "id": "x_ph_intro_005",
+     "hangul": "몇 살이에요?",
+     "romanization": "myeot sarieyo?",
+     "french": "Quel âge as-tu ?",
+     "level": 1,
+     "note": "Avec les âges, on compte en nombres coréens natifs : 스무 살 = 20 ans."
+    },
+    {
+     "id": "x_ph_intro_006",
+     "hangul": "스물다섯 살이에요",
+     "romanization": "seumuldaseot sarieyo",
+     "french": "J'ai 25 ans",
+     "level": 2,
+     "note": "스물 (20) + 다섯 (5). Nombres natifs pour l'âge."
+    },
+    {
+     "id": "x_ph_intro_007",
+     "hangul": "이름이 뭐예요?",
+     "romanization": "ireumi mwoyeyo?",
+     "french": "Comment tu t'appelles ?",
+     "level": 1,
+     "note": "Version polie standard. Plus respectueux : 성함이 어떻게 되세요?"
+    },
+    {
+     "id": "x_ph_intro_008",
+     "hangul": "성함이 어떻게 되세요?",
+     "romanization": "seonghami eotteoke doeseyo?",
+     "french": "Quel est votre nom ? (honorifique)",
+     "level": 3,
+     "note": "성함 = nom (honorifique). 어떻게 되세요 adoucit la question."
+    },
+    {
+     "id": "x_ph_intro_009",
+     "hangul": "직업이 뭐예요?",
+     "romanization": "jigeobi mwoyeyo?",
+     "french": "Quel est ton métier ?",
+     "level": 2,
+     "note": "직업 = profession."
+    },
+    {
+     "id": "x_ph_intro_010",
+     "hangul": "회사에 다녀요",
+     "romanization": "hoesae danyeoyo",
+     "french": "Je travaille dans une entreprise",
+     "level": 2,
+     "note": "다니다 = fréquenter régulièrement (école, entreprise)."
+    },
+    {
+     "id": "x_ph_intro_011",
+     "hangul": "취미가 뭐예요?",
+     "romanization": "chwimiga mwoyeyo?",
+     "french": "Quel est ton loisir ?",
+     "level": 1,
+     "note": "Question classique pour lancer une conversation."
+    },
+    {
+     "id": "x_ph_intro_012",
+     "hangul": "제 취미는 음악 듣기예요",
+     "romanization": "je chwimineun eumak deutgiyeyo",
+     "french": "Mon loisir, c'est écouter de la musique",
+     "level": 2,
+     "note": "Verbe + -기 = nominalisation : 듣다 → 듣기 « le fait d'écouter »."
+    },
+    {
+     "id": "x_ph_intro_013",
+     "hangul": "한국어를 공부한 지 1년 됐어요",
+     "romanization": "hangugeoreul gongbuhan ji illyeon dwaesseoyo",
+     "french": "J'étudie le coréen depuis un an",
+     "level": 3,
+     "note": "-(으)ㄴ 지 + durée + 되다 = « ça fait … que »."
+    },
+    {
+     "id": "x_ph_intro_014",
+     "hangul": "서울에 살아요",
+     "romanization": "seoure sarayo",
+     "french": "J'habite à Séoul",
+     "level": 1,
+     "note": "에 = lieu d'existence avec 살다, 있다."
+    },
+    {
+     "id": "x_ph_intro_015",
+     "hangul": "가족이 네 명이에요",
+     "romanization": "gajogi ne myeongieyo",
+     "french": "Nous sommes quatre dans ma famille",
+     "level": 2,
+     "note": "명 = compteur pour les personnes ; 넷 devient 네 devant un compteur."
+    },
+    {
+     "id": "x_ph_intro_016",
+     "hangul": "형제가 있어요?",
+     "romanization": "hyeongjega isseoyo?",
+     "french": "Tu as des frères et sœurs ?",
+     "level": 2,
+     "note": "형제 = fratrie."
+    },
+    {
+     "id": "x_ph_intro_017",
+     "hangul": "저는 외동이에요",
+     "romanization": "jeoneun oedongieyo",
+     "french": "Je suis enfant unique",
+     "level": 3,
+     "note": "외동 = enfant unique."
+    },
+    {
+     "id": "x_ph_intro_018",
+     "hangul": "한국 드라마를 좋아해요",
+     "romanization": "hanguk deuramareul joahaeyo",
+     "french": "J'aime les dramas coréens",
+     "level": 1,
+     "note": "좋아하다 (aimer) prend 을/를 ; 좋다 (être bien) prend 이/가."
+    },
+    {
+     "id": "x_ph_intro_019",
+     "hangul": "잘 부탁드립니다",
+     "romanization": "jal butakdeurimnida",
+     "french": "Je compte sur vous",
+     "level": 2,
+     "note": "Formule de politesse sans équivalent français, dite en début de relation."
+    },
+    {
+     "id": "x_ph_intro_020",
+     "hangul": "연락처 좀 알려 주세요",
+     "romanization": "yeollakcheo jom allyeo juseyo",
+     "french": "Donnez-moi votre contact, svp",
+     "level": 3,
+     "note": "좀 adoucit la demande, comme « un peu »."
+    },
+    {
+     "id": "x_ph_intro_021",
+     "hangul": "카톡 해요?",
+     "romanization": "katok haeyo?",
+     "french": "Tu as KakaoTalk ?",
+     "level": 2,
+     "note": "카톡 = KakaoTalk, la messagerie utilisée par presque tous les Coréens."
+    },
+    {
+     "id": "x_ph_intro_022",
+     "hangul": "다음에 또 만나요",
+     "romanization": "daeume tto mannayo",
+     "french": "À la prochaine !",
+     "level": 1,
+     "note": "다음에 = la prochaine fois, 또 = encore."
+    },
+    {
+     "id": "x_ph_intro_023",
+     "hangul": "말 놓아도 돼요?",
+     "romanization": "mal noado dwaeyo?",
+     "french": "On peut se tutoyer ?",
+     "level": 3,
+     "note": "말을 놓다 = passer au langage familier (반말). -아도 되다 = avoir la permission."
+    }
+   ]
+  },
+  {
+   "id": "ph_food",
+   "nameFR": "Au restaurant & café",
+   "icon": "fork.knife",
+   "colorHex": "#FD79A8",
+   "words": [
+    {
+     "id": "x_ph_food_001",
+     "hangul": "메뉴판 좀 주세요",
+     "romanization": "menyupan jom juseyo",
+     "french": "Le menu, s'il vous plaît",
+     "level": 1,
+     "note": "N 주세요 = « donnez-moi N ». La demande la plus utile au restaurant."
+    },
+    {
+     "id": "x_ph_food_002",
+     "hangul": "여기요!",
+     "romanization": "yeogiyo!",
+     "french": "S'il vous plaît ! (pour appeler)",
+     "level": 1,
+     "note": "Littéralement « ici ! ». En Corée on appelle le serveur ainsi, c'est normal."
+    },
+    {
+     "id": "x_ph_food_003",
+     "hangul": "이거 하나 주세요",
+     "romanization": "igeo hana juseyo",
+     "french": "Un de ceci, s'il vous plaît",
+     "level": 1,
+     "note": "Pointer le menu + 이거 : parfait pour débuter. 하나 = un (natif)."
+    },
+    {
+     "id": "x_ph_food_004",
+     "hangul": "비빔밥 두 개 주세요",
+     "romanization": "bibimbap du gae juseyo",
+     "french": "Deux bibimbaps, svp",
+     "level": 1,
+     "note": "개 = compteur général d'objets. 둘 → 두 devant un compteur."
+    },
+    {
+     "id": "x_ph_food_005",
+     "hangul": "안 맵게 해 주세요",
+     "romanization": "an maepge hae juseyo",
+     "french": "Pas épicé, s'il vous plaît",
+     "level": 2,
+     "note": "Adjectif + -게 = adverbe : 맵다 → 맵게."
+    },
+    {
+     "id": "x_ph_food_006",
+     "hangul": "물은 셀프예요",
+     "romanization": "mureun selpeuyeyo",
+     "french": "L'eau, c'est en libre-service",
+     "level": 2,
+     "note": "Phrase affichée dans beaucoup de restaurants coréens."
+    },
+    {
+     "id": "x_ph_food_007",
+     "hangul": "고수 빼 주세요",
+     "romanization": "gosu ppae juseyo",
+     "french": "Sans coriandre, svp",
+     "level": 2,
+     "note": "빼다 = enlever."
+    },
+    {
+     "id": "x_ph_food_008",
+     "hangul": "포장해 주세요",
+     "romanization": "pojanghae juseyo",
+     "french": "À emporter, s'il vous plaît",
+     "level": 1,
+     "note": "포장 = emballage. Sur place : 여기서 먹을게요."
+    },
+    {
+     "id": "x_ph_food_009",
+     "hangul": "여기서 먹을게요",
+     "romanization": "yeogiseo meogeulgeyo",
+     "french": "Je mange sur place",
+     "level": 2,
+     "note": "-(으)ㄹ게요 = « je vais … » (promesse / décision qui concerne l'interlocuteur)."
+    },
+    {
+     "id": "x_ph_food_010",
+     "hangul": "아이스 아메리카노 한 잔 주세요",
+     "romanization": "aiseu amerikano han jan juseyo",
+     "french": "Un americano glacé, svp",
+     "level": 1,
+     "note": "잔 = compteur pour les verres / tasses."
+    },
+    {
+     "id": "x_ph_food_011",
+     "hangul": "카드 돼요?",
+     "romanization": "kadeu dwaeyo?",
+     "french": "Vous prenez la carte ?",
+     "level": 1,
+     "note": "N 돼요? = « N, c'est possible ? »."
+    },
+    {
+     "id": "x_ph_food_012",
+     "hangul": "따로 계산할게요",
+     "romanization": "ttaro gyesanhalgeyo",
+     "french": "On paie séparément",
+     "level": 2,
+     "note": "따로 = séparément. Ensemble : 같이."
+    },
+    {
+     "id": "x_ph_food_013",
+     "hangul": "정말 맛있어요!",
+     "romanization": "jeongmal masisseoyo!",
+     "french": "C'est vraiment délicieux !",
+     "level": 1,
+     "note": "맛 (goût) + 있다 = délicieux ; 맛없다 = pas bon."
+    },
+    {
+     "id": "x_ph_food_014",
+     "hangul": "배불러요",
+     "romanization": "baebulleoyo",
+     "french": "Je n'ai plus faim / Je suis rassasié",
+     "level": 2,
+     "note": "배부르다, irrégulier en 르 → 배불러요."
+    },
+    {
+     "id": "x_ph_food_015",
+     "hangul": "예약했어요",
+     "romanization": "yeyakaesseoyo",
+     "french": "J'ai réservé",
+     "level": 2,
+     "note": "예약하다 = réserver. ㄱ+ㅎ se prononce [ㅋ]."
+    },
+    {
+     "id": "x_ph_food_016",
+     "hangul": "몇 분이세요?",
+     "romanization": "myeot buniseyo?",
+     "french": "Vous êtes combien ?",
+     "level": 2,
+     "note": "분 = compteur honorifique pour les personnes. Réponse : 두 명이요."
+    },
+    {
+     "id": "x_ph_food_017",
+     "hangul": "반찬 더 주세요",
+     "romanization": "banchan deo juseyo",
+     "french": "Encore des accompagnements, svp",
+     "level": 2,
+     "note": "Les 반찬 sont gratuits et resservis à volonté."
+    },
+    {
+     "id": "x_ph_food_018",
+     "hangul": "맥주 한 병 더 주세요",
+     "romanization": "maekju han byeong deo juseyo",
+     "french": "Encore une bouteille de bière, svp",
+     "level": 2,
+     "note": "병 = compteur pour les bouteilles."
+    },
+    {
+     "id": "x_ph_food_019",
+     "hangul": "건배!",
+     "romanization": "geonbae!",
+     "french": "Santé !",
+     "level": 1,
+     "note": "On sert les aînés à deux mains et on détourne la tête pour boire."
+    },
+    {
+     "id": "x_ph_food_020",
+     "hangul": "덜 달게 해 주세요",
+     "romanization": "deol dalge hae juseyo",
+     "french": "Moins sucré, s'il vous plaît",
+     "level": 3,
+     "note": "덜 = moins. 더 = plus."
+    },
+    {
+     "id": "x_ph_food_021",
+     "hangul": "알레르기가 있어요",
+     "romanization": "allereugiga isseoyo",
+     "french": "J'ai une allergie",
+     "level": 2,
+     "note": "Ajoute l'aliment : 땅콩 알레르기 = allergie aux cacahuètes."
+    }
+   ]
+  },
+  {
+   "id": "ph_travel",
+   "nameFR": "Transports & directions",
+   "icon": "airplane",
+   "colorHex": "#0984E3",
+   "words": [
+    {
+     "id": "x_ph_travel_001",
+     "hangul": "지하철역이 어디예요?",
+     "romanization": "jihacheollyeogi eodiyeyo?",
+     "french": "Où est la station de métro ?",
+     "level": 1,
+     "note": "역 = station. 지하철 + 역 se prononce [지하철력]."
+    },
+    {
+     "id": "x_ph_travel_002",
+     "hangul": "여기서 멀어요?",
+     "romanization": "yeogiseo meoreoyo?",
+     "french": "C'est loin d'ici ?",
+     "level": 1,
+     "note": "멀다 = être loin ; 가깝다 = être proche."
+    },
+    {
+     "id": "x_ph_travel_003",
+     "hangul": "걸어서 10분 걸려요",
+     "romanization": "georeoseo sipbun geollyeoyo",
+     "french": "C'est à 10 minutes à pied",
+     "level": 2,
+     "note": "걸리다 = prendre (du temps). Minutes en nombres sino-coréens."
+    },
+    {
+     "id": "x_ph_travel_004",
+     "hangul": "똑바로 가세요",
+     "romanization": "ttokbaro gaseyo",
+     "french": "Allez tout droit",
+     "level": 1,
+     "note": "-(으)세요 = impératif poli."
+    },
+    {
+     "id": "x_ph_travel_005",
+     "hangul": "오른쪽으로 도세요",
+     "romanization": "oreunjjogeuro doseyo",
+     "french": "Tournez à droite",
+     "level": 2,
+     "note": "(으)로 = direction. 왼쪽 = gauche."
+    },
+    {
+     "id": "x_ph_travel_006",
+     "hangul": "이 버스 명동에 가요?",
+     "romanization": "i beoseu myeongdonge gayo?",
+     "french": "Ce bus va à Myeongdong ?",
+     "level": 1,
+     "note": "에 + 가다 = aller à."
+    },
+    {
+     "id": "x_ph_travel_007",
+     "hangul": "어디에서 갈아타요?",
+     "romanization": "eodieseo garatayo?",
+     "french": "Où est-ce que je change ?",
+     "level": 2,
+     "note": "갈아타다 = changer (de ligne)."
+    },
+    {
+     "id": "x_ph_travel_008",
+     "hangul": "다음 역은 서울역입니다",
+     "romanization": "daeum yeogeun seoullyeogimnida",
+     "french": "Prochaine station : Séoul",
+     "level": 2,
+     "note": "Annonce typique du métro (forme formelle -입니다)."
+    },
+    {
+     "id": "x_ph_travel_009",
+     "hangul": "택시 좀 불러 주세요",
+     "romanization": "taeksi jom bulleo juseyo",
+     "french": "Appelez-moi un taxi, svp",
+     "level": 2,
+     "note": "부르다 → 불러."
+    },
+    {
+     "id": "x_ph_travel_010",
+     "hangul": "이 주소로 가 주세요",
+     "romanization": "i jusoro ga juseyo",
+     "french": "À cette adresse, s'il vous plaît",
+     "level": 1,
+     "note": "À dire au chauffeur en montrant le téléphone."
+    },
+    {
+     "id": "x_ph_travel_011",
+     "hangul": "여기서 세워 주세요",
+     "romanization": "yeogiseo sewo juseyo",
+     "french": "Arrêtez-vous ici, svp",
+     "level": 2,
+     "note": "세우다 = arrêter (un véhicule)."
+    },
+    {
+     "id": "x_ph_travel_012",
+     "hangul": "표 한 장 주세요",
+     "romanization": "pyo han jang juseyo",
+     "french": "Un billet, s'il vous plaît",
+     "level": 1,
+     "note": "장 = compteur pour les objets plats (billets, feuilles)."
+    },
+    {
+     "id": "x_ph_travel_013",
+     "hangul": "교통카드 충전해 주세요",
+     "romanization": "gyotongkadeu chungjeonhae juseyo",
+     "french": "Rechargez ma carte de transport",
+     "level": 2,
+     "note": "T-money est la carte de transport la plus répandue."
+    },
+    {
+     "id": "x_ph_travel_014",
+     "hangul": "체크인하고 싶어요",
+     "romanization": "chekeuinhago sipeoyo",
+     "french": "Je voudrais m'enregistrer",
+     "level": 2,
+     "note": "-고 싶다 = vouloir faire."
+    },
+    {
+     "id": "x_ph_travel_015",
+     "hangul": "방 열쇠를 잃어버렸어요",
+     "romanization": "bang yeolsoereul ireobeoryeosseoyo",
+     "french": "J'ai perdu la clé de la chambre",
+     "level": 3,
+     "note": "-아/어 버리다 = action complètement accomplie, souvent avec regret."
+    },
+    {
+     "id": "x_ph_travel_016",
+     "hangul": "공항까지 얼마나 걸려요?",
+     "romanization": "gonghangkkaji eolmana geollyeoyo?",
+     "french": "Il faut combien de temps jusqu'à l'aéroport ?",
+     "level": 2,
+     "note": "까지 = jusqu'à ; 부터 = à partir de."
+    },
+    {
+     "id": "x_ph_travel_017",
+     "hangul": "비행기가 연착됐어요",
+     "romanization": "bihaenggiga yeonchakdwaesseoyo",
+     "french": "L'avion est en retard",
+     "level": 3,
+     "note": "연착 = arrivée retardée."
+    },
+    {
+     "id": "x_ph_travel_018",
+     "hangul": "짐을 맡길 수 있어요?",
+     "romanization": "jimeul matgil su isseoyo?",
+     "french": "Je peux laisser mes bagages ?",
+     "level": 3,
+     "note": "맡기다 = confier."
+    },
+    {
+     "id": "x_ph_travel_019",
+     "hangul": "여권을 보여 주세요",
+     "romanization": "yeogwoneul boyeo juseyo",
+     "french": "Montrez votre passeport",
+     "level": 2,
+     "note": "보이다 = montrer → 보여 주다."
+    },
+    {
+     "id": "x_ph_travel_020",
+     "hangul": "지도 좀 보여 주세요",
+     "romanization": "jido jom boyeo juseyo",
+     "french": "Montrez-moi sur la carte, svp",
+     "level": 2,
+     "note": "Pratique quand on ne comprend pas les directions."
+    },
+    {
+     "id": "x_ph_travel_021",
+     "hangul": "막차가 몇 시예요?",
+     "romanization": "makchaga myeot siyeyo?",
+     "french": "À quelle heure est le dernier train ?",
+     "level": 3,
+     "note": "막차 = dernier transport de la journée ; 첫차 = premier."
+    },
+    {
+     "id": "x_ph_travel_022",
+     "hangul": "길이 많이 막혀요",
+     "romanization": "giri mani makyeoyo",
+     "french": "Il y a beaucoup de bouchons",
+     "level": 2,
+     "note": "막히다 = être bouché."
+    },
+    {
+     "id": "x_ph_travel_023",
+     "hangul": "창가 자리로 주세요",
+     "romanization": "changga jariro juseyo",
+     "french": "Une place côté fenêtre, svp",
+     "level": 2,
+     "note": "통로 = couloir."
+    },
+    {
+     "id": "x_ph_travel_024",
+     "hangul": "몇 번 출구로 나가요?",
+     "romanization": "myeot beon chulguro nagayo?",
+     "french": "Je sors par quelle sortie ?",
+     "level": 2,
+     "note": "Les sorties du métro sont numérotées (출구)."
+    },
+    {
+     "id": "x_ph_travel_025",
+     "hangul": "여기 처음 와 봤어요",
+     "romanization": "yeogi cheoeum wa bwasseoyo",
+     "french": "C'est la première fois que je viens ici",
+     "level": 3,
+     "note": "-아/어 보다 = essayer / faire l'expérience de."
+    }
+   ]
+  },
+  {
+   "id": "ph_shopping",
+   "nameFR": "Phrases pour le shopping",
+   "icon": "bag.fill",
+   "colorHex": "#E84393",
+   "words": [
+    {
+     "id": "x_ph_shopping_001",
+     "hangul": "그냥 구경하는 거예요",
+     "romanization": "geunyang gugyeonghaneun geoyeyo",
+     "french": "Je regarde seulement",
+     "level": 2,
+     "note": "구경하다 = regarder, visiter. -는 거예요 explique la situation."
+    },
+    {
+     "id": "x_ph_shopping_002",
+     "hangul": "입어 봐도 돼요?",
+     "romanization": "ibeo bwado dwaeyo?",
+     "french": "Je peux l'essayer ?",
+     "level": 2,
+     "note": "-아/어 보다 (essayer) + -아/어도 되다 (permission)."
+    },
+    {
+     "id": "x_ph_shopping_003",
+     "hangul": "다른 색깔 있어요?",
+     "romanization": "dareun saekkal isseoyo?",
+     "french": "Vous l'avez dans une autre couleur ?",
+     "level": 1,
+     "note": "다르다 → 다른 = autre."
+    },
+    {
+     "id": "x_ph_shopping_004",
+     "hangul": "더 큰 사이즈 있어요?",
+     "romanization": "deo keun saijeu isseoyo?",
+     "french": "Vous avez plus grand ?",
+     "level": 2,
+     "note": "크다 → 큰 (adjectif devant un nom). Plus petit : 더 작은."
+    },
+    {
+     "id": "x_ph_shopping_005",
+     "hangul": "너무 비싸요",
+     "romanization": "neomu bissayo",
+     "french": "C'est trop cher",
+     "level": 1,
+     "note": "너무 = trop (aussi « très » à l'oral)."
+    },
+    {
+     "id": "x_ph_shopping_006",
+     "hangul": "좀 깎아 주세요",
+     "romanization": "jom kkakka juseyo",
+     "french": "Faites-moi un prix, svp",
+     "level": 2,
+     "note": "깎다 = raboter, baisser un prix. Ça marche au marché, pas en magasin."
+    },
+    {
+     "id": "x_ph_shopping_007",
+     "hangul": "이걸로 할게요",
+     "romanization": "igeollo halgeyo",
+     "french": "Je prends celui-ci",
+     "level": 2,
+     "note": "이것 + (으)로 = « avec ceci », -(으)ㄹ게요 = décision."
+    },
+    {
+     "id": "x_ph_shopping_008",
+     "hangul": "봉투 필요하세요?",
+     "romanization": "bongtu piryohaseyo?",
+     "french": "Il vous faut un sac ?",
+     "level": 2,
+     "note": "Les sacs plastiques sont payants : 봉투 주세요 si tu en veux un."
+    },
+    {
+     "id": "x_ph_shopping_009",
+     "hangul": "영수증 주세요",
+     "romanization": "yeongsujeung juseyo",
+     "french": "Le ticket de caisse, svp",
+     "level": 1,
+     "note": "영수증 = reçu."
+    },
+    {
+     "id": "x_ph_shopping_010",
+     "hangul": "환불할 수 있어요?",
+     "romanization": "hwanbulhal su isseoyo?",
+     "french": "Je peux être remboursé ?",
+     "level": 3,
+     "note": "환불 = remboursement ; 교환 = échange."
+    },
+    {
+     "id": "x_ph_shopping_011",
+     "hangul": "교환하고 싶어요",
+     "romanization": "gyohwanhago sipeoyo",
+     "french": "Je voudrais l'échanger",
+     "level": 3,
+     "note": "-고 싶어요 = je voudrais."
+    },
+    {
+     "id": "x_ph_shopping_012",
+     "hangul": "세일 중이에요?",
+     "romanization": "seil jungieyo?",
+     "french": "C'est en solde ?",
+     "level": 2,
+     "note": "N 중 = en cours de N."
+    },
+    {
+     "id": "x_ph_shopping_013",
+     "hangul": "면세 돼요?",
+     "romanization": "myeonse dwaeyo?",
+     "french": "C'est détaxé ?",
+     "level": 3,
+     "note": "Les touristes peuvent faire détaxer leurs achats (택스 리펀)."
+    },
+    {
+     "id": "x_ph_shopping_014",
+     "hangul": "선물용으로 포장해 주세요",
+     "romanization": "seonmullyongeuro pojanghae juseyo",
+     "french": "Un paquet cadeau, svp",
+     "level": 3,
+     "note": "-용 = destiné à : 선물용 = pour cadeau."
+    },
+    {
+     "id": "x_ph_shopping_015",
+     "hangul": "현금으로 할게요",
+     "romanization": "hyeongeumeuro halgeyo",
+     "french": "Je paie en liquide",
+     "level": 2,
+     "note": "(으)로 = moyen."
+    },
+    {
+     "id": "x_ph_shopping_016",
+     "hangul": "이거 얼마예요?",
+     "romanization": "igeo eolmayeyo?",
+     "french": "Combien coûte ceci ?",
+     "level": 1,
+     "note": "Réponse type : 만 원이에요 (10 000 wons)."
+    },
+    {
+     "id": "x_ph_shopping_017",
+     "hangul": "만 원이에요",
+     "romanization": "man wonieyo",
+     "french": "Ça fait 10 000 wons",
+     "level": 1,
+     "note": "Les grands nombres se comptent par 만 (10 000) en coréen."
+    },
+    {
+     "id": "x_ph_shopping_018",
+     "hangul": "품절이에요",
+     "romanization": "pumjeorieyo",
+     "french": "C'est en rupture de stock",
+     "level": 3,
+     "note": "품절 = épuisé."
+    },
+    {
+     "id": "x_ph_shopping_019",
+     "hangul": "잘 어울려요",
+     "romanization": "jal eoullyeoyo",
+     "french": "Ça te va bien",
+     "level": 2,
+     "note": "어울리다 = aller bien ensemble."
+    },
+    {
+     "id": "x_ph_shopping_020",
+     "hangul": "좀 작아요",
+     "romanization": "jom jagayo",
+     "french": "C'est un peu petit",
+     "level": 1,
+     "note": "작다 = petit, 크다 = grand."
+    },
+    {
+     "id": "x_ph_shopping_021",
+     "hangul": "피팅룸이 어디예요?",
+     "romanization": "pitingrumi eodiyeyo?",
+     "french": "Où est la cabine d'essayage ?",
+     "level": 2,
+     "note": "On dit aussi 탈의실."
+    },
+    {
+     "id": "x_ph_shopping_022",
+     "hangul": "한 개 더 사면 할인돼요?",
+     "romanization": "han gae deo samyeon harindwaeyo?",
+     "french": "Une réduction si j'en prends un de plus ?",
+     "level": 3,
+     "note": "-(으)면 = si."
+    },
+    {
+     "id": "x_ph_shopping_023",
+     "hangul": "원 플러스 원이에요",
+     "romanization": "won peulleoseu wonieyo",
+     "french": "Un acheté, un offert",
+     "level": 2,
+     "note": "« 1+1 » : promotion très courante dans les supérettes."
+    },
+    {
+     "id": "x_ph_shopping_024",
+     "hangul": "배송비가 얼마예요?",
+     "romanization": "baesongbiga eolmayeyo?",
+     "french": "Combien coûte la livraison ?",
+     "level": 3,
+     "note": "배송 = livraison, 비 = frais."
+    }
+   ]
+  },
+  {
+   "id": "ph_daily",
+   "nameFR": "Vie quotidienne",
+   "icon": "house.fill",
+   "colorHex": "#00B894",
+   "words": [
+    {
+     "id": "x_ph_daily_001",
+     "hangul": "보통 일곱 시에 일어나요",
+     "romanization": "botong ilgop sie ireonayo",
+     "french": "Je me lève d'habitude à 7 h",
+     "level": 2,
+     "note": "Heures en nombres natifs (일곱 시), minutes en sino-coréen (십 분)."
+    },
+    {
+     "id": "x_ph_daily_002",
+     "hangul": "아침을 안 먹어요",
+     "romanization": "achimeul an meogeoyo",
+     "french": "Je ne prends pas de petit-déjeuner",
+     "level": 1,
+     "note": "안 + verbe = négation simple. 아침 = matin et petit-déjeuner."
+    },
+    {
+     "id": "x_ph_daily_003",
+     "hangul": "오늘 날씨가 좋네요",
+     "romanization": "oneul nalssiga jonneyo",
+     "french": "Il fait beau aujourd'hui",
+     "level": 2,
+     "note": "-네요 = constat, petite surprise. 좋네요 se prononce [존네요]."
+    },
+    {
+     "id": "x_ph_daily_004",
+     "hangul": "비가 올 것 같아요",
+     "romanization": "biga ol geot gatayo",
+     "french": "On dirait qu'il va pleuvoir",
+     "level": 3,
+     "note": "-(으)ㄹ 것 같다 = « il semble que … va »."
+    },
+    {
+     "id": "x_ph_daily_005",
+     "hangul": "주말에 뭐 해요?",
+     "romanization": "jumare mwo haeyo?",
+     "french": "Tu fais quoi ce week-end ?",
+     "level": 1,
+     "note": "Le présent sert aussi pour le futur proche."
+    },
+    {
+     "id": "x_ph_daily_006",
+     "hangul": "친구를 만날 거예요",
+     "romanization": "chingureul mannal geoyeyo",
+     "french": "Je vais voir un ami",
+     "level": 2,
+     "note": "-(으)ㄹ 거예요 = futur. 만나다 prend 을/를."
+    },
+    {
+     "id": "x_ph_daily_007",
+     "hangul": "집에서 쉬고 싶어요",
+     "romanization": "jibeseo swigo sipeoyo",
+     "french": "Je veux me reposer à la maison",
+     "level": 2,
+     "note": "에서 = lieu d'une action (≠ 에 = lieu d'existence)."
+    },
+    {
+     "id": "x_ph_daily_008",
+     "hangul": "요즘 너무 바빠요",
+     "romanization": "yojeum neomu bappayo",
+     "french": "Je suis très occupé ces temps-ci",
+     "level": 2,
+     "note": "바쁘다 → 바빠요 (ㅡ tombe)."
+    },
+    {
+     "id": "x_ph_daily_009",
+     "hangul": "같이 영화 볼래요?",
+     "romanization": "gachi yeonghwa bollaeyo?",
+     "french": "On va voir un film ensemble ?",
+     "level": 2,
+     "note": "-(으)ㄹ래요? = proposition / « tu veux … ? »."
+    },
+    {
+     "id": "x_ph_daily_010",
+     "hangul": "몇 시에 만날까요?",
+     "romanization": "myeot sie mannalkkayo?",
+     "french": "On se voit à quelle heure ?",
+     "level": 2,
+     "note": "-(으)ㄹ까요? = « et si on … ? », demande l'avis."
+    },
+    {
+     "id": "x_ph_daily_011",
+     "hangul": "조금 늦을 것 같아요",
+     "romanization": "jogeum neujeul geot gatayo",
+     "french": "Je crois que je vais être un peu en retard",
+     "level": 3,
+     "note": "늦다 = être en retard."
+    },
+    {
+     "id": "x_ph_daily_012",
+     "hangul": "먼저 가세요",
+     "romanization": "meonjeo gaseyo",
+     "french": "Allez-y d'abord",
+     "level": 2,
+     "note": "먼저 = d'abord, avant."
+    },
+    {
+     "id": "x_ph_daily_013",
+     "hangul": "청소해야 돼요",
+     "romanization": "cheongsohaeya dwaeyo",
+     "french": "Je dois faire le ménage",
+     "level": 2,
+     "note": "-아/어야 되다 = devoir."
+    },
+    {
+     "id": "x_ph_daily_014",
+     "hangul": "빨래를 했어요",
+     "romanization": "ppallaereul haesseoyo",
+     "french": "J'ai fait la lessive",
+     "level": 2,
+     "note": "빨래 = linge, lessive."
+    },
+    {
+     "id": "x_ph_daily_015",
+     "hangul": "샤워하고 잘게요",
+     "romanization": "syawohago jalgeyo",
+     "french": "Je prends ma douche et je vais dormir",
+     "level": 2,
+     "note": "-고 = « et puis » (actions successives)."
+    },
+    {
+     "id": "x_ph_daily_016",
+     "hangul": "지금 몇 시예요?",
+     "romanization": "jigeum myeot siyeyo?",
+     "french": "Quelle heure est-il ?",
+     "level": 1,
+     "note": "몇 = combien, 시 = heure."
+    },
+    {
+     "id": "x_ph_daily_017",
+     "hangul": "배달 시킬까요?",
+     "romanization": "baedal sikilkkayo?",
+     "french": "On se fait livrer ?",
+     "level": 2,
+     "note": "배달 = livraison, la Corée livre presque tout."
+    },
+    {
+     "id": "x_ph_daily_018",
+     "hangul": "운동하러 가요",
+     "romanization": "undonghareo gayo",
+     "french": "Je vais faire du sport",
+     "level": 2,
+     "note": "-(으)러 가다 = aller (pour) faire."
+    },
+    {
+     "id": "x_ph_daily_019",
+     "hangul": "밥 먹었어요?",
+     "romanization": "bap meogeosseoyo?",
+     "french": "Tu as mangé ?",
+     "level": 1,
+     "note": "Sert aussi de « ça va ? » en Corée."
+    },
+    {
+     "id": "x_ph_daily_020",
+     "hangul": "감기에 걸렸어요",
+     "romanization": "gamgie geollyeosseoyo",
+     "french": "J'ai attrapé un rhume",
+     "level": 2,
+     "note": "감기에 걸리다 = attraper un rhume."
+    },
+    {
+     "id": "x_ph_daily_021",
+     "hangul": "엄마한테 전화할게요",
+     "romanization": "eommahante jeonhwahalgeyo",
+     "french": "Je vais appeler maman",
+     "level": 2,
+     "note": "한테 = à (une personne), oral. Écrit : 에게."
+    },
+    {
+     "id": "x_ph_daily_022",
+     "hangul": "벌써 열두 시네요",
+     "romanization": "beolsseo yeoldu sineyo",
+     "french": "Il est déjà minuit",
+     "level": 3,
+     "note": "벌써 = déjà. -네요 = constat."
+    }
+   ]
+  },
+  {
+   "id": "ph_feelings",
+   "nameFR": "Opinions & émotions",
+   "icon": "heart.fill",
+   "colorHex": "#D63031",
+   "words": [
+    {
+     "id": "x_ph_feelings_001",
+     "hangul": "제 생각에는 좋은 것 같아요",
+     "romanization": "je saenggageneun joeun geot gatayo",
+     "french": "À mon avis, c'est bien",
+     "level": 3,
+     "note": "-(으)ㄴ 것 같다 adoucit une opinion, très coréen."
+    },
+    {
+     "id": "x_ph_feelings_002",
+     "hangul": "정말 기뻐요",
+     "romanization": "jeongmal gippeoyo",
+     "french": "Je suis vraiment heureux",
+     "level": 2,
+     "note": "기쁘다 → 기뻐요."
+    },
+    {
+     "id": "x_ph_feelings_003",
+     "hangul": "너무 슬퍼요",
+     "romanization": "neomu seulpeoyo",
+     "french": "Je suis très triste",
+     "level": 2,
+     "note": "슬프다 → 슬퍼요."
+    },
+    {
+     "id": "x_ph_feelings_004",
+     "hangul": "화가 났어요",
+     "romanization": "hwaga nasseoyo",
+     "french": "Je me suis énervé",
+     "level": 2,
+     "note": "화(가) 나다 = la colère surgit."
+    },
+    {
+     "id": "x_ph_feelings_005",
+     "hangul": "걱정하지 마세요",
+     "romanization": "geokjeonghaji maseyo",
+     "french": "Ne vous inquiétez pas",
+     "level": 2,
+     "note": "-지 마세요 = « ne … pas » (interdiction polie)."
+    },
+    {
+     "id": "x_ph_feelings_006",
+     "hangul": "긴장돼요",
+     "romanization": "ginjangdwaeyo",
+     "french": "Je suis stressé / nerveux",
+     "level": 3,
+     "note": "긴장 = tension."
+    },
+    {
+     "id": "x_ph_feelings_007",
+     "hangul": "그럴 줄 알았어요",
+     "romanization": "geureol jul arasseoyo",
+     "french": "Je le savais",
+     "level": 3,
+     "note": "-(으)ㄹ 줄 알다 = s'attendre à / savoir que."
+    },
+    {
+     "id": "x_ph_feelings_008",
+     "hangul": "진짜요?",
+     "romanization": "jinjjayo?",
+     "french": "Vraiment ?",
+     "level": 1,
+     "note": "진짜 = vrai ; très oral."
+    },
+    {
+     "id": "x_ph_feelings_009",
+     "hangul": "대박!",
+     "romanization": "daebak!",
+     "french": "Génial ! / Énorme !",
+     "level": 1,
+     "note": "Argot très courant pour une grosse surprise."
+    },
+    {
+     "id": "x_ph_feelings_010",
+     "hangul": "말도 안 돼요",
+     "romanization": "maldo an dwaeyo",
+     "french": "C'est impossible / N'importe quoi",
+     "level": 2,
+     "note": "Littéralement « même les mots ne marchent pas »."
+    },
+    {
+     "id": "x_ph_feelings_011",
+     "hangul": "저도 그렇게 생각해요",
+     "romanization": "jeodo geureoke saenggakaeyo",
+     "french": "Je pense pareil",
+     "level": 2,
+     "note": "도 = aussi. 그렇게 = ainsi."
+    },
+    {
+     "id": "x_ph_feelings_012",
+     "hangul": "저는 좀 다르게 생각해요",
+     "romanization": "jeoneun jom dareuge saenggakaeyo",
+     "french": "Je vois les choses un peu différemment",
+     "level": 3,
+     "note": "좀 adoucit le désaccord : très important en coréen."
+    },
+    {
+     "id": "x_ph_feelings_013",
+     "hangul": "그건 좀 아닌 것 같아요",
+     "romanization": "geugeon jom anin geot gatayo",
+     "french": "Je ne crois pas que ce soit une bonne idée",
+     "level": 3,
+     "note": "Manière indirecte et polie de dire non."
+    },
+    {
+     "id": "x_ph_feelings_014",
+     "hangul": "기대돼요!",
+     "romanization": "gidaedwaeyo!",
+     "french": "J'ai hâte !",
+     "level": 2,
+     "note": "기대 = attente, espoir."
+    },
+    {
+     "id": "x_ph_feelings_015",
+     "hangul": "심심해요",
+     "romanization": "simsimhaeyo",
+     "french": "Je m'ennuie",
+     "level": 2,
+     "note": "Aussi pour un plat fade."
+    },
+    {
+     "id": "x_ph_feelings_016",
+     "hangul": "부러워요",
+     "romanization": "bureowoyo",
+     "french": "Je suis jaloux (envieux)",
+     "level": 2,
+     "note": "부럽다, irrégulier en ㅂ → 부러워요."
+    },
+    {
+     "id": "x_ph_feelings_017",
+     "hangul": "창피해요",
+     "romanization": "changpihaeyo",
+     "french": "J'ai honte / C'est gênant",
+     "level": 3,
+     "note": "부끄럽다 = être timide, gêné."
+    },
+    {
+     "id": "x_ph_feelings_018",
+     "hangul": "속상해요",
+     "romanization": "soksanghaeyo",
+     "french": "Ça me fait de la peine",
+     "level": 3,
+     "note": "Peine mêlée de frustration ; pas de vrai équivalent français."
+    },
+    {
+     "id": "x_ph_feelings_019",
+     "hangul": "마음에 들어요",
+     "romanization": "maeume deureoyo",
+     "french": "Ça me plaît",
+     "level": 2,
+     "note": "마음에 들다 = entrer dans le cœur."
+    },
+    {
+     "id": "x_ph_feelings_020",
+     "hangul": "어쩔 수 없죠",
+     "romanization": "eojjeol su eopjyo",
+     "french": "On n'y peut rien",
+     "level": 3,
+     "note": "-죠 = « n'est-ce pas », cherche l'accord."
+    },
+    {
+     "id": "x_ph_feelings_021",
+     "hangul": "다행이에요",
+     "romanization": "dahaengieyo",
+     "french": "Heureusement / Tant mieux",
+     "level": 2,
+     "note": "다행 = chance, soulagement."
+    },
+    {
+     "id": "x_ph_feelings_022",
+     "hangul": "힘내세요!",
+     "romanization": "himnaeseyo!",
+     "french": "Courage !",
+     "level": 1,
+     "note": "힘 = force + 내다 = sortir. Entre amis : 힘내!"
+    },
+    {
+     "id": "x_ph_feelings_023",
+     "hangul": "감동받았어요",
+     "romanization": "gamdongbadasseoyo",
+     "french": "J'ai été très touché",
+     "level": 3,
+     "note": "감동 = émotion forte, 받다 = recevoir."
+    }
+   ]
+  },
+  {
+   "id": "ph_grammar",
+   "nameFR": "Grammaire en phrases",
+   "icon": "textformat",
+   "colorHex": "#8E44AD",
+   "words": [
+    {
+     "id": "x_ph_grammar_001",
+     "hangul": "저는 커피를 마셔요",
+     "romanization": "jeoneun keopireul masyeoyo",
+     "french": "Je bois du café",
+     "level": 1,
+     "note": "Ordre Sujet-Objet-Verbe : le verbe est toujours à la fin."
+    },
+    {
+     "id": "x_ph_grammar_002",
+     "hangul": "고양이가 의자 위에 있어요",
+     "romanization": "goyangiga uija wie isseoyo",
+     "french": "Le chat est sur la chaise",
+     "level": 1,
+     "note": "N 위에 = sur N. Aussi 아래 (sous), 옆 (à côté), 안 (dans)."
+    },
+    {
+     "id": "x_ph_grammar_003",
+     "hangul": "도서관에서 공부해요",
+     "romanization": "doseogwaneseo gongbuhaeyo",
+     "french": "J'étudie à la bibliothèque",
+     "level": 1,
+     "note": "에서 = lieu où se déroule l'action."
+    },
+    {
+     "id": "x_ph_grammar_004",
+     "hangul": "어제 친구를 만났어요",
+     "romanization": "eoje chingureul mannasseoyo",
+     "french": "J'ai vu un ami hier",
+     "level": 2,
+     "note": "Passé : radical + -았/었어요. 만나 + 았 → 만났어요."
+    },
+    {
+     "id": "x_ph_grammar_005",
+     "hangul": "내일 비가 올 거예요",
+     "romanization": "naeil biga ol geoyeyo",
+     "french": "Il pleuvra demain",
+     "level": 2,
+     "note": "Futur : -(으)ㄹ 거예요."
+    },
+    {
+     "id": "x_ph_grammar_006",
+     "hangul": "사과하고 바나나를 샀어요",
+     "romanization": "sagwahago bananareul sasseoyo",
+     "french": "J'ai acheté des pommes et des bananes",
+     "level": 2,
+     "note": "하고 = et (entre noms), oral. Écrit : 와/과."
+    },
+    {
+     "id": "x_ph_grammar_007",
+     "hangul": "비가 와서 집에 있었어요",
+     "romanization": "biga waseo jibe isseosseoyo",
+     "french": "Il pleuvait, donc je suis resté à la maison",
+     "level": 2,
+     "note": "-아서/어서 = cause → conséquence (jamais avec un impératif)."
+    },
+    {
+     "id": "x_ph_grammar_008",
+     "hangul": "시간이 있으면 같이 가요",
+     "romanization": "sigani isseumyeon gachi gayo",
+     "french": "Si tu as le temps, allons-y ensemble",
+     "level": 2,
+     "note": "-(으)면 = si (condition)."
+    },
+    {
+     "id": "x_ph_grammar_009",
+     "hangul": "먹고 싶지만 다이어트 중이에요",
+     "romanization": "meokgo sipjiman daieoteu jungieyo",
+     "french": "J'ai envie d'en manger mais je suis au régime",
+     "level": 3,
+     "note": "-지만 = mais."
+    },
+    {
+     "id": "x_ph_grammar_010",
+     "hangul": "한국에 가 본 적이 있어요?",
+     "romanization": "hanguge ga bon jeogi isseoyo?",
+     "french": "Tu es déjà allé en Corée ?",
+     "level": 3,
+     "note": "-아/어 본 적이 있다 = avoir déjà fait l'expérience de."
+    },
+    {
+     "id": "x_ph_grammar_011",
+     "hangul": "수영할 줄 알아요",
+     "romanization": "suyeonghal jul arayo",
+     "french": "Je sais nager",
+     "level": 3,
+     "note": "-(으)ㄹ 줄 알다 = savoir faire (compétence)."
+    },
+    {
+     "id": "x_ph_grammar_012",
+     "hangul": "여기에서 사진을 찍으면 안 돼요",
+     "romanization": "yeogieseo sajineul jjigeumyeon an dwaeyo",
+     "french": "Il est interdit de prendre des photos ici",
+     "level": 3,
+     "note": "-(으)면 안 되다 = interdiction."
+    },
+    {
+     "id": "x_ph_grammar_013",
+     "hangul": "창문을 열어도 돼요?",
+     "romanization": "changmuneul yeoreodo dwaeyo?",
+     "french": "Je peux ouvrir la fenêtre ?",
+     "level": 2,
+     "note": "-아/어도 되다 = permission."
+    },
+    {
+     "id": "x_ph_grammar_014",
+     "hangul": "공부하는 학생",
+     "romanization": "gongbuhaneun haksaeng",
+     "french": "L'étudiant qui étudie",
+     "level": 3,
+     "note": "-는 transforme un verbe au présent en proposition relative devant un nom."
+    },
+    {
+     "id": "x_ph_grammar_015",
+     "hangul": "어제 본 영화",
+     "romanization": "eoje bon yeonghwa",
+     "french": "Le film que j'ai vu hier",
+     "level": 3,
+     "note": "-(으)ㄴ = relative au passé : 보다 → 본."
+    },
+    {
+     "id": "x_ph_grammar_016",
+     "hangul": "내일 먹을 음식",
+     "romanization": "naeil meogeul eumsik",
+     "french": "La nourriture qu'on mangera demain",
+     "level": 3,
+     "note": "-(으)ㄹ = relative au futur."
+    },
+    {
+     "id": "x_ph_grammar_017",
+     "hangul": "밥을 먹은 후에 커피를 마셔요",
+     "romanization": "babeul meogeun hue keopireul masyeoyo",
+     "french": "Après avoir mangé, je bois un café",
+     "level": 3,
+     "note": "-(으)ㄴ 후에 = après ; -기 전에 = avant."
+    },
+    {
+     "id": "x_ph_grammar_018",
+     "hangul": "자기 전에 책을 읽어요",
+     "romanization": "jagi jeone chaegeul ilgeoyo",
+     "french": "Je lis avant de dormir",
+     "level": 3,
+     "note": "-기 전에 = avant de."
+    },
+    {
+     "id": "x_ph_grammar_019",
+     "hangul": "음악을 들으면서 운동해요",
+     "romanization": "eumageul deureumyeonseo undonghaeyo",
+     "french": "Je fais du sport en écoutant de la musique",
+     "level": 3,
+     "note": "-(으)면서 = en faisant (simultané). 듣다 → 들으면서 (irrégulier ㄷ)."
+    },
+    {
+     "id": "x_ph_grammar_020",
+     "hangul": "한국어가 점점 재미있어져요",
+     "romanization": "hangugeoga jeomjeom jaemiisseojyeoyo",
+     "french": "Le coréen devient de plus en plus intéressant",
+     "level": 4,
+     "note": "Adjectif + -아/어지다 = devenir."
+    },
+    {
+     "id": "x_ph_grammar_021",
+     "hangul": "일찍 일어나려고 알람을 맞췄어요",
+     "romanization": "iljjik ireonaryeogo allameul matchwosseoyo",
+     "french": "J'ai mis un réveil pour me lever tôt",
+     "level": 4,
+     "note": "-(으)려고 = dans le but de."
+    },
+    {
+     "id": "x_ph_grammar_022",
+     "hangul": "열심히 공부했는데 시험을 망쳤어요",
+     "romanization": "yeolsimhi gongbuhaenneunde siheomeul mangchyeosseoyo",
+     "french": "J'ai beaucoup révisé mais j'ai raté l'examen",
+     "level": 4,
+     "note": "-는데 = contraste ou mise en contexte."
+    },
+    {
+     "id": "x_ph_grammar_023",
+     "hangul": "아무리 바빠도 밥은 먹어야 해요",
+     "romanization": "amuri bappado babeun meogeoya haeyo",
+     "french": "Même si tu es très occupé, tu dois manger",
+     "level": 4,
+     "note": "아무리 -아/어도 = même si… autant que."
+    },
+    {
+     "id": "x_ph_grammar_024",
+     "hangul": "선생님께서 말씀하셨어요",
+     "romanization": "seonsaengnimkkeseo malsseumhasyeosseoyo",
+     "french": "Le professeur a parlé",
+     "level": 4,
+     "note": "Honorifiques : 께서 (sujet), 말씀 (parole), -시- dans le verbe."
+    },
+    {
+     "id": "x_ph_grammar_025",
+     "hangul": "할머니께 선물을 드렸어요",
+     "romanization": "halmeonikke seonmureul deuryeosseoyo",
+     "french": "J'ai offert un cadeau à grand-mère",
+     "level": 4,
+     "note": "께 = à (honorifique), 드리다 = donner (humble) au lieu de 주다."
+    },
+    {
+     "id": "x_ph_grammar_026",
+     "hangul": "그 사람이 올지 모르겠어요",
+     "romanization": "geu sarami olji moreugesseoyo",
+     "french": "Je ne sais pas si cette personne viendra",
+     "level": 4,
+     "note": "-(으)ㄹ지 = si (question indirecte)."
+    },
+    {
+     "id": "x_ph_grammar_027",
+     "hangul": "날씨가 추운데 코트를 입으세요",
+     "romanization": "nalssiga chuunde koteureul ibeuseyo",
+     "french": "Il fait froid, mettez un manteau",
+     "level": 4,
+     "note": "-(으)ㄴ데 donne le contexte avant une demande."
+    },
+    {
+     "id": "x_ph_grammar_028",
+     "hangul": "비가 오기 때문에 경기가 취소됐어요",
+     "romanization": "biga ogi ttaemune gyeonggiga chwisodwaesseoyo",
+     "french": "Le match a été annulé à cause de la pluie",
+     "level": 4,
+     "note": "-기 때문에 = parce que (formel, explicatif)."
+    },
+    {
+     "id": "x_ph_grammar_029",
+     "hangul": "배가 고파서 죽겠어요",
+     "romanization": "baega gopaseo jukgesseoyo",
+     "french": "Je meurs de faim",
+     "level": 4,
+     "note": "-아/어 죽겠다 = exagération : « à en mourir »."
+    },
+    {
+     "id": "x_ph_grammar_030",
+     "hangul": "문이 열려 있어요",
+     "romanization": "muni yeollyeo isseoyo",
+     "french": "La porte est ouverte",
+     "level": 4,
+     "note": "Passif 열리다 + -아/어 있다 = état résultant."
+    }
+   ]
+  },
+  {
+   "id": "ph_advanced",
+   "nameFR": "Phrases avancées",
+   "icon": "brain",
+   "colorHex": "#34495E",
+   "words": [
+    {
+     "id": "x_ph_advanced_001",
+     "hangul": "말하기 쉬워도 실천하기는 어려워요",
+     "romanization": "malhagi swiwodo silcheonhagineun eoryeowoyo",
+     "french": "C'est facile à dire mais difficile à faire",
+     "level": 4,
+     "note": "-기 쉽다 / -기 어렵다 = facile / difficile à faire."
+    },
+    {
+     "id": "x_ph_advanced_002",
+     "hangul": "그 소식을 듣자마자 전화했어요",
+     "romanization": "geu sosigeul deutjamaja jeonhwahaesseoyo",
+     "french": "J'ai appelé dès que j'ai appris la nouvelle",
+     "level": 4,
+     "note": "-자마자 = dès que."
+    },
+    {
+     "id": "x_ph_advanced_003",
+     "hangul": "미리 말했더라면 도와줬을 텐데요",
+     "romanization": "miri malhaetdeoramyeon dowajwosseul tendeyo",
+     "french": "Si tu me l'avais dit avant, je t'aurais aidé",
+     "level": 5,
+     "note": "-았/었더라면 … -았/었을 텐데 = irréel du passé."
+    },
+    {
+     "id": "x_ph_advanced_004",
+     "hangul": "알고 보니 그 사람이 사장님이었어요",
+     "romanization": "algo boni geu sarami sajangnimieosseoyo",
+     "french": "En fait, cette personne était le patron",
+     "level": 4,
+     "note": "알고 보니 = « il s'avère que »."
+    },
+    {
+     "id": "x_ph_advanced_005",
+     "hangul": "아무리 생각해도 이해가 안 돼요",
+     "romanization": "amuri saenggakaedo ihaega an dwaeyo",
+     "french": "J'ai beau y réfléchir, je ne comprends pas",
+     "level": 4,
+     "note": "아무리 -아/어도 = avoir beau."
+    },
+    {
+     "id": "x_ph_advanced_006",
+     "hangul": "비가 올까 봐 우산을 가져왔어요",
+     "romanization": "biga olkka bwa usaneul gajyeowasseoyo",
+     "french": "J'ai pris un parapluie au cas où il pleuvrait",
+     "level": 4,
+     "note": "-(으)ㄹ까 봐 = de peur que, au cas où."
+    },
+    {
+     "id": "x_ph_advanced_007",
+     "hangul": "그는 피곤한 나머지 바로 잠들었어요",
+     "romanization": "geuneun pigonhan nameoji baro jamdeureosseoyo",
+     "french": "Il était si fatigué qu'il s'est endormi aussitôt",
+     "level": 5,
+     "note": "-(으)ㄴ 나머지 = tellement … que (souvent négatif)."
+    },
+    {
+     "id": "x_ph_advanced_008",
+     "hangul": "경험이 많을수록 실수가 줄어들어요",
+     "romanization": "gyeongheomi maneulsurok silsuga jureodeureoyo",
+     "french": "Plus on a d'expérience, moins on fait d'erreurs",
+     "level": 4,
+     "note": "-(으)ㄹ수록 = plus … plus."
+    },
+    {
+     "id": "x_ph_advanced_009",
+     "hangul": "그렇다고 해서 포기할 수는 없잖아요",
+     "romanization": "geureotago haeseo pogihal suneun eopjanayo",
+     "french": "Ce n'est pas une raison pour abandonner",
+     "level": 5,
+     "note": "-잖아요 = « tu sais bien que », rappelle une évidence."
+    },
+    {
+     "id": "x_ph_advanced_010",
+     "hangul": "회의가 끝나는 대로 연락드리겠습니다",
+     "romanization": "hoeuiga kkeunnaneun daero yeollakdeurigetseumnida",
+     "french": "Je vous contacte dès la fin de la réunion",
+     "level": 5,
+     "note": "-는 대로 = dès que. 드리다 = forme humble."
+    },
+    {
+     "id": "x_ph_advanced_011",
+     "hangul": "이 문제는 신중하게 검토할 필요가 있습니다",
+     "romanization": "i munjeneun sinjunghage geomtohal piryoga itseumnida",
+     "french": "Cette question doit être examinée avec soin",
+     "level": 5,
+     "note": "-(으)ㄹ 필요가 있다 = il est nécessaire de."
+    },
+    {
+     "id": "x_ph_advanced_012",
+     "hangul": "제가 알기로는 다음 주에 발표한대요",
+     "romanization": "jega algironeun daeum jue balpyohandaeyo",
+     "french": "D'après ce que je sais, ils l'annoncent la semaine prochaine",
+     "level": 5,
+     "note": "-ㄴ대요 = discours rapporté (contraction de -ㄴ다고 해요)."
+    },
+    {
+     "id": "x_ph_advanced_013",
+     "hangul": "친구가 바쁘다고 했어요",
+     "romanization": "chinguga bappeudago haesseoyo",
+     "french": "Mon ami a dit qu'il était occupé",
+     "level": 4,
+     "note": "Adjectif + -다고 하다 = discours indirect."
+    },
+    {
+     "id": "x_ph_advanced_014",
+     "hangul": "같이 가자고 했는데 거절당했어요",
+     "romanization": "gachi gajago haenneunde geojeoldanghaesseoyo",
+     "french": "J'ai proposé d'y aller ensemble mais on m'a dit non",
+     "level": 5,
+     "note": "-자고 하다 = rapporter une proposition. 당하다 = subir."
+    },
+    {
+     "id": "x_ph_advanced_015",
+     "hangul": "엄마가 일찍 자라고 하셨어요",
+     "romanization": "eommaga iljjik jarago hasyeosseoyo",
+     "french": "Maman m'a dit de me coucher tôt",
+     "level": 5,
+     "note": "-(으)라고 하다 = rapporter un ordre."
+    },
+    {
+     "id": "x_ph_advanced_016",
+     "hangul": "시험에 붙기 위해 매일 공부하고 있어요",
+     "romanization": "siheome butgi wihae maeil gongbuhago isseoyo",
+     "french": "J'étudie chaque jour pour réussir l'examen",
+     "level": 4,
+     "note": "-기 위해(서) = afin de. -고 있다 = être en train de."
+    },
+    {
+     "id": "x_ph_advanced_017",
+     "hangul": "그 일은 생각보다 훨씬 복잡하더라고요",
+     "romanization": "geu ireun saenggakboda hwolssin bokjapadeoragoyo",
+     "french": "Ce travail était bien plus compliqué que prévu",
+     "level": 5,
+     "note": "-더라고요 = raconter ce qu'on a constaté soi-même."
+    },
+    {
+     "id": "x_ph_advanced_018",
+     "hangul": "늦게 일어나는 바람에 버스를 놓쳤어요",
+     "romanization": "neutge ireonaneun barame beoseureul nochyeosseoyo",
+     "french": "Je me suis levé tard, du coup j'ai raté le bus",
+     "level": 5,
+     "note": "-는 바람에 = à cause de (conséquence imprévue, négative)."
+    },
+    {
+     "id": "x_ph_advanced_019",
+     "hangul": "아무것도 안 먹었더니 배가 너무 고파요",
+     "romanization": "amugeotdo an meogeotdeoni baega neomu gopayo",
+     "french": "Comme je n'ai rien mangé, j'ai très faim",
+     "level": 5,
+     "note": "-았/었더니 = action passée → résultat constaté."
+    },
+    {
+     "id": "x_ph_advanced_020",
+     "hangul": "한국 문화에 대해 알면 알수록 더 흥미로워요",
+     "romanization": "hanguk munhwae daehae almyeon alsurok deo heungmirowoyo",
+     "french": "Plus j'en apprends sur la culture coréenne, plus elle me passionne",
+     "level": 5,
+     "note": "-(으)면 -(으)ㄹ수록 = forme renforcée de « plus … plus »."
+    },
+    {
+     "id": "x_ph_advanced_021",
+     "hangul": "가는 말이 고와야 오는 말이 곱다",
+     "romanization": "ganeun mari gowaya oneun mari gopda",
+     "french": "On récolte ce que l'on sème (proverbe)",
+     "level": 5,
+     "note": "Proverbe : « les mots qui partent doivent être doux pour que ceux qui reviennent le soient »."
+    },
+    {
+     "id": "x_ph_advanced_022",
+     "hangul": "시작이 반이다",
+     "romanization": "sijagi banida",
+     "french": "Commencer, c'est déjà la moitié du travail (proverbe)",
+     "level": 4,
+     "note": "Proverbe très cité pour encourager."
+    },
+    {
+     "id": "x_ph_advanced_023",
+     "hangul": "누워서 떡 먹기",
+     "romanization": "nuwoseo tteok meokgi",
+     "french": "C'est du gâteau (proverbe)",
+     "level": 4,
+     "note": "Littéralement « manger du tteok allongé » : très facile."
+    },
+    {
+     "id": "x_ph_advanced_024",
+     "hangul": "원숭이도 나무에서 떨어진다",
+     "romanization": "wonsungido namueseo tteoreojinda",
+     "french": "Même les meilleurs se trompent (proverbe)",
+     "level": 5,
+     "note": "« Même le singe tombe de l'arbre »."
+    },
+    {
+     "id": "x_ph_advanced_025",
+     "hangul": "낮말은 새가 듣고 밤말은 쥐가 듣는다",
+     "romanization": "nanmareun saega deutgo bammareun jwiga deunneunda",
+     "french": "Les murs ont des oreilles (proverbe)",
+     "level": 5,
+     "note": "« Les oiseaux entendent les mots du jour, les souris ceux de la nuit »."
+    }
+   ]
+  },
+  {
+   "id": "kitchen",
+   "nameFR": "Cuisine & Ustensiles",
+   "icon": "cup.and.saucer.fill",
+   "colorHex": "#E67E22",
+   "words": [
+    {
+     "id": "x_kitchen_001",
+     "hangul": "냄비",
+     "romanization": "naembi",
+     "french": "Casserole",
+     "level": 2
+    },
+    {
+     "id": "x_kitchen_002",
+     "hangul": "프라이팬",
+     "romanization": "peuraipaen",
+     "french": "Poêle",
+     "level": 2
+    },
+    {
+     "id": "x_kitchen_003",
+     "hangul": "도마",
+     "romanization": "doma",
+     "french": "Planche à découper",
+     "level": 3
+    },
+    {
+     "id": "x_kitchen_004",
+     "hangul": "칼",
+     "romanization": "kal",
+     "french": "Couteau",
+     "level": 1
+    },
+    {
+     "id": "x_kitchen_005",
+     "hangul": "국자",
+     "romanization": "gukja",
+     "french": "Louche",
+     "level": 3
+    },
+    {
+     "id": "x_kitchen_006",
+     "hangul": "그릇",
+     "romanization": "geureut",
+     "french": "Bol",
+     "level": 2
+    },
+    {
+     "id": "x_kitchen_007",
+     "hangul": "수저",
+     "romanization": "sujeo",
+     "french": "Cuillère et baguettes",
+     "level": 3
+    },
+    {
+     "id": "x_kitchen_008",
+     "hangul": "끓이다",
+     "romanization": "kkeurida",
+     "french": "Faire bouillir",
+     "level": 3
+    },
+    {
+     "id": "x_kitchen_009",
+     "hangul": "볶다",
+     "romanization": "bokda",
+     "french": "Faire sauter",
+     "level": 3
+    },
+    {
+     "id": "x_kitchen_010",
+     "hangul": "굽다",
+     "romanization": "gupda",
+     "french": "Griller, cuire au four",
+     "level": 3
+    },
+    {
+     "id": "x_kitchen_011",
+     "hangul": "튀기다",
+     "romanization": "twigida",
+     "french": "Frire",
+     "level": 3
+    },
+    {
+     "id": "x_kitchen_012",
+     "hangul": "삶다",
+     "romanization": "samda",
+     "french": "Faire cuire à l'eau",
+     "level": 3
+    },
+    {
+     "id": "x_kitchen_013",
+     "hangul": "썰다",
+     "romanization": "sseolda",
+     "french": "Couper en tranches",
+     "level": 3
+    },
+    {
+     "id": "x_kitchen_014",
+     "hangul": "섞다",
+     "romanization": "seokda",
+     "french": "Mélanger",
+     "level": 3
+    },
+    {
+     "id": "x_kitchen_015",
+     "hangul": "데우다",
+     "romanization": "deuda",
+     "french": "Réchauffer",
+     "level": 3
+    },
+    {
+     "id": "x_kitchen_016",
+     "hangul": "식다",
+     "romanization": "sikda",
+     "french": "Refroidir",
+     "level": 3
+    },
+    {
+     "id": "x_kitchen_017",
+     "hangul": "맛보다",
+     "romanization": "matboda",
+     "french": "Goûter",
+     "level": 2
+    },
+    {
+     "id": "x_kitchen_018",
+     "hangul": "간을 보다",
+     "romanization": "ganeul boda",
+     "french": "Vérifier l'assaisonnement",
+     "level": 4
+    },
+    {
+     "id": "x_kitchen_019",
+     "hangul": "고소하다",
+     "romanization": "gosohada",
+     "french": "Avoir un goût de grillé, de noisette",
+     "level": 4
+    },
+    {
+     "id": "x_kitchen_020",
+     "hangul": "느끼하다",
+     "romanization": "neukkihada",
+     "french": "Être trop gras, écœurant",
+     "level": 4
+    },
+    {
+     "id": "x_kitchen_021",
+     "hangul": "쫄깃하다",
+     "romanization": "jjolgitada",
+     "french": "Être élastique, moelleux",
+     "level": 4
+    },
+    {
+     "id": "x_kitchen_022",
+     "hangul": "바삭하다",
+     "romanization": "basakada",
+     "french": "Être croustillant",
+     "level": 3
+    }
+   ]
+  },
+  {
+   "id": "clothes",
+   "nameFR": "Vêtements & Mode",
+   "icon": "bag.fill",
+   "colorHex": "#9B59B6",
+   "words": [
+    {
+     "id": "x_clothes_001",
+     "hangul": "셔츠",
+     "romanization": "syeocheu",
+     "french": "Chemise",
+     "level": 1
+    },
+    {
+     "id": "x_clothes_002",
+     "hangul": "패딩",
+     "romanization": "paeding",
+     "french": "Doudoune",
+     "level": 2
+    },
+    {
+     "id": "x_clothes_003",
+     "hangul": "운동화",
+     "romanization": "undonghwa",
+     "french": "Baskets",
+     "level": 1
+    },
+    {
+     "id": "x_clothes_004",
+     "hangul": "구두",
+     "romanization": "gudu",
+     "french": "Chaussures de ville",
+     "level": 2
+    },
+    {
+     "id": "x_clothes_005",
+     "hangul": "목도리",
+     "romanization": "mokdori",
+     "french": "Écharpe",
+     "level": 2
+    },
+    {
+     "id": "x_clothes_006",
+     "hangul": "장갑",
+     "romanization": "janggap",
+     "french": "Gants",
+     "level": 2
+    },
+    {
+     "id": "x_clothes_007",
+     "hangul": "귀걸이",
+     "romanization": "gwigeori",
+     "french": "Boucles d'oreilles",
+     "level": 2
+    },
+    {
+     "id": "x_clothes_008",
+     "hangul": "신다",
+     "romanization": "sinda",
+     "french": "Porter (chaussures, chaussettes)",
+     "level": 2
+    },
+    {
+     "id": "x_clothes_009",
+     "hangul": "끼다",
+     "romanization": "kkida",
+     "french": "Porter (gants, bague)",
+     "level": 3
+    },
+    {
+     "id": "x_clothes_010",
+     "hangul": "벗다",
+     "romanization": "beotda",
+     "french": "Enlever (un vêtement)",
+     "level": 2
+    },
+    {
+     "id": "x_clothes_011",
+     "hangul": "유행",
+     "romanization": "yuhaeng",
+     "french": "Mode, tendance",
+     "level": 3
+    },
+    {
+     "id": "x_clothes_012",
+     "hangul": "어울리다",
+     "romanization": "eoullida",
+     "french": "Aller bien (ensemble)",
+     "level": 3
+    }
+   ]
+  },
+  {
+   "id": "geo",
+   "nameFR": "Géographie & Paysages",
+   "icon": "leaf.fill",
+   "colorHex": "#27AE60",
+   "words": [
+    {
+     "id": "x_geo_001",
+     "hangul": "들판",
+     "romanization": "deulpan",
+     "french": "Plaine, champ",
+     "level": 4
+    },
+    {
+     "id": "x_geo_002",
+     "hangul": "계곡",
+     "romanization": "gyegok",
+     "french": "Vallée",
+     "level": 3
+    },
+    {
+     "id": "x_geo_003",
+     "hangul": "폭포",
+     "romanization": "pokpo",
+     "french": "Cascade",
+     "level": 3
+    },
+    {
+     "id": "x_geo_004",
+     "hangul": "사막",
+     "romanization": "samak",
+     "french": "Désert",
+     "level": 3
+    },
+    {
+     "id": "x_geo_005",
+     "hangul": "동굴",
+     "romanization": "donggul",
+     "french": "Grotte",
+     "level": 3
+    },
+    {
+     "id": "x_geo_006",
+     "hangul": "동쪽",
+     "romanization": "dongjjok",
+     "french": "Est",
+     "level": 2
+    },
+    {
+     "id": "x_geo_007",
+     "hangul": "서쪽",
+     "romanization": "seojjok",
+     "french": "Ouest",
+     "level": 2
+    },
+    {
+     "id": "x_geo_008",
+     "hangul": "남쪽",
+     "romanization": "namjjok",
+     "french": "Sud",
+     "level": 2
+    },
+    {
+     "id": "x_geo_009",
+     "hangul": "북쪽",
+     "romanization": "bukjjok",
+     "french": "Nord",
+     "level": 2
+    },
+    {
+     "id": "x_geo_010",
+     "hangul": "대륙",
+     "romanization": "daeryuk",
+     "french": "Continent",
+     "level": 4
+    },
+    {
+     "id": "x_geo_011",
+     "hangul": "경치",
+     "romanization": "gyeongchi",
+     "french": "Paysage, vue",
+     "level": 3
+    },
+    {
+     "id": "x_geo_012",
+     "hangul": "해돋이",
+     "romanization": "haedoji",
+     "french": "Lever de soleil",
+     "level": 4
+    }
+   ]
+  },
+  {
+   "id": "study",
+   "nameFR": "Études & Matières",
+   "icon": "briefcase.fill",
+   "colorHex": "#2C3E50",
+   "words": [
+    {
+     "id": "x_study_001",
+     "hangul": "수학",
+     "romanization": "suhak",
+     "french": "Mathématiques",
+     "level": 2
+    },
+    {
+     "id": "x_study_002",
+     "hangul": "지리",
+     "romanization": "jiri",
+     "french": "Géographie",
+     "level": 3
+    },
+    {
+     "id": "x_study_003",
+     "hangul": "체육",
+     "romanization": "cheyuk",
+     "french": "Sport (matière)",
+     "level": 2
+    },
+    {
+     "id": "x_study_004",
+     "hangul": "미술",
+     "romanization": "misul",
+     "french": "Arts plastiques",
+     "level": 2
+    },
+    {
+     "id": "x_study_005",
+     "hangul": "문학",
+     "romanization": "munhak",
+     "french": "Littérature",
+     "level": 3
+    },
+    {
+     "id": "x_study_006",
+     "hangul": "철학",
+     "romanization": "cheolhak",
+     "french": "Philosophie",
+     "level": 4
+    },
+    {
+     "id": "x_study_007",
+     "hangul": "경제학",
+     "romanization": "gyeongjehak",
+     "french": "Économie (discipline)",
+     "level": 4
+    },
+    {
+     "id": "x_study_008",
+     "hangul": "전공",
+     "romanization": "jeongong",
+     "french": "Spécialité, majeure",
+     "level": 3
+    },
+    {
+     "id": "x_study_009",
+     "hangul": "학기",
+     "romanization": "hakgi",
+     "french": "Semestre",
+     "level": 3
+    },
+    {
+     "id": "x_study_010",
+     "hangul": "장학금",
+     "romanization": "janghakgeum",
+     "french": "Bourse d'études",
+     "level": 4
+    },
+    {
+     "id": "x_study_011",
+     "hangul": "교과서",
+     "romanization": "gyogwaseo",
+     "french": "Manuel scolaire",
+     "level": 2
+    },
+    {
+     "id": "x_study_012",
+     "hangul": "지우개",
+     "romanization": "jiugae",
+     "french": "Gomme",
+     "level": 2
+    },
+    {
+     "id": "x_study_013",
+     "hangul": "복습",
+     "romanization": "bokseup",
+     "french": "Révision",
+     "level": 3
+    },
+    {
+     "id": "x_study_014",
+     "hangul": "예습",
+     "romanization": "yeseup",
+     "french": "Préparation d'un cours",
+     "level": 3
+    },
+    {
+     "id": "x_study_015",
+     "hangul": "논문",
+     "romanization": "nonmun",
+     "french": "Mémoire, thèse",
+     "level": 5
+    }
+   ]
+  },
+  {
+   "id": "onomatopoeia",
+   "nameFR": "Onomatopées & Mimétiques",
+   "icon": "sparkles",
+   "colorHex": "#F1C40F",
+   "words": [
+    {
+     "id": "x_onomatopoeia_001",
+     "hangul": "두근두근",
+     "romanization": "dugeundugeun",
+     "french": "Boum-boum (cœur qui bat)",
+     "level": 3,
+     "note": "Mimétique très courant : 가슴이 두근두근해요 = mon cœur bat fort."
+    },
+    {
+     "id": "x_onomatopoeia_002",
+     "hangul": "반짝반짝",
+     "romanization": "banjjakbanjjak",
+     "french": "Scintillant",
+     "level": 3,
+     "note": "Comme dans la comptine « Ah vous dirai-je maman » coréenne."
+    },
+    {
+     "id": "x_onomatopoeia_003",
+     "hangul": "깜짝",
+     "romanization": "kkamjjak",
+     "french": "En sursaut",
+     "level": 3,
+     "note": "깜짝 놀랐어요 = j'ai sursauté."
+    },
+    {
+     "id": "x_onomatopoeia_004",
+     "hangul": "꿀꺽",
+     "romanization": "kkulkkeok",
+     "french": "Glou (avaler)",
+     "level": 4
+    },
+    {
+     "id": "x_onomatopoeia_005",
+     "hangul": "엉엉",
+     "romanization": "eongeong",
+     "french": "Ouin-ouin (pleurer)",
+     "level": 3
+    },
+    {
+     "id": "x_onomatopoeia_006",
+     "hangul": "하하",
+     "romanization": "haha",
+     "french": "Ha ha",
+     "level": 1
+    },
+    {
+     "id": "x_onomatopoeia_007",
+     "hangul": "ㅋㅋㅋ",
+     "romanization": "kekeke",
+     "french": "Mdr (écrit)",
+     "level": 1,
+     "note": "Vient du son du rire « 크크크 » ; on n'écrit que les consonnes."
+    },
+    {
+     "id": "x_onomatopoeia_008",
+     "hangul": "ㅠㅠ",
+     "romanization": "yuyu",
+     "french": "Snif (larmes, écrit)",
+     "level": 1,
+     "note": "Les deux ㅠ dessinent des yeux qui pleurent."
+    },
+    {
+     "id": "x_onomatopoeia_009",
+     "hangul": "쿨쿨",
+     "romanization": "kulkul",
+     "french": "Zzz (dormir)",
+     "level": 3
+    },
+    {
+     "id": "x_onomatopoeia_010",
+     "hangul": "멍멍",
+     "romanization": "meongmeong",
+     "french": "Ouaf ouaf",
+     "level": 1
+    },
+    {
+     "id": "x_onomatopoeia_011",
+     "hangul": "야옹",
+     "romanization": "yaong",
+     "french": "Miaou",
+     "level": 1
+    },
+    {
+     "id": "x_onomatopoeia_012",
+     "hangul": "꼬끼오",
+     "romanization": "kkokkio",
+     "french": "Cocorico",
+     "level": 2
+    },
+    {
+     "id": "x_onomatopoeia_013",
+     "hangul": "뒤죽박죽",
+     "romanization": "dwijukbakjuk",
+     "french": "Sens dessus dessous",
+     "level": 5
+    },
+    {
+     "id": "x_onomatopoeia_014",
+     "hangul": "느릿느릿",
+     "romanization": "neurinneurit",
+     "french": "Tout doucement",
+     "level": 4
+    },
+    {
+     "id": "x_onomatopoeia_015",
+     "hangul": "빨리빨리",
+     "romanization": "ppallippalli",
+     "french": "Vite vite",
+     "level": 2,
+     "note": "Expression qui résume la culture du « tout, tout de suite » en Corée."
+    },
+    {
+     "id": "x_onomatopoeia_016",
+     "hangul": "살금살금",
+     "romanization": "salgeumsalgeum",
+     "french": "À pas de loup",
+     "level": 4
+    },
+    {
+     "id": "x_onomatopoeia_017",
+     "hangul": "주룩주룩",
+     "romanization": "jurukjuruk",
+     "french": "(Pluie) à verse",
+     "level": 4
+    },
+    {
+     "id": "x_onomatopoeia_018",
+     "hangul": "펑펑",
+     "romanization": "peongpeong",
+     "french": "(Neige) à gros flocons / (pleurer) à chaudes larmes",
+     "level": 4
+    },
+    {
+     "id": "x_onomatopoeia_019",
+     "hangul": "꼬르륵",
+     "romanization": "kkoreureuk",
+     "french": "Gargouillement du ventre",
+     "level": 4
+    },
+    {
+     "id": "x_onomatopoeia_020",
+     "hangul": "말랑말랑",
+     "romanization": "mallangmallang",
+     "french": "Tout mou, moelleux",
+     "level": 4
+    }
+   ]
+  },
+  {
+   "id": "slang",
+   "nameFR": "Langage des jeunes & Internet",
+   "icon": "bubble",
+   "colorHex": "#1ABC9C",
+   "words": [
+    {
+     "id": "x_slang_001",
+     "hangul": "헐",
+     "romanization": "heol",
+     "french": "Hein ?! / Oh non (surprise)",
+     "level": 2
+    },
+    {
+     "id": "x_slang_002",
+     "hangul": "짱",
+     "romanization": "jjang",
+     "french": "Le meilleur, top",
+     "level": 2
+    },
+    {
+     "id": "x_slang_003",
+     "hangul": "꿀잼",
+     "romanization": "kkuljaem",
+     "french": "Super drôle / génial",
+     "level": 3,
+     "note": "꿀 (miel) + 재미 (amusement). Contraire : 노잼."
+    },
+    {
+     "id": "x_slang_004",
+     "hangul": "노잼",
+     "romanization": "nojaem",
+     "french": "Pas drôle, ennuyeux",
+     "level": 3
+    },
+    {
+     "id": "x_slang_005",
+     "hangul": "인싸",
+     "romanization": "inssa",
+     "french": "Personne populaire (insider)",
+     "level": 4
+    },
+    {
+     "id": "x_slang_006",
+     "hangul": "아싸",
+     "romanization": "assa",
+     "french": "Solitaire (outsider)",
+     "level": 4
+    },
+    {
+     "id": "x_slang_007",
+     "hangul": "먹방",
+     "romanization": "meokbang",
+     "french": "Vidéo où l'on mange",
+     "level": 2
+    },
+    {
+     "id": "x_slang_008",
+     "hangul": "셀카",
+     "romanization": "selka",
+     "french": "Selfie",
+     "level": 2
+    },
+    {
+     "id": "x_slang_009",
+     "hangul": "치맥",
+     "romanization": "chimaek",
+     "french": "Poulet frit + bière",
+     "level": 2,
+     "note": "치킨 + 맥주."
+    },
+    {
+     "id": "x_slang_010",
+     "hangul": "갑분싸",
+     "romanization": "gapbunssa",
+     "french": "Ambiance soudain glaciale",
+     "level": 5,
+     "note": "Abréviation de 갑자기 분위기 싸해짐."
+    },
+    {
+     "id": "x_slang_011",
+     "hangul": "소확행",
+     "romanization": "sohwakaeng",
+     "french": "Petit bonheur simple",
+     "level": 5,
+     "note": "소소하지만 확실한 행복."
+    },
+    {
+     "id": "x_slang_012",
+     "hangul": "불금",
+     "romanization": "bulgeum",
+     "french": "Vendredi soir de fête",
+     "level": 3,
+     "note": "불타는 금요일 = « vendredi en feu »."
+    },
+    {
+     "id": "x_slang_013",
+     "hangul": "얼죽아",
+     "romanization": "eoljuga",
+     "french": "Americano glacé même en hiver",
+     "level": 5,
+     "note": "얼어 죽어도 아이스 아메리카노."
+    },
+    {
+     "id": "x_slang_014",
+     "hangul": "남친",
+     "romanization": "namchin",
+     "french": "Copain (petit ami)",
+     "level": 2
+    },
+    {
+     "id": "x_slang_015",
+     "hangul": "여친",
+     "romanization": "yeochin",
+     "french": "Copine (petite amie)",
+     "level": 2
+    },
+    {
+     "id": "x_slang_016",
+     "hangul": "썸",
+     "romanization": "sseom",
+     "french": "Flirt, « quelque chose » entre deux",
+     "level": 3
+    },
+    {
+     "id": "x_slang_017",
+     "hangul": "덕후",
+     "romanization": "deokhu",
+     "french": "Fan, otaku",
+     "level": 4
+    },
+    {
+     "id": "x_slang_018",
+     "hangul": "악플",
+     "romanization": "akpeul",
+     "french": "Commentaire haineux",
+     "level": 4
+    }
+   ]
+  },
+  {
+   "id": "verbs_adv",
+   "nameFR": "Verbes avancés",
+   "icon": "bolt.fill",
+   "colorHex": "#16A085",
+   "words": [
+    {
+     "id": "x_verbs_adv_001",
+     "hangul": "강조하다",
+     "romanization": "gangjohada",
+     "french": "Souligner, insister",
+     "level": 5
+    },
+    {
+     "id": "x_verbs_adv_002",
+     "hangul": "제안하다",
+     "romanization": "jeanhada",
+     "french": "Proposer",
+     "level": 4
+    },
+    {
+     "id": "x_verbs_adv_003",
+     "hangul": "유지하다",
+     "romanization": "yujihada",
+     "french": "Maintenir",
+     "level": 5
+    },
+    {
+     "id": "x_verbs_adv_004",
+     "hangul": "반영하다",
+     "romanization": "banyeonghada",
+     "french": "Refléter",
+     "level": 5
+    },
+    {
+     "id": "x_verbs_adv_005",
+     "hangul": "의존하다",
+     "romanization": "uijonhada",
+     "french": "Dépendre de",
+     "level": 5
+    },
+    {
+     "id": "x_verbs_adv_006",
+     "hangul": "영향을 미치다",
+     "romanization": "yeonghyangeul michida",
+     "french": "Avoir de l'influence",
+     "level": 5
+    },
+    {
+     "id": "x_verbs_adv_007",
+     "hangul": "분석하다",
+     "romanization": "bunseokada",
+     "french": "Analyser",
+     "level": 5
+    },
+    {
+     "id": "x_verbs_adv_008",
+     "hangul": "예측하다",
+     "romanization": "yecheukada",
+     "french": "Prévoir",
+     "level": 5
+    },
+    {
+     "id": "x_verbs_adv_009",
+     "hangul": "협력하다",
+     "romanization": "hyeomnyeokada",
+     "french": "Coopérer",
+     "level": 5
+    },
+    {
+     "id": "x_verbs_adv_010",
+     "hangul": "확인하다",
+     "romanization": "hwaginhada",
+     "french": "Vérifier",
+     "level": 3
+    },
+    {
+     "id": "x_verbs_adv_011",
+     "hangul": "참여하다",
+     "romanization": "chamyeohada",
+     "french": "Participer",
+     "level": 4
+    },
+    {
+     "id": "x_verbs_adv_012",
+     "hangul": "지원하다",
+     "romanization": "jiwonhada",
+     "french": "Soutenir ; postuler",
+     "level": 4
+    },
+    {
+     "id": "x_verbs_adv_013",
+     "hangul": "경쟁하다",
+     "romanization": "gyeongjaenghada",
+     "french": "Être en compétition",
+     "level": 4
+    }
+   ]
+  }
+ ],
+ "extend": {
+  "food": [
+   {
+    "id": "x_food_001",
+    "hangul": "떡국",
+    "romanization": "tteokguk",
+    "french": "Soupe de galettes de riz (Nouvel An)",
+    "level": 2
+   },
+   {
+    "id": "x_food_002",
+    "hangul": "전",
+    "romanization": "jeon",
+    "french": "Galette coréenne salée",
+    "level": 2
+   },
+   {
+    "id": "x_food_003",
+    "hangul": "족발",
+    "romanization": "jokbal",
+    "french": "Pieds de porc braisés",
+    "level": 3
+   },
+   {
+    "id": "x_food_004",
+    "hangul": "보쌈",
+    "romanization": "bossam",
+    "french": "Porc bouilli en wraps",
+    "level": 3
+   },
+   {
+    "id": "x_food_005",
+    "hangul": "칼국수",
+    "romanization": "kalguksu",
+    "french": "Nouilles coupées au couteau",
+    "level": 2
+   },
+   {
+    "id": "x_food_006",
+    "hangul": "붕어빵",
+    "romanization": "bungeoppang",
+    "french": "Gâteau en forme de poisson",
+    "level": 2
+   },
+   {
+    "id": "x_food_007",
+    "hangul": "양념",
+    "romanization": "yangnyeom",
+    "french": "Assaisonnement / marinade",
+    "level": 3
+   },
+   {
+    "id": "x_food_008",
+    "hangul": "참기름",
+    "romanization": "chamgireum",
+    "french": "Huile de sésame",
+    "level": 3
+   },
+   {
+    "id": "x_food_009",
+    "hangul": "버섯",
+    "romanization": "beoseot",
+    "french": "Champignon",
+    "level": 2
+   },
+   {
+    "id": "x_food_010",
+    "hangul": "오이",
+    "romanization": "oi",
+    "french": "Concombre",
+    "level": 2
+   },
+   {
+    "id": "x_food_011",
+    "hangul": "당근",
+    "romanization": "danggeun",
+    "french": "Carotte",
+    "level": 1
+   },
+   {
+    "id": "x_food_012",
+    "hangul": "고구마",
+    "romanization": "goguma",
+    "french": "Patate douce",
+    "level": 2
+   },
+   {
+    "id": "x_food_013",
+    "hangul": "옥수수",
+    "romanization": "oksusu",
+    "french": "Maïs",
+    "level": 2
+   },
+   {
+    "id": "x_food_014",
+    "hangul": "새우",
+    "romanization": "saeu",
+    "french": "Crevette",
+    "level": 2
+   }
+  ],
+  "verbs": [
+   {
+    "id": "x_verbs_001",
+    "hangul": "잊어버리다",
+    "romanization": "ijeobeorida",
+    "french": "Oublier",
+    "level": 2
+   },
+   {
+    "id": "x_verbs_002",
+    "hangul": "고치다",
+    "romanization": "gochida",
+    "french": "Réparer, corriger",
+    "level": 2
+   },
+   {
+    "id": "x_verbs_003",
+    "hangul": "잃다",
+    "romanization": "ilta",
+    "french": "Perdre",
+    "level": 2
+   },
+   {
+    "id": "x_verbs_004",
+    "hangul": "놓치다",
+    "romanization": "nochida",
+    "french": "Rater (un bus, une occasion)",
+    "level": 3
+   },
+   {
+    "id": "x_verbs_005",
+    "hangul": "부탁하다",
+    "romanization": "butakada",
+    "french": "Demander un service",
+    "level": 3
+   },
+   {
+    "id": "x_verbs_006",
+    "hangul": "약속하다",
+    "romanization": "yaksokada",
+    "french": "Promettre, prendre rendez-vous",
+    "level": 2
+   },
+   {
+    "id": "x_verbs_007",
+    "hangul": "초대하다",
+    "romanization": "chodaehada",
+    "french": "Inviter",
+    "level": 2
+   },
+   {
+    "id": "x_verbs_008",
+    "hangul": "걱정하다",
+    "romanization": "geokjeonghada",
+    "french": "S'inquiéter",
+    "level": 2
+   },
+   {
+    "id": "x_verbs_009",
+    "hangul": "성공하다",
+    "romanization": "seonggonghada",
+    "french": "Réussir",
+    "level": 3
+   },
+   {
+    "id": "x_verbs_010",
+    "hangul": "실패하다",
+    "romanization": "silpaehada",
+    "french": "Échouer",
+    "level": 3
+   },
+   {
+    "id": "x_verbs_011",
+    "hangul": "떠나다",
+    "romanization": "tteonada",
+    "french": "Partir",
+    "level": 2
+   },
+   {
+    "id": "x_verbs_012",
+    "hangul": "갈아타다",
+    "romanization": "garatada",
+    "french": "Changer (de ligne)",
+    "level": 3
+   },
+   {
+    "id": "x_verbs_013",
+    "hangul": "줄이다",
+    "romanization": "jurida",
+    "french": "Réduire",
+    "level": 4
+   },
+   {
+    "id": "x_verbs_014",
+    "hangul": "늘리다",
+    "romanization": "neullida",
+    "french": "Augmenter",
+    "level": 4
+   },
+   {
+    "id": "x_verbs_015",
+    "hangul": "비교하다",
+    "romanization": "bigyohada",
+    "french": "Comparer",
+    "level": 4
+   },
+   {
+    "id": "x_verbs_016",
+    "hangul": "거절하다",
+    "romanization": "geojeolhada",
+    "french": "Refuser",
+    "level": 4
+   }
+  ],
+  "adjectives": [
+   {
+    "id": "x_adjectives_001",
+    "hangul": "편하다",
+    "romanization": "pyeonhada",
+    "french": "Être confortable",
+    "level": 2
+   },
+   {
+    "id": "x_adjectives_002",
+    "hangul": "무섭다",
+    "romanization": "museopda",
+    "french": "Être effrayant",
+    "level": 2
+   },
+   {
+    "id": "x_adjectives_003",
+    "hangul": "특별하다",
+    "romanization": "teukbyeolhada",
+    "french": "Être spécial",
+    "level": 3
+   },
+   {
+    "id": "x_adjectives_004",
+    "hangul": "충분하다",
+    "romanization": "chungbunhada",
+    "french": "Être suffisant",
+    "level": 4
+   },
+   {
+    "id": "x_adjectives_005",
+    "hangul": "심각하다",
+    "romanization": "simgakada",
+    "french": "Être grave",
+    "level": 4
+   }
+  ],
+  "time": [
+   {
+    "id": "x_time_001",
+    "hangul": "이따가",
+    "romanization": "ittaga",
+    "french": "Tout à l'heure (futur)",
+    "level": 2
+   },
+   {
+    "id": "x_time_002",
+    "hangul": "평일",
+    "romanization": "pyeongil",
+    "french": "Jour de semaine",
+    "level": 2
+   },
+   {
+    "id": "x_time_003",
+    "hangul": "연휴",
+    "romanization": "yeonhyu",
+    "french": "Long week-end, congés",
+    "level": 3
+   },
+   {
+    "id": "x_time_004",
+    "hangul": "새벽",
+    "romanization": "saebyeok",
+    "french": "Aube, petit matin",
+    "level": 2
+   }
+  ],
+  "emotions": [
+   {
+    "id": "x_emotions_001",
+    "hangul": "기쁘다",
+    "romanization": "gippeuda",
+    "french": "Être joyeux",
+    "level": 2
+   },
+   {
+    "id": "x_emotions_002",
+    "hangul": "슬프다",
+    "romanization": "seulpeuda",
+    "french": "Être triste",
+    "level": 2
+   },
+   {
+    "id": "x_emotions_003",
+    "hangul": "외롭다",
+    "romanization": "oeropda",
+    "french": "Se sentir seul",
+    "level": 3
+   },
+   {
+    "id": "x_emotions_004",
+    "hangul": "설레다",
+    "romanization": "seolleda",
+    "french": "Avoir le cœur qui bat (hâte)",
+    "level": 3
+   },
+   {
+    "id": "x_emotions_005",
+    "hangul": "답답하다",
+    "romanization": "dapdapada",
+    "french": "Se sentir oppressé, frustré",
+    "level": 4
+   },
+   {
+    "id": "x_emotions_006",
+    "hangul": "억울하다",
+    "romanization": "eogulhada",
+    "french": "Se sentir injustement traité",
+    "level": 5
+   },
+   {
+    "id": "x_emotions_007",
+    "hangul": "그립다",
+    "romanization": "geuripda",
+    "french": "Regretter, avoir la nostalgie",
+    "level": 4
+   },
+   {
+    "id": "x_emotions_008",
+    "hangul": "당황하다",
+    "romanization": "danghwanghada",
+    "french": "Être pris au dépourvu",
+    "level": 4
+   }
+  ],
+  "health": [
+   {
+    "id": "x_health_001",
+    "hangul": "열이 나다",
+    "romanization": "yeori nada",
+    "french": "Avoir de la fièvre",
+    "level": 2
+   },
+   {
+    "id": "x_health_002",
+    "hangul": "콧물",
+    "romanization": "konmul",
+    "french": "Nez qui coule",
+    "level": 3
+   },
+   {
+    "id": "x_health_003",
+    "hangul": "입원하다",
+    "romanization": "ibwonhada",
+    "french": "Être hospitalisé",
+    "level": 4
+   }
+  ],
+  "transport": [
+   {
+    "id": "x_transport_001",
+    "hangul": "환승",
+    "romanization": "hwanseung",
+    "french": "Correspondance",
+    "level": 3
+   },
+   {
+    "id": "x_transport_002",
+    "hangul": "왕복",
+    "romanization": "wangbok",
+    "french": "Aller-retour",
+    "level": 3
+   },
+   {
+    "id": "x_transport_003",
+    "hangul": "편도",
+    "romanization": "pyeondo",
+    "french": "Aller simple",
+    "level": 3
+   },
+   {
+    "id": "x_transport_004",
+    "hangul": "면허증",
+    "romanization": "myeonheojeung",
+    "french": "Permis de conduire",
+    "level": 3
+   }
+  ],
+  "home": [
+   {
+    "id": "x_home_001",
+    "hangul": "전자레인지",
+    "romanization": "jeonjareinji",
+    "french": "Micro-ondes",
+    "level": 2
+   },
+   {
+    "id": "x_home_002",
+    "hangul": "베개",
+    "romanization": "begae",
+    "french": "Oreiller",
+    "level": 2
+   },
+   {
+    "id": "x_home_003",
+    "hangul": "분리수거",
+    "romanization": "bullisugeo",
+    "french": "Tri sélectif",
+    "level": 4
+   },
+   {
+    "id": "x_home_004",
+    "hangul": "전세",
+    "romanization": "jeonse",
+    "french": "Location avec gros dépôt (système coréen)",
+    "level": 5
+   }
+  ],
+  "culture": [
+   {
+    "id": "x_culture_001",
+    "hangul": "한옥",
+    "romanization": "hanok",
+    "french": "Maison traditionnelle",
+    "level": 2
+   },
+   {
+    "id": "x_culture_002",
+    "hangul": "판소리",
+    "romanization": "pansori",
+    "french": "Chant narratif traditionnel",
+    "level": 4
+   },
+   {
+    "id": "x_culture_003",
+    "hangul": "한",
+    "romanization": "han",
+    "french": "Mélancolie collective, ressentiment",
+    "level": 5
+   },
+   {
+    "id": "x_culture_004",
+    "hangul": "선배",
+    "romanization": "seonbae",
+    "french": "Aîné (école, travail)",
+    "level": 2
+   },
+   {
+    "id": "x_culture_005",
+    "hangul": "후배",
+    "romanization": "hubae",
+    "french": "Cadet (école, travail)",
+    "level": 2
+   }
+  ],
+  "society": [
+   {
+    "id": "x_society_001",
+    "hangul": "불평등",
+    "romanization": "bulpyeongdeung",
+    "french": "Inégalité",
+    "level": 5
+   }
+  ],
+  "business": [
+   {
+    "id": "x_business_001",
+    "hangul": "야근",
+    "romanization": "yageun",
+    "french": "Heures sup. le soir",
+    "level": 3
+   },
+   {
+    "id": "x_business_002",
+    "hangul": "퇴근",
+    "romanization": "toegeun",
+    "french": "Sortie du travail",
+    "level": 2
+   },
+   {
+    "id": "x_business_003",
+    "hangul": "출근",
+    "romanization": "chulgeun",
+    "french": "Arrivée au travail",
+    "level": 2
+   },
+   {
+    "id": "x_business_004",
+    "hangul": "이력서",
+    "romanization": "iryeokseo",
+    "french": "CV",
+    "level": 3
+   }
+  ],
+  "ideas": []
+ }
+}
