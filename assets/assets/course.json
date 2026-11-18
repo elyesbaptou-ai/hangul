@@ -1,0 +1,2203 @@
+{
+ "units": [
+  {
+   "id": "u01",
+   "number": 1,
+   "titleKo": "저는 대학생이에요",
+   "titleFr": "Je suis étudiante",
+   "level": 1,
+   "grammar": "이에요/예요 · 은/는",
+   "situation": "Au Sejong Hakdang, Seoyeon rencontre Luca et lui présente son amie Hana.",
+   "lines": [
+    {
+     "speaker": "서연",
+     "ko": "안녕하세요? 저는 김서연이에요.",
+     "fr": "Bonjour ! Je suis Kim Seoyeon."
+    },
+    {
+     "speaker": "루카",
+     "ko": "안녕하세요? 저는 루카 마르탱이에요.",
+     "fr": "Bonjour ! Je suis Luca Martin."
+    },
+    {
+     "speaker": "서연",
+     "ko": "루카 씨는 어느 나라 사람이에요?",
+     "fr": "Luca, tu es de quel pays ?"
+    },
+    {
+     "speaker": "루카",
+     "ko": "저는 프랑스 사람이에요. 서연 씨는 한국 사람이에요?",
+     "fr": "Je suis français. Et toi, Seoyeon, tu es coréenne ?"
+    },
+    {
+     "speaker": "서연",
+     "ko": "네, 한국 사람이에요. 루카 씨는 학생이에요?",
+     "fr": "Oui, je suis coréenne. Luca, tu es étudiant ?"
+    },
+    {
+     "speaker": "루카",
+     "ko": "아니요, 저는 요리사예요. 서연 씨는 무슨 일 하세요?",
+     "fr": "Non, je suis cuisinier. Et toi, que fais-tu dans la vie ?"
+    },
+    {
+     "speaker": "서연",
+     "ko": "저는 대학생이에요. 이 사람은 제 친구 하나예요.",
+     "fr": "Je suis étudiante. Voici mon amie Hana."
+    },
+    {
+     "speaker": "하나",
+     "ko": "만나서 반가워요. 저는 일본 사람이에요. 회사원이에요.",
+     "fr": "Enchantée. Je suis japonaise. Je travaille dans une entreprise."
+    },
+    {
+     "speaker": "루카",
+     "ko": "네, 저도 만나서 반가워요.",
+     "fr": "Enchanté également."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "루카 씨는 어느 나라 사람이에요?",
+     "answer": "프랑스 사람이에요.",
+     "wrong": [
+      "한국 사람이에요.",
+      "일본 사람이에요."
+     ],
+     "why": "Luca dit « 저는 프랑스 사람이에요 » : il est français."
+    },
+    {
+     "question": "루카 씨는 무슨 일을 해요?",
+     "answer": "요리사예요.",
+     "wrong": [
+      "학생이에요.",
+      "회사원이에요."
+     ],
+     "why": "Il répond « 아니요, 저는 요리사예요 » : il est cuisinier, pas étudiant."
+    },
+    {
+     "question": "서연 씨는 무슨 일을 해요?",
+     "answer": "대학생이에요.",
+     "wrong": [
+      "요리사예요.",
+      "선생님이에요."
+     ],
+     "why": "Seoyeon dit « 저는 대학생이에요 »."
+    },
+    {
+     "question": "하나 씨는 누구예요?",
+     "answer": "서연 씨의 친구예요.",
+     "wrong": [
+      "루카 씨의 선생님이에요.",
+      "서연 씨의 언니예요."
+     ],
+     "why": "« 이 사람은 제 친구 하나예요 » : Hana est l'amie de Seoyeon."
+    }
+   ],
+   "rules": [
+    {
+     "title": "이에요 / 예요",
+     "body": "« être » au présent poli. Après une consonne finale : 이에요 (학생이에요). Après une voyelle : 예요 (요리사예요)."
+    },
+    {
+     "title": "은 / 는",
+     "body": "Marque le thème, ce dont on parle. Après une consonne : 은 (선생님은). Après une voyelle : 는 (저는, 루카 씨는)."
+    }
+   ],
+   "drills": [
+    {
+     "question": "저는 학생___.",
+     "answer": "이에요",
+     "wrong": [
+      "예요",
+      "은요"
+     ],
+     "why": "학생 finit par la consonne ㅇ : on dit 학생이에요.",
+     "translation": "Je suis étudiant."
+    },
+    {
+     "question": "제 친구는 가수___.",
+     "answer": "예요",
+     "wrong": [
+      "이에요",
+      "는요"
+     ],
+     "why": "가수 finit par une voyelle : 가수예요.",
+     "translation": "Mon ami est chanteur."
+    },
+    {
+     "question": "마크 씨___ 회사원이에요.",
+     "answer": "는",
+     "wrong": [
+      "은",
+      "이에요"
+     ],
+     "why": "씨 finit par une voyelle : 씨는.",
+     "translation": "Mark est employé de bureau."
+    },
+    {
+     "question": "선생님___ 한국 사람이에요.",
+     "answer": "은",
+     "wrong": [
+      "는",
+      "예요"
+     ],
+     "why": "선생님 finit par la consonne ㅁ : 선생님은.",
+     "translation": "Le professeur est coréen."
+    },
+    {
+     "question": "이 사람은 의사___?",
+     "answer": "예요",
+     "wrong": [
+      "이에요",
+      "은요"
+     ],
+     "why": "의사 finit par une voyelle : 의사예요 ? (même forme pour la question).",
+     "translation": "Cette personne est médecin ?"
+    }
+   ]
+  },
+  {
+   "id": "u02",
+   "number": 2,
+   "titleKo": "어디에 가요?",
+   "titleFr": "Où vas-tu ?",
+   "level": 1,
+   "grammar": "-아요/-어요 · 에 가요",
+   "situation": "Minjun croise Hana dans la rue.",
+   "lines": [
+    {
+     "speaker": "민준",
+     "ko": "하나 씨, 안녕하세요? 오랜만이에요.",
+     "fr": "Bonjour Hana ! Ça fait longtemps."
+    },
+    {
+     "speaker": "하나",
+     "ko": "안녕하세요, 민준 씨! 지금 어디에 가요?",
+     "fr": "Bonjour Minjun ! Tu vas où, là ?"
+    },
+    {
+     "speaker": "민준",
+     "ko": "도서관에 가요. 시험이 있어요. 그래서 공부해요.",
+     "fr": "Je vais à la bibliothèque. J'ai un examen, alors je révise."
+    },
+    {
+     "speaker": "하나",
+     "ko": "아, 그래요? 저는 카페에 가요. 커피를 마셔요.",
+     "fr": "Ah bon ? Moi, je vais au café. Je bois un café."
+    },
+    {
+     "speaker": "민준",
+     "ko": "오늘 회사에 안 가요?",
+     "fr": "Tu ne vas pas au travail aujourd'hui ?"
+    },
+    {
+     "speaker": "하나",
+     "ko": "네, 오늘은 쉬어요. 내일 회사에 가요.",
+     "fr": "Non, aujourd'hui je me repose. J'y vais demain."
+    },
+    {
+     "speaker": "민준",
+     "ko": "좋아요. 그럼 잘 쉬어요!",
+     "fr": "Super. Alors repose-toi bien !"
+    },
+    {
+     "speaker": "하나",
+     "ko": "네, 민준 씨도 공부 열심히 해요!",
+     "fr": "Merci, et toi, bon courage pour tes révisions !"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "민준 씨는 지금 어디에 가요?",
+     "answer": "도서관에 가요.",
+     "wrong": [
+      "카페에 가요.",
+      "회사에 가요."
+     ],
+     "why": "« 도서관에 가요 » : il va à la bibliothèque."
+    },
+    {
+     "question": "민준 씨는 왜 공부해요?",
+     "answer": "시험이 있어요.",
+     "wrong": [
+      "회사에 안 가요.",
+      "카페에 가요."
+     ],
+     "why": "« 시험이 있어요. 그래서 공부해요. » : il a un examen."
+    },
+    {
+     "question": "하나 씨는 카페에서 뭐 해요?",
+     "answer": "커피를 마셔요.",
+     "wrong": [
+      "공부해요.",
+      "일해요."
+     ],
+     "why": "« 커피를 마셔요 » : elle boit un café."
+    },
+    {
+     "question": "하나 씨는 오늘 회사에 가요?",
+     "answer": "아니요, 오늘은 쉬어요.",
+     "wrong": [
+      "네, 회사에 가요.",
+      "네, 오늘 일해요."
+     ],
+     "why": "Elle se repose aujourd'hui et va au travail demain."
+    }
+   ],
+   "rules": [
+    {
+     "title": "-아요 / -어요",
+     "body": "Présent poli. Radical en ㅏ ou ㅗ : -아요 (가다 → 가요, 오다 → 와요). Autres radicaux : -어요 (먹다 → 먹어요, 마시다 → 마셔요). 하다 → 해요."
+    },
+    {
+     "title": "N에 가요",
+     "body": "에 après un lieu indique la destination avec 가다 (aller) et 오다 (venir) : 학교에 가요."
+    }
+   ],
+   "drills": [
+    {
+     "question": "저는 지금 학교___ 가요.",
+     "answer": "에",
+     "wrong": [
+      "는",
+      "이에요"
+     ],
+     "why": "La destination avec 가다 prend 에.",
+     "translation": "Je vais à l'école maintenant."
+    },
+    {
+     "question": "매일 아침 커피를 (마시다) ___.",
+     "answer": "마셔요",
+     "wrong": [
+      "마시어요",
+      "마사요"
+     ],
+     "why": "마시 + 어요 se contracte en 마셔요.",
+     "translation": "Je bois du café tous les matins."
+    },
+    {
+     "question": "저녁에 친구하고 (이야기하다) ___.",
+     "answer": "이야기해요",
+     "wrong": [
+      "이야기하요",
+      "이야기어요"
+     ],
+     "why": "Tous les verbes en 하다 deviennent 해요.",
+     "translation": "Le soir, je discute avec un ami."
+    },
+    {
+     "question": "동생이 빵을 (먹다) ___.",
+     "answer": "먹어요",
+     "wrong": [
+      "먹아요",
+      "먹요"
+     ],
+     "why": "먹 n'a ni ㅏ ni ㅗ : on ajoute 어요.",
+     "translation": "Mon petit frère mange du pain."
+    },
+    {
+     "question": "지금 어디에 (가다) ___?",
+     "answer": "가요",
+     "wrong": [
+      "가아요",
+      "거요"
+     ],
+     "why": "가 + 아요 se contracte en 가요.",
+     "translation": "Où vas-tu maintenant ?"
+    }
+   ]
+  },
+  {
+   "id": "u03",
+   "number": 3,
+   "titleKo": "전화번호가 뭐예요?",
+   "titleFr": "Quel est ton numéro ?",
+   "level": 1,
+   "grammar": "숫자 · 이/가 · 이/가 아니에요",
+   "situation": "Thomas et Yuna échangent leurs numéros à la cafétéria.",
+   "lines": [
+    {
+     "speaker": "유나",
+     "ko": "토마 씨, 전화번호가 뭐예요?",
+     "fr": "Thomas, c'est quoi ton numéro ?"
+    },
+    {
+     "speaker": "토마",
+     "ko": "제 전화번호는 공일공, 사팔이칠, 삼일오칠이에요.",
+     "fr": "Mon numéro, c'est le 010-4827-3157."
+    },
+    {
+     "speaker": "유나",
+     "ko": "공일공, 사팔이칠, 삼일오육이에요?",
+     "fr": "010-4827-3156 ?"
+    },
+    {
+     "speaker": "토마",
+     "ko": "아니요, 삼일오육이 아니에요. 삼일오칠이에요.",
+     "fr": "Non, pas 3156. C'est 3157."
+    },
+    {
+     "speaker": "유나",
+     "ko": "아, 알겠어요. 제 번호는 공일공, 이삼구일, 팔공사오예요.",
+     "fr": "Ah, d'accord. Le mien, c'est le 010-2391-8045."
+    },
+    {
+     "speaker": "토마",
+     "ko": "고마워요. 그런데 이 우산이 유나 씨 우산이에요?",
+     "fr": "Merci. Au fait, ce parapluie, c'est le tien ?"
+    },
+    {
+     "speaker": "유나",
+     "ko": "아니요, 제 우산이 아니에요. 민수 씨 우산이에요.",
+     "fr": "Non, ce n'est pas le mien. C'est celui de Minsu."
+    },
+    {
+     "speaker": "토마",
+     "ko": "그렇군요. 이 커피는 얼마예요?",
+     "fr": "Je vois. Et ce café, il coûte combien ?"
+    },
+    {
+     "speaker": "유나",
+     "ko": "사천오백 원이에요.",
+     "fr": "4 500 wons."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "토마 씨 전화번호는 뭐예요?",
+     "answer": "010-4827-3157",
+     "wrong": [
+      "010-4827-3156",
+      "010-2391-8045"
+     ],
+     "why": "Thomas corrige : « 삼일오육이 아니에요. 삼일오칠이에요. »"
+    },
+    {
+     "question": "유나 씨 전화번호는 뭐예요?",
+     "answer": "010-2391-8045",
+     "wrong": [
+      "010-2391-8054",
+      "010-4827-3157"
+     ],
+     "why": "« 공일공, 이삼구일, 팔공사오 » = 010-2391-8045."
+    },
+    {
+     "question": "이 우산은 누구 우산이에요?",
+     "answer": "민수 씨 우산이에요.",
+     "wrong": [
+      "유나 씨 우산이에요.",
+      "토마 씨 우산이에요."
+     ],
+     "why": "« 제 우산이 아니에요. 민수 씨 우산이에요. »"
+    },
+    {
+     "question": "커피는 얼마예요?",
+     "answer": "4,500원이에요.",
+     "wrong": [
+      "5,400원이에요.",
+      "4,050원이에요."
+     ],
+     "why": "사천오백 = 4 000 (사천) + 500 (오백)."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Nombres sino-coréens",
+     "body": "일 이 삼 사 오 육 칠 팔 구 십, puis 백 (100), 천 (1 000), 만 (10 000). Ils servent pour les numéros, les prix et les dates. Dans un numéro de téléphone, 0 se dit 공."
+    },
+    {
+     "title": "이 / 가",
+     "body": "Marque le sujet. Après une consonne : 이 (사람이). Après une voyelle : 가 (친구가)."
+    },
+    {
+     "title": "N이/가 아니에요",
+     "body": "« ne pas être » : 커피가 아니에요 (ce n'est pas du café), 학생이 아니에요."
+    }
+   ],
+   "drills": [
+    {
+     "question": "이 사람___ 제 동생이에요.",
+     "answer": "이",
+     "wrong": [
+      "가",
+      "은요"
+     ],
+     "why": "사람 finit par une consonne : 사람이.",
+     "translation": "Cette personne est mon petit frère."
+    },
+    {
+     "question": "우리 학교___ 커요.",
+     "answer": "가",
+     "wrong": [
+      "이",
+      "를"
+     ],
+     "why": "학교 finit par une voyelle : 학교가.",
+     "translation": "Notre école est grande."
+    },
+    {
+     "question": "이건 커피가 ___. 차예요.",
+     "answer": "아니에요",
+     "wrong": [
+      "이에요",
+      "없어요"
+     ],
+     "why": "N이/가 아니에요 = ne pas être.",
+     "translation": "Ce n'est pas du café. C'est du thé."
+    },
+    {
+     "question": "저는 선생님이 ___. 학생이에요.",
+     "answer": "아니에요",
+     "wrong": [
+      "아니예요",
+      "안이에요"
+     ],
+     "why": "La forme correcte s'écrit 아니에요.",
+     "translation": "Je ne suis pas professeur. Je suis étudiant."
+    },
+    {
+     "question": "25번 버스 = ___ 번 버스",
+     "answer": "이십오",
+     "wrong": [
+      "스물다섯",
+      "이오"
+     ],
+     "why": "Les numéros se lisent en sino-coréen : 이십오 번.",
+     "translation": "Le bus n° 25"
+    }
+   ]
+  },
+  {
+   "id": "u04",
+   "number": 4,
+   "titleKo": "책상 위에 지갑이 있어요",
+   "titleFr": "Le portefeuille est sur le bureau",
+   "level": 1,
+   "grammar": "에 있어요/없어요 · 의 · 위치",
+   "situation": "Jimin appelle sa colocataire Sophie avec le téléphone d'une amie : elle a perdu le sien.",
+   "lines": [
+    {
+     "speaker": "지민",
+     "ko": "여보세요? 소피 씨, 지금 집에 있어요?",
+     "fr": "Allô ? Sophie, tu es à la maison ?"
+    },
+    {
+     "speaker": "소피",
+     "ko": "네, 집에 있어요. 왜요?",
+     "fr": "Oui, je suis à la maison. Pourquoi ?"
+    },
+    {
+     "speaker": "지민",
+     "ko": "제 휴대폰이 없어요. 제 방에 휴대폰이 있어요?",
+     "fr": "Je n'ai plus mon téléphone. Il est dans ma chambre ?"
+    },
+    {
+     "speaker": "소피",
+     "ko": "잠깐만요. 책상 위에는 없어요. 책하고 컴퓨터만 있어요.",
+     "fr": "Attends. Il n'est pas sur le bureau. Il n'y a que des livres et l'ordinateur."
+    },
+    {
+     "speaker": "지민",
+     "ko": "그럼 침대 위에 있어요?",
+     "fr": "Alors il est sur le lit ?"
+    },
+    {
+     "speaker": "소피",
+     "ko": "아니요, 침대 위에도 없어요. 아! 의자 아래에 있어요.",
+     "fr": "Non, pas sur le lit non plus. Ah ! Il est sous la chaise."
+    },
+    {
+     "speaker": "지민",
+     "ko": "정말요? 다행이에요. 그리고 제 가방은요?",
+     "fr": "C'est vrai ? Ouf. Et mon sac ?"
+    },
+    {
+     "speaker": "소피",
+     "ko": "지민 씨의 가방은 문 옆에 있어요.",
+     "fr": "Ton sac est à côté de la porte."
+    },
+    {
+     "speaker": "지민",
+     "ko": "고마워요, 소피 씨!",
+     "fr": "Merci, Sophie !"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "지민 씨의 휴대폰은 어디에 있어요?",
+     "answer": "의자 아래에 있어요.",
+     "wrong": [
+      "책상 위에 있어요.",
+      "침대 위에 있어요."
+     ],
+     "why": "« 아! 의자 아래에 있어요. »"
+    },
+    {
+     "question": "책상 위에 뭐가 있어요?",
+     "answer": "책하고 컴퓨터가 있어요.",
+     "wrong": [
+      "휴대폰이 있어요.",
+      "가방이 있어요."
+     ],
+     "why": "« 책하고 컴퓨터만 있어요 » : seulement des livres et l'ordinateur."
+    },
+    {
+     "question": "지민 씨의 가방은 어디에 있어요?",
+     "answer": "문 옆에 있어요.",
+     "wrong": [
+      "의자 아래에 있어요.",
+      "책상 위에 있어요."
+     ],
+     "why": "« 가방은 문 옆에 있어요. »"
+    },
+    {
+     "question": "소피 씨는 지금 어디에 있어요?",
+     "answer": "집에 있어요.",
+     "wrong": [
+      "학교에 있어요.",
+      "카페에 있어요."
+     ],
+     "why": "« 네, 집에 있어요. »"
+    }
+   ],
+   "rules": [
+    {
+     "title": "N이/가 (lieu)에 있어요 / 없어요",
+     "body": "있다 = il y a, se trouver. 없다 = il n'y a pas. Le lieu prend 에 : 가방이 문 옆에 있어요."
+    },
+    {
+     "title": "Positions",
+     "body": "위 (sur), 아래 (sous), 앞 (devant), 뒤 (derrière), 옆 (à côté), 안 (dans), 밖 (dehors). On dit : objet + 이/가, lieu + position + 에."
+    },
+    {
+     "title": "의",
+     "body": "Possession : 선생님의 책 (le livre du professeur). 저의 se contracte en 제 : 제 가방."
+    }
+   ],
+   "drills": [
+    {
+     "question": "고양이가 소파 ___에 있어요. (sous)",
+     "answer": "아래",
+     "wrong": [
+      "위",
+      "옆"
+     ],
+     "why": "아래 = sous.",
+     "translation": "Le chat est sous le canapé."
+    },
+    {
+     "question": "지갑이 가방 ___에 있어요. (dans)",
+     "answer": "안",
+     "wrong": [
+      "밖",
+      "앞"
+     ],
+     "why": "안 = dans, à l'intérieur.",
+     "translation": "Le portefeuille est dans le sac."
+    },
+    {
+     "question": "이건 선생님___ 책이에요.",
+     "answer": "의",
+     "wrong": [
+      "이",
+      "에"
+     ],
+     "why": "의 marque la possession.",
+     "translation": "C'est le livre du professeur."
+    },
+    {
+     "question": "교실에 컴퓨터가 ___. (il n'y en a pas)",
+     "answer": "없어요",
+     "wrong": [
+      "아니에요",
+      "안 있어요"
+     ],
+     "why": "Le contraire de 있어요 est 없어요.",
+     "translation": "Il n'y a pas d'ordinateur dans la classe."
+    },
+    {
+     "question": "화장실이 어디에 ___?",
+     "answer": "있어요",
+     "wrong": [
+      "이에요",
+      "가요"
+     ],
+     "why": "Pour situer quelque chose : 어디에 있어요 ?",
+     "translation": "Où sont les toilettes ?"
+    }
+   ]
+  },
+  {
+   "id": "u05",
+   "number": 5,
+   "titleKo": "사과하고 오렌지가 맛있어요",
+   "titleFr": "Les pommes et les oranges sont bonnes",
+   "level": 1,
+   "grammar": "고유어 숫자 · 단위 명사 · 하고",
+   "situation": "Emily fait ses courses chez le marchand de fruits du quartier.",
+   "lines": [
+    {
+     "speaker": "주인",
+     "ko": "어서 오세요!",
+     "fr": "Bienvenue !"
+    },
+    {
+     "speaker": "에밀리",
+     "ko": "안녕하세요. 요즘 뭐가 맛있어요?",
+     "fr": "Bonjour. Qu'est-ce qui est bon en ce moment ?"
+    },
+    {
+     "speaker": "주인",
+     "ko": "딸기하고 사과가 맛있어요.",
+     "fr": "Les fraises et les pommes."
+    },
+    {
+     "speaker": "에밀리",
+     "ko": "사과는 얼마예요?",
+     "fr": "Combien coûtent les pommes ?"
+    },
+    {
+     "speaker": "주인",
+     "ko": "한 개에 천오백 원이에요.",
+     "fr": "1 500 wons pièce."
+    },
+    {
+     "speaker": "에밀리",
+     "ko": "딸기는요?",
+     "fr": "Et les fraises ?"
+    },
+    {
+     "speaker": "주인",
+     "ko": "딸기는 한 상자에 만 원이에요.",
+     "fr": "10 000 wons la barquette."
+    },
+    {
+     "speaker": "에밀리",
+     "ko": "그럼 사과 네 개하고 딸기 한 상자 주세요.",
+     "fr": "Alors donnez-moi quatre pommes et une barquette de fraises."
+    },
+    {
+     "speaker": "주인",
+     "ko": "네, 모두 만육천 원이에요.",
+     "fr": "Très bien, ça fait 16 000 wons en tout."
+    },
+    {
+     "speaker": "에밀리",
+     "ko": "여기 있어요.",
+     "fr": "Voilà."
+    },
+    {
+     "speaker": "주인",
+     "ko": "감사합니다. 맛있게 드세요.",
+     "fr": "Merci. Bonne dégustation !"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "요즘 뭐가 맛있어요?",
+     "answer": "딸기하고 사과가 맛있어요.",
+     "wrong": [
+      "오렌지하고 포도가 맛있어요.",
+      "수박이 맛있어요."
+     ],
+     "why": "« 딸기하고 사과가 맛있어요. »"
+    },
+    {
+     "question": "사과 한 개에 얼마예요?",
+     "answer": "1,500원이에요.",
+     "wrong": [
+      "1,000원이에요.",
+      "5,000원이에요."
+     ],
+     "why": "« 한 개에 천오백 원이에요. »"
+    },
+    {
+     "question": "에밀리 씨는 사과를 몇 개 사요?",
+     "answer": "네 개 사요.",
+     "wrong": [
+      "두 개 사요.",
+      "한 개 사요."
+     ],
+     "why": "« 사과 네 개하고 딸기 한 상자 주세요. »"
+    },
+    {
+     "question": "에밀리 씨는 모두 얼마를 내요?",
+     "answer": "16,000원",
+     "wrong": [
+      "10,000원",
+      "6,000원"
+     ],
+     "why": "4 pommes × 1 500 = 6 000, plus 10 000 pour les fraises = 16 000 (만육천 원)."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Nombres coréens natifs",
+     "body": "하나 둘 셋 넷 다섯 여섯 일곱 여덟 아홉 열. Devant un compteur, 하나 → 한, 둘 → 두, 셋 → 세, 넷 → 네, 스물 → 스무."
+    },
+    {
+     "title": "Compteurs",
+     "body": "개 (objets), 명 (personnes), 마리 (animaux), 잔 (verres, tasses), 병 (bouteilles), 권 (livres), 장 (feuilles, billets), 살 (âge). Ordre : nom + nombre + compteur (사과 세 개)."
+    },
+    {
+     "title": "하고",
+     "body": "« et » entre deux noms : 빵하고 우유. Aussi « avec » : 친구하고 가요."
+    }
+   ],
+   "drills": [
+    {
+     "question": "사과 ___ 개 주세요. (3)",
+     "answer": "세",
+     "wrong": [
+      "셋",
+      "삼"
+     ],
+     "why": "Devant un compteur, 셋 devient 세.",
+     "translation": "Donnez-moi trois pommes."
+    },
+    {
+     "question": "교실에 학생이 ___ 명 있어요. (2)",
+     "answer": "두",
+     "wrong": [
+      "둘",
+      "이"
+     ],
+     "why": "Devant un compteur, 둘 devient 두.",
+     "translation": "Il y a deux étudiants dans la classe."
+    },
+    {
+     "question": "커피 한 ___ 주세요.",
+     "answer": "잔",
+     "wrong": [
+      "권",
+      "마리"
+     ],
+     "why": "잔 compte les tasses et les verres.",
+     "translation": "Un café, s'il vous plaît."
+    },
+    {
+     "question": "고양이 두 ___가 있어요.",
+     "answer": "마리",
+     "wrong": [
+      "명",
+      "장"
+     ],
+     "why": "마리 compte les animaux.",
+     "translation": "Il y a deux chats."
+    },
+    {
+     "question": "빵___ 우유 주세요.",
+     "answer": "하고",
+     "wrong": [
+      "이",
+      "에"
+     ],
+     "why": "하고 relie deux noms : « et ».",
+     "translation": "Du pain et du lait, s'il vous plaît."
+    }
+   ]
+  },
+  {
+   "id": "u06",
+   "number": 6,
+   "titleKo": "저는 비빔냉면을 좋아해요",
+   "titleFr": "J'aime les nouilles froides épicées",
+   "level": 1,
+   "grammar": "을/를 · 안 · -지 않다",
+   "situation": "Junho emmène Chloé dans son restaurant préféré.",
+   "lines": [
+    {
+     "speaker": "준호",
+     "ko": "클로에 씨, 이 식당은 비빔밥이 정말 맛있어요.",
+     "fr": "Chloé, le bibimbap de ce restaurant est vraiment bon."
+    },
+    {
+     "speaker": "클로에",
+     "ko": "그래요? 비빔밥은 매워요?",
+     "fr": "Ah oui ? Le bibimbap, c'est épicé ?"
+    },
+    {
+     "speaker": "준호",
+     "ko": "조금 매워요. 클로에 씨는 매운 음식을 좋아해요?",
+     "fr": "Un peu. Tu aimes les plats épicés ?"
+    },
+    {
+     "speaker": "클로에",
+     "ko": "아니요, 저는 매운 음식을 좋아하지 않아요.",
+     "fr": "Non, je n'aime pas les plats épicés."
+    },
+    {
+     "speaker": "준호",
+     "ko": "그럼 불고기는 어때요? 불고기는 안 매워요. 그리고 아주 맛있어요.",
+     "fr": "Alors que penses-tu du bulgogi ? Ce n'est pas épicé. Et c'est très bon."
+    },
+    {
+     "speaker": "클로에",
+     "ko": "좋아요. 저는 불고기를 먹어요. 준호 씨는요?",
+     "fr": "D'accord. Je prends le bulgogi. Et toi ?"
+    },
+    {
+     "speaker": "준호",
+     "ko": "저는 김치찌개를 먹어요. 그리고 물냉면도 시켜요.",
+     "fr": "Moi, je prends le ragoût de kimchi. Et je commande aussi des nouilles froides."
+    },
+    {
+     "speaker": "클로에",
+     "ko": "여기요! 불고기 하나, 김치찌개 하나, 물냉면 하나 주세요.",
+     "fr": "S'il vous plaît ! Un bulgogi, un ragoût de kimchi et des nouilles froides."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "클로에 씨는 매운 음식을 좋아해요?",
+     "answer": "아니요, 안 좋아해요.",
+     "wrong": [
+      "네, 아주 좋아해요.",
+      "네, 조금 좋아해요."
+     ],
+     "why": "« 저는 매운 음식을 좋아하지 않아요. »"
+    },
+    {
+     "question": "클로에 씨는 뭘 먹어요?",
+     "answer": "불고기를 먹어요.",
+     "wrong": [
+      "비빔밥을 먹어요.",
+      "김치찌개를 먹어요."
+     ],
+     "why": "« 저는 불고기를 먹어요. »"
+    },
+    {
+     "question": "준호 씨는 뭘 시켜요?",
+     "answer": "김치찌개하고 물냉면을 시켜요.",
+     "wrong": [
+      "불고기를 시켜요.",
+      "비빔밥하고 불고기를 시켜요."
+     ],
+     "why": "Il prend le 김치찌개 et commande aussi le 물냉면."
+    },
+    {
+     "question": "이 식당 비빔밥은 어때요?",
+     "answer": "맛있어요.",
+     "wrong": [
+      "맛없어요.",
+      "너무 비싸요."
+     ],
+     "why": "« 이 식당은 비빔밥이 정말 맛있어요. »"
+    }
+   ],
+   "rules": [
+    {
+     "title": "을 / 를",
+     "body": "Marque le complément d'objet direct. Après une consonne : 을 (밥을). Après une voyelle : 를 (커피를)."
+    },
+    {
+     "title": "안 + verbe / verbe-지 않아요",
+     "body": "Deux façons de dire « ne… pas » : 안 먹어요 = 먹지 않아요. Pour les verbes en 하다, 안 se place avant 하다 : 공부 안 해요."
+    }
+   ],
+   "drills": [
+    {
+     "question": "저는 사과___ 좋아해요.",
+     "answer": "를",
+     "wrong": [
+      "을",
+      "가"
+     ],
+     "why": "사과 finit par une voyelle : 사과를.",
+     "translation": "J'aime les pommes."
+    },
+    {
+     "question": "동생이 책___ 읽어요.",
+     "answer": "을",
+     "wrong": [
+      "를",
+      "이"
+     ],
+     "why": "책 finit par une consonne : 책을.",
+     "translation": "Mon petit frère lit un livre."
+    },
+    {
+     "question": "저는 커피를 ___ 마셔요. (négation)",
+     "answer": "안",
+     "wrong": [
+      "못",
+      "않"
+     ],
+     "why": "La négation courte se place juste avant le verbe : 안 마셔요.",
+     "translation": "Je ne bois pas de café."
+    },
+    {
+     "question": "오늘은 운동을 ___.",
+     "answer": "안 해요",
+     "wrong": [
+      "해요 안",
+      "하지 않요"
+     ],
+     "why": "운동을 하다 : 안 se met devant 하다 → 운동을 안 해요.",
+     "translation": "Aujourd'hui, je ne fais pas de sport."
+    },
+    {
+     "question": "이 김치찌개는 맵지 ___.",
+     "answer": "않아요",
+     "wrong": [
+      "안 해요",
+      "없어요"
+     ],
+     "why": "Radical + 지 않아요 = négation longue.",
+     "translation": "Ce ragoût de kimchi n'est pas épicé."
+    }
+   ]
+  },
+  {
+   "id": "u07",
+   "number": 7,
+   "titleKo": "토요일에 뭐 해요?",
+   "titleFr": "Que fais-tu samedi ?",
+   "level": 1,
+   "grammar": "에 (temps) · 날짜와 시간 · -(으)세요",
+   "situation": "Léo demande à Jisu ce qu'elle fait samedi.",
+   "lines": [
+    {
+     "speaker": "레오",
+     "ko": "지수 씨, 토요일에 뭐 해요?",
+     "fr": "Jisu, que fais-tu samedi ?"
+    },
+    {
+     "speaker": "지수",
+     "ko": "친구들하고 같이 영화관에 가요.",
+     "fr": "Je vais au cinéma avec des amis."
+    },
+    {
+     "speaker": "레오",
+     "ko": "그래요? 영화는 몇 시에 시작해요?",
+     "fr": "Ah oui ? Le film commence à quelle heure ?"
+    },
+    {
+     "speaker": "지수",
+     "ko": "오후 세 시 삼십 분에 시작해요. 레오 씨는 토요일에 바빠요?",
+     "fr": "À 15 h 30. Tu es occupé samedi, Léo ?"
+    },
+    {
+     "speaker": "레오",
+     "ko": "오전에는 한국어 수업이 있어요. 오후에는 시간이 있어요.",
+     "fr": "Le matin, j'ai cours de coréen. L'après-midi, je suis libre."
+    },
+    {
+     "speaker": "지수",
+     "ko": "그럼 레오 씨도 같이 가요. 두 시 반에 영화관 앞으로 오세요.",
+     "fr": "Alors viens avec nous. Viens devant le cinéma à 14 h 30."
+    },
+    {
+     "speaker": "레오",
+     "ko": "좋아요. 그런데 토요일이 며칠이에요?",
+     "fr": "D'accord. Au fait, samedi, c'est le combien ?"
+    },
+    {
+     "speaker": "지수",
+     "ko": "시월 십일일이에요.",
+     "fr": "C'est le 11 octobre."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "지수 씨는 토요일에 뭐 해요?",
+     "answer": "영화를 봐요.",
+     "wrong": [
+      "한국어를 공부해요.",
+      "쇼핑을 해요."
+     ],
+     "why": "Elle va au cinéma avec des amis."
+    },
+    {
+     "question": "영화는 몇 시에 시작해요?",
+     "answer": "오후 3시 30분",
+     "wrong": [
+      "오후 2시 30분",
+      "오후 3시"
+     ],
+     "why": "« 오후 세 시 삼십 분에 시작해요. »"
+    },
+    {
+     "question": "레오 씨는 토요일 오전에 뭐 해요?",
+     "answer": "한국어 수업이 있어요.",
+     "wrong": [
+      "영화를 봐요.",
+      "집에서 쉬어요."
+     ],
+     "why": "« 오전에는 한국어 수업이 있어요. »"
+    },
+    {
+     "question": "두 사람은 몇 시에 만나요?",
+     "answer": "2시 30분에 만나요.",
+     "wrong": [
+      "3시 30분에 만나요.",
+      "11시에 만나요."
+     ],
+     "why": "« 두 시 반에 영화관 앞으로 오세요. » 반 = et demie."
+    },
+    {
+     "question": "토요일은 며칠이에요?",
+     "answer": "10월 11일",
+     "wrong": [
+      "10월 9일",
+      "11월 10일"
+     ],
+     "why": "시월 = octobre (et non 십월), 십일일 = le 11."
+    }
+   ],
+   "rules": [
+    {
+     "title": "에 pour le temps",
+     "body": "Jours, heures et dates prennent 에 : 토요일에, 세 시에, 시월 십일일에. Sauf 오늘, 내일, 어제 qui s'emploient seuls."
+    },
+    {
+     "title": "L'heure",
+     "body": "Les heures se disent en nombres natifs (한 시, 세 시, 열두 시), les minutes en sino-coréen (삼십 분). Mois et jours sont sino-coréens, avec 유월 (juin) et 시월 (octobre)."
+    },
+    {
+     "title": "-(으)세요",
+     "body": "Demande polie : radical à consonne + 으세요 (앉으세요), radical à voyelle + 세요 (오세요)."
+    }
+   ],
+   "drills": [
+    {
+     "question": "저는 일요일___ 쉬어요.",
+     "answer": "에",
+     "wrong": [
+      "에서",
+      "을"
+     ],
+     "why": "Un jour de la semaine prend 에.",
+     "translation": "Le dimanche, je me repose."
+    },
+    {
+     "question": "3 h = ___ 시",
+     "answer": "세",
+     "wrong": [
+      "삼",
+      "셋"
+     ],
+     "why": "Les heures sont en nombres natifs : 세 시.",
+     "translation": "Trois heures"
+    },
+    {
+     "question": "Juin = ___",
+     "answer": "유월",
+     "wrong": [
+      "육월",
+      "여섯월"
+     ],
+     "why": "Forme irrégulière : 유월.",
+     "translation": "Juin"
+    },
+    {
+     "question": "여기에 ___. (앉다, invitation polie)",
+     "answer": "앉으세요",
+     "wrong": [
+      "앉세요",
+      "앉아세요"
+     ],
+     "why": "앉 finit par une consonne : 앉 + 으세요.",
+     "translation": "Asseyez-vous ici."
+    },
+    {
+     "question": "30 minutes = ___ 분",
+     "answer": "삼십",
+     "wrong": [
+      "서른",
+      "삼"
+     ],
+     "why": "Les minutes sont en sino-coréen : 삼십 분.",
+     "translation": "Trente minutes"
+    }
+   ]
+  },
+  {
+   "id": "u08",
+   "number": 8,
+   "titleKo": "도서관에서 뭐 했어요?",
+   "titleFr": "Qu'as-tu fait à la bibliothèque ?",
+   "level": 1,
+   "grammar": "에서 · -았어요/-었어요",
+   "situation": "Lundi matin, Marie et Doyun parlent de leur week-end.",
+   "lines": [
+    {
+     "speaker": "마리",
+     "ko": "도윤 씨, 주말에 뭐 했어요?",
+     "fr": "Doyun, qu'est-ce que tu as fait ce week-end ?"
+    },
+    {
+     "speaker": "도윤",
+     "ko": "토요일에 공원에서 자전거를 탔어요. 날씨가 정말 좋았어요.",
+     "fr": "Samedi, j'ai fait du vélo au parc. Il faisait vraiment beau."
+    },
+    {
+     "speaker": "마리",
+     "ko": "일요일에는요?",
+     "fr": "Et dimanche ?"
+    },
+    {
+     "speaker": "도윤",
+     "ko": "일요일에는 도서관에서 책을 읽었어요. 마리 씨는요?",
+     "fr": "Dimanche, j'ai lu à la bibliothèque. Et toi ?"
+    },
+    {
+     "speaker": "마리",
+     "ko": "저는 백화점에서 쇼핑했어요. 그리고 친구 집에서 같이 요리했어요.",
+     "fr": "J'ai fait du shopping au grand magasin. Et on a cuisiné chez une amie."
+    },
+    {
+     "speaker": "도윤",
+     "ko": "와, 뭐 만들었어요?",
+     "fr": "Oh, vous avez préparé quoi ?"
+    },
+    {
+     "speaker": "마리",
+     "ko": "불고기를 만들었어요. 아주 맛있었어요.",
+     "fr": "Du bulgogi. C'était très bon."
+    },
+    {
+     "speaker": "도윤",
+     "ko": "다음에는 저도 같이 해요!",
+     "fr": "La prochaine fois, je viens aussi !"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "도윤 씨는 토요일에 어디에서 자전거를 탔어요?",
+     "answer": "공원에서 탔어요.",
+     "wrong": [
+      "도서관에서 탔어요.",
+      "백화점에서 탔어요."
+     ],
+     "why": "« 토요일에 공원에서 자전거를 탔어요. »"
+    },
+    {
+     "question": "도윤 씨는 일요일에 뭐 했어요?",
+     "answer": "책을 읽었어요.",
+     "wrong": [
+      "자전거를 탔어요.",
+      "요리했어요."
+     ],
+     "why": "« 일요일에는 도서관에서 책을 읽었어요. »"
+    },
+    {
+     "question": "마리 씨는 어디에서 쇼핑했어요?",
+     "answer": "백화점에서 했어요.",
+     "wrong": [
+      "시장에서 했어요.",
+      "편의점에서 했어요."
+     ],
+     "why": "« 저는 백화점에서 쇼핑했어요. »"
+    },
+    {
+     "question": "마리 씨는 친구 집에서 뭘 만들었어요?",
+     "answer": "불고기를 만들었어요.",
+     "wrong": [
+      "비빔밥을 만들었어요.",
+      "김밥을 만들었어요."
+     ],
+     "why": "« 불고기를 만들었어요. 아주 맛있었어요. »"
+    }
+   ],
+   "rules": [
+    {
+     "title": "에서",
+     "body": "Lieu où se passe une action : 공원에서 자전거를 타요. À ne pas confondre avec 에, la destination (공원에 가요) ou l'existence (공원에 있어요)."
+    },
+    {
+     "title": "Passé -았어요 / -었어요 / -했어요",
+     "body": "Radical en ㅏ ou ㅗ : -았어요 (가다 → 갔어요, 보다 → 봤어요). Autres : -었어요 (먹다 → 먹었어요). 하다 → 했어요."
+    }
+   ],
+   "drills": [
+    {
+     "question": "저는 카페___ 친구를 만났어요.",
+     "answer": "에서",
+     "wrong": [
+      "에",
+      "를"
+     ],
+     "why": "L'action se passe au café : 에서.",
+     "translation": "J'ai retrouvé un ami au café."
+    },
+    {
+     "question": "어제 학교___ 갔어요.",
+     "answer": "에",
+     "wrong": [
+      "에서",
+      "이"
+     ],
+     "why": "Destination avec 가다 : 에.",
+     "translation": "Hier, je suis allé à l'école."
+    },
+    {
+     "question": "어제 영화를 (보다) ___.",
+     "answer": "봤어요",
+     "wrong": [
+      "봐었어요",
+      "보었어요"
+     ],
+     "why": "보 + 았어요 se contracte en 봤어요.",
+     "translation": "Hier, j'ai regardé un film."
+    },
+    {
+     "question": "지난주에 친구하고 (공부하다) ___.",
+     "answer": "공부했어요",
+     "wrong": [
+      "공부하았어요",
+      "공부해었어요"
+     ],
+     "why": "하다 → 했어요.",
+     "translation": "La semaine dernière, j'ai étudié avec un ami."
+    },
+    {
+     "question": "아침에 빵을 (먹다) ___.",
+     "answer": "먹었어요",
+     "wrong": [
+      "먹았어요",
+      "먹했어요"
+     ],
+     "why": "먹 n'a ni ㅏ ni ㅗ : -었어요.",
+     "translation": "Ce matin, j'ai mangé du pain."
+    }
+   ]
+  },
+  {
+   "id": "u09",
+   "number": 9,
+   "titleKo": "다음 주말에 같이 축구해요",
+   "titleFr": "Jouons au foot ensemble le week-end prochain",
+   "level": 1,
+   "grammar": "-(으)ㄹ 거예요 · -아요/-어요 (proposition) · 빈도",
+   "situation": "Ian et Seoyun parlent de leurs loisirs.",
+   "lines": [
+    {
+     "speaker": "이안",
+     "ko": "서윤 씨, 취미가 뭐예요?",
+     "fr": "Seoyun, quel est ton passe-temps ?"
+    },
+    {
+     "speaker": "서윤",
+     "ko": "저는 등산을 좋아해요. 주말에 자주 산에 가요. 이안 씨는요?",
+     "fr": "J'aime la randonnée. Je vais souvent en montagne le week-end. Et toi ?"
+    },
+    {
+     "speaker": "이안",
+     "ko": "저는 축구를 좋아해요. 매주 토요일에 친구들하고 축구를 해요.",
+     "fr": "Moi, j'aime le football. Je joue avec des amis tous les samedis."
+    },
+    {
+     "speaker": "서윤",
+     "ko": "저는 축구는 거의 안 해요. 그런데 경기는 가끔 봐요.",
+     "fr": "Je ne joue presque jamais au foot. Mais je regarde un match de temps en temps."
+    },
+    {
+     "speaker": "이안",
+     "ko": "이번 주말에 뭐 할 거예요?",
+     "fr": "Que vas-tu faire ce week-end ?"
+    },
+    {
+     "speaker": "서윤",
+     "ko": "토요일에 북한산에 갈 거예요.",
+     "fr": "Samedi, j'irai au mont Bukhan."
+    },
+    {
+     "speaker": "이안",
+     "ko": "그럼 다음 주말에 같이 축구해요!",
+     "fr": "Alors jouons au foot ensemble le week-end prochain !"
+    },
+    {
+     "speaker": "서윤",
+     "ko": "좋아요. 다음 주 토요일에 만나요.",
+     "fr": "D'accord. On se retrouve samedi prochain."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "서윤 씨의 취미는 뭐예요?",
+     "answer": "등산이에요.",
+     "wrong": [
+      "축구예요.",
+      "테니스예요."
+     ],
+     "why": "« 저는 등산을 좋아해요. »"
+    },
+    {
+     "question": "이안 씨는 언제 축구를 해요?",
+     "answer": "매주 토요일에 해요.",
+     "wrong": [
+      "매일 해요.",
+      "가끔 일요일에 해요."
+     ],
+     "why": "« 매주 토요일에 친구들하고 축구를 해요. »"
+    },
+    {
+     "question": "서윤 씨는 이번 주말에 뭐 할 거예요?",
+     "answer": "산에 갈 거예요.",
+     "wrong": [
+      "축구를 할 거예요.",
+      "집에서 쉴 거예요."
+     ],
+     "why": "« 토요일에 북한산에 갈 거예요. »"
+    },
+    {
+     "question": "두 사람은 언제 같이 축구해요?",
+     "answer": "다음 주 토요일에",
+     "wrong": [
+      "이번 주 토요일에",
+      "오늘 저녁에"
+     ],
+     "why": "« 다음 주말에 같이 축구해요 » puis « 다음 주 토요일에 만나요. »"
+    }
+   ],
+   "rules": [
+    {
+     "title": "-(으)ㄹ 거예요 (futur)",
+     "body": "Radical à voyelle + ㄹ 거예요 (가다 → 갈 거예요). Radical à consonne + 을 거예요 (먹다 → 먹을 거예요)."
+    },
+    {
+     "title": "-아요 / -어요 (proposition)",
+     "body": "Avec 같이, le présent poli sert à proposer : 같이 축구해요 ! = jouons au foot ensemble !"
+    },
+    {
+     "title": "Fréquence",
+     "body": "항상 (toujours), 자주 (souvent), 가끔 (parfois), 거의 안 (presque jamais), 전혀 안 (jamais du tout). 거의 et 전혀 vont avec une négation."
+    }
+   ],
+   "drills": [
+    {
+     "question": "내일 친구를 (만나다) ___.",
+     "answer": "만날 거예요",
+     "wrong": [
+      "만나을 거예요",
+      "만났어요"
+     ],
+     "why": "만나 finit par une voyelle : 만날 거예요.",
+     "translation": "Demain, je verrai un ami."
+    },
+    {
+     "question": "주말에 책을 (읽다) ___.",
+     "answer": "읽을 거예요",
+     "wrong": [
+      "읽 거예요",
+      "읽알 거예요"
+     ],
+     "why": "읽 finit par une consonne : 읽을 거예요.",
+     "translation": "Ce week-end, je lirai un livre."
+    },
+    {
+     "question": "저는 고기를 ___ 안 먹어요. (jamais)",
+     "answer": "전혀",
+     "wrong": [
+      "자주",
+      "항상"
+     ],
+     "why": "전혀 + négation = pas du tout, jamais.",
+     "translation": "Je ne mange jamais de viande."
+    },
+    {
+     "question": "우리 같이 점심을 ___! (proposition)",
+     "answer": "먹어요",
+     "wrong": [
+      "먹었어요",
+      "먹어서"
+     ],
+     "why": "Avec 같이, le présent poli propose une action commune.",
+     "translation": "Déjeunons ensemble !"
+    },
+    {
+     "question": "저는 아침에 ___ 운동해요. (toujours)",
+     "answer": "항상",
+     "wrong": [
+      "거의",
+      "전혀"
+     ],
+     "why": "항상 = toujours, sans négation.",
+     "translation": "Je fais toujours du sport le matin."
+    }
+   ]
+  },
+  {
+   "id": "u10",
+   "number": 10,
+   "titleKo": "낚시하러 갔어요",
+   "titleFr": "Je suis allé pêcher",
+   "level": 1,
+   "grammar": "-(으)시- · 께서 · -(으)러 가다",
+   "situation": "Minseo demande à Niko ce qu'il a fait pendant ses vacances.",
+   "lines": [
+    {
+     "speaker": "민서",
+     "ko": "니코 씨, 휴가에 뭐 했어요?",
+     "fr": "Niko, qu'as-tu fait pendant tes vacances ?"
+    },
+    {
+     "speaker": "니코",
+     "ko": "할아버지하고 낚시하러 갔어요.",
+     "fr": "Je suis allé pêcher avec mon grand-père."
+    },
+    {
+     "speaker": "민서",
+     "ko": "와, 할아버지께서 낚시를 좋아하세요?",
+     "fr": "Oh, ton grand-père aime la pêche ?"
+    },
+    {
+     "speaker": "니코",
+     "ko": "네, 정말 좋아하세요. 매주 바다에 가세요.",
+     "fr": "Oui, il adore ça. Il va à la mer toutes les semaines."
+    },
+    {
+     "speaker": "민서",
+     "ko": "니코 씨도 낚시를 좋아해요?",
+     "fr": "Et toi, tu aimes la pêche ?"
+    },
+    {
+     "speaker": "니코",
+     "ko": "저는 별로 안 좋아해요. 그런데 이번에는 큰 물고기를 잡았어요! 이 사진 좀 보세요.",
+     "fr": "Pas tellement. Mais cette fois, j'ai attrapé un gros poisson ! Regarde cette photo."
+    },
+    {
+     "speaker": "민서",
+     "ko": "우와, 정말 커요! 할머니께서도 같이 가셨어요?",
+     "fr": "Waouh, il est énorme ! Ta grand-mère est venue aussi ?"
+    },
+    {
+     "speaker": "니코",
+     "ko": "아니요, 할머니께서는 친구분들하고 여행하러 가셨어요.",
+     "fr": "Non, ma grand-mère est partie en voyage avec ses amies."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "니코 씨는 휴가에 누구하고 낚시하러 갔어요?",
+     "answer": "할아버지하고 갔어요.",
+     "wrong": [
+      "할머니하고 갔어요.",
+      "친구하고 갔어요."
+     ],
+     "why": "« 할아버지하고 낚시하러 갔어요. »"
+    },
+    {
+     "question": "할아버지께서는 얼마나 자주 바다에 가세요?",
+     "answer": "매주 가세요.",
+     "wrong": [
+      "매일 가세요.",
+      "가끔 가세요."
+     ],
+     "why": "« 매주 바다에 가세요. »"
+    },
+    {
+     "question": "니코 씨는 낚시를 좋아해요?",
+     "answer": "별로 안 좋아해요.",
+     "wrong": [
+      "아주 좋아해요.",
+      "매일 해요."
+     ],
+     "why": "« 저는 별로 안 좋아해요. »"
+    },
+    {
+     "question": "할머니께서는 휴가에 뭐 하셨어요?",
+     "answer": "여행하러 가셨어요.",
+     "wrong": [
+      "낚시하러 가셨어요.",
+      "집에 계셨어요."
+     ],
+     "why": "« 할머니께서는 친구분들하고 여행하러 가셨어요. »"
+    }
+   ],
+   "rules": [
+    {
+     "title": "-(으)시- (honorifique)",
+     "body": "Montre le respect envers la personne sujet : 좋아하세요, 가셨어요. Mots spéciaux : 있다 → 계시다, 먹다 → 드시다, 자다 → 주무시다."
+    },
+    {
+     "title": "께서",
+     "body": "Remplace 이/가 quand le sujet est une personne respectée : 할아버지께서. 께서는 remplace 은/는."
+    },
+    {
+     "title": "-(으)러 가다",
+     "body": "But d'un déplacement : 낚시하러 가요 (je vais pêcher), 빵을 사러 가요. Radical à consonne + 으러 (먹으러)."
+    }
+   ],
+   "drills": [
+    {
+     "question": "할아버지께서 신문을 ___. (읽다)",
+     "answer": "읽으세요",
+     "wrong": [
+      "읽어요",
+      "읽세요"
+     ],
+     "why": "Sujet respecté : 읽 + 으세요.",
+     "translation": "Grand-père lit le journal."
+    },
+    {
+     "question": "어머니께서 지금 방에서 ___. (자다)",
+     "answer": "주무세요",
+     "wrong": [
+      "자세요",
+      "자요"
+     ],
+     "why": "자다 a une forme honorifique spéciale : 주무시다.",
+     "translation": "Maman dort dans sa chambre."
+    },
+    {
+     "question": "선생님께서 교실에 ___. (있다)",
+     "answer": "계세요",
+     "wrong": [
+      "있으세요",
+      "있어요"
+     ],
+     "why": "있다 (se trouver) devient 계시다.",
+     "translation": "Le professeur est dans la classe."
+    },
+    {
+     "question": "저는 빵을 사___ 가요.",
+     "answer": "러",
+     "wrong": [
+      "으러",
+      "어서"
+     ],
+     "why": "사 finit par une voyelle : 사러.",
+     "translation": "Je vais acheter du pain."
+    },
+    {
+     "question": "한국어를 배우___ 세종학당에 왔어요.",
+     "answer": "러",
+     "wrong": [
+      "으러",
+      "고"
+     ],
+     "why": "But du déplacement : 배우러 왔어요.",
+     "translation": "Je suis venu au Sejong Hakdang pour apprendre le coréen."
+    }
+   ]
+  },
+  {
+   "id": "u11",
+   "number": 11,
+   "titleKo": "콘서트를 보러 갈까요?",
+   "titleFr": "On va voir un concert ?",
+   "level": 1,
+   "grammar": "-고 싶다 · -(으)ㄹ까요?",
+   "situation": "Haeun invite Antoine à un concert.",
+   "lines": [
+    {
+     "speaker": "하은",
+     "ko": "앙투안 씨, 토요일 저녁에 시간 있어요?",
+     "fr": "Antoine, tu as du temps samedi soir ?"
+    },
+    {
+     "speaker": "앙투안",
+     "ko": "네, 아직 특별한 계획은 없어요. 왜요?",
+     "fr": "Oui, je n'ai encore rien de prévu. Pourquoi ?"
+    },
+    {
+     "speaker": "하은",
+     "ko": "콘서트 표가 두 장 있어요. 같이 보러 갈까요?",
+     "fr": "J'ai deux billets de concert. On y va ensemble ?"
+    },
+    {
+     "speaker": "앙투안",
+     "ko": "무슨 콘서트예요?",
+     "fr": "C'est quel concert ?"
+    },
+    {
+     "speaker": "하은",
+     "ko": "케이팝 콘서트예요. 유명한 가수들이 많이 나와요.",
+     "fr": "Un concert de K-pop. Il y aura beaucoup de chanteurs célèbres."
+    },
+    {
+     "speaker": "앙투안",
+     "ko": "와, 저도 그 콘서트에 정말 가고 싶었어요!",
+     "fr": "Génial, moi aussi je voulais vraiment y aller !"
+    },
+    {
+     "speaker": "하은",
+     "ko": "잘됐네요. 콘서트는 일곱 시에 시작해요. 여섯 시에 공연장 앞에서 만날까요?",
+     "fr": "Parfait. Le concert commence à 19 h. On se retrouve devant la salle à 18 h ?"
+    },
+    {
+     "speaker": "앙투안",
+     "ko": "좋아요. 그럼 콘서트 전에 같이 저녁도 먹을까요?",
+     "fr": "D'accord. Et si on dînait ensemble avant le concert ?"
+    },
+    {
+     "speaker": "하은",
+     "ko": "네, 좋아요. 그럼 다섯 시에 만나요.",
+     "fr": "Oui, bonne idée. Alors rendez-vous à 17 h."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "하은 씨는 무엇이 있어요?",
+     "answer": "콘서트 표가 두 장 있어요.",
+     "wrong": [
+      "영화표가 한 장 있어요.",
+      "시간이 없어요."
+     ],
+     "why": "« 콘서트 표가 두 장 있어요. »"
+    },
+    {
+     "question": "무슨 콘서트예요?",
+     "answer": "케이팝 콘서트예요.",
+     "wrong": [
+      "클래식 콘서트예요.",
+      "재즈 콘서트예요."
+     ],
+     "why": "« 케이팝 콘서트예요. »"
+    },
+    {
+     "question": "콘서트는 몇 시에 시작해요?",
+     "answer": "7시에 시작해요.",
+     "wrong": [
+      "6시에 시작해요.",
+      "5시에 시작해요."
+     ],
+     "why": "« 콘서트는 일곱 시에 시작해요. »"
+    },
+    {
+     "question": "두 사람은 결국 몇 시에 만나요?",
+     "answer": "5시에 만나요.",
+     "wrong": [
+      "6시에 만나요.",
+      "7시에 만나요."
+     ],
+     "why": "Ils dînent d'abord : « 그럼 다섯 시에 만나요. »"
+    }
+   ],
+   "rules": [
+    {
+     "title": "-고 싶다",
+     "body": "Envie : 가고 싶어요 (j'ai envie d'y aller). Pour une autre personne : -고 싶어 해요 (동생이 가고 싶어 해요)."
+    },
+    {
+     "title": "-(으)ㄹ까요?",
+     "body": "Proposer (« on… ? ») ou demander l'avis : 같이 갈까요 ?, 창문을 닫을까요 ? Radical à consonne + 을까요."
+    }
+   ],
+   "drills": [
+    {
+     "question": "저는 제주도에 ___. (가다, envie)",
+     "answer": "가고 싶어요",
+     "wrong": [
+      "가 싶어요",
+      "갈 싶어요"
+     ],
+     "why": "Radical + 고 싶어요.",
+     "translation": "J'ai envie d'aller à Jeju."
+    },
+    {
+     "question": "우리 같이 사진을 ___? (찍다)",
+     "answer": "찍을까요",
+     "wrong": [
+      "찍까요",
+      "찍어까요"
+     ],
+     "why": "찍 finit par une consonne : 찍을까요.",
+     "translation": "On prend une photo ensemble ?"
+    },
+    {
+     "question": "이번 주말에 같이 영화를 ___? (보다)",
+     "answer": "볼까요",
+     "wrong": [
+      "보을까요",
+      "봐까요"
+     ],
+     "why": "보 finit par une voyelle : 볼까요.",
+     "translation": "On va voir un film ce week-end ?"
+    },
+    {
+     "question": "동생은 새 휴대폰을 받고 ___. (pour une autre personne)",
+     "answer": "싶어 해요",
+     "wrong": [
+      "싶어요",
+      "싶다요"
+     ],
+     "why": "Pour l'envie de quelqu'un d'autre : -고 싶어 해요.",
+     "translation": "Mon petit frère veut recevoir un nouveau téléphone."
+    },
+    {
+     "question": "창문을 ___? (닫다, je propose de le faire)",
+     "answer": "닫을까요",
+     "wrong": [
+      "닫까요",
+      "닫아까요"
+     ],
+     "why": "닫 finit par une consonne : 닫을까요.",
+     "translation": "Je ferme la fenêtre ?"
+    }
+   ]
+  },
+  {
+   "id": "u12",
+   "number": 12,
+   "titleKo": "좀 춥고 눈도 많이 올 거예요",
+   "titleFr": "Il fera un peu froid et il neigera beaucoup",
+   "level": 1,
+   "grammar": "-고 · -(으)ㄹ 거예요 (supposition) · ㅂ 불규칙",
+   "situation": "Julie va partir étudier en Corée et pose des questions à Gaeun sur l'hiver.",
+   "lines": [
+    {
+     "speaker": "가은",
+     "ko": "줄리 씨, 언제 한국에 가요?",
+     "fr": "Julie, quand pars-tu en Corée ?"
+    },
+    {
+     "speaker": "줄리",
+     "ko": "다음 달에 가요. 그런데 한국의 겨울 날씨는 어때요?",
+     "fr": "Le mois prochain. Au fait, quel temps fait-il en hiver en Corée ?"
+    },
+    {
+     "speaker": "가은",
+     "ko": "아주 춥고 바람도 많이 불어요.",
+     "fr": "Il fait très froid et il y a beaucoup de vent."
+    },
+    {
+     "speaker": "줄리",
+     "ko": "그래요? 서울은 지금 날씨가 어때요?",
+     "fr": "Ah bon ? Et en ce moment, quel temps fait-il à Séoul ?"
+    },
+    {
+     "speaker": "가은",
+     "ko": "지금은 맑고 시원해요. 그런데 다음 달에는 많이 추울 거예요. 따뜻한 옷을 꼭 가져가세요.",
+     "fr": "En ce moment, c'est dégagé et frais. Mais le mois prochain, il fera sûrement très froid. Prends absolument des vêtements chauds."
+    },
+    {
+     "speaker": "줄리",
+     "ko": "알겠어요. 한국에서 스키도 타고 싶어요.",
+     "fr": "D'accord. J'aimerais aussi faire du ski en Corée."
+    },
+    {
+     "speaker": "가은",
+     "ko": "그럼 강원도에 가세요. 눈이 많이 오고 스키장이 아주 좋아요.",
+     "fr": "Alors va dans la province de Gangwon. Il y neige beaucoup et les stations sont très bien."
+    },
+    {
+     "speaker": "줄리",
+     "ko": "고마워요. 정말 기대돼요!",
+     "fr": "Merci. J'ai vraiment hâte !"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "줄리 씨는 언제 한국에 가요?",
+     "answer": "다음 달에 가요.",
+     "wrong": [
+      "다음 주에 가요.",
+      "내일 가요."
+     ],
+     "why": "« 다음 달에 가요. »"
+    },
+    {
+     "question": "한국의 겨울 날씨는 어때요?",
+     "answer": "춥고 바람이 많이 불어요.",
+     "wrong": [
+      "덥고 비가 많이 와요.",
+      "따뜻하고 맑아요."
+     ],
+     "why": "« 아주 춥고 바람도 많이 불어요. »"
+    },
+    {
+     "question": "서울은 지금 날씨가 어때요?",
+     "answer": "맑고 시원해요.",
+     "wrong": [
+      "아주 추워요.",
+      "비가 와요."
+     ],
+     "why": "« 지금은 맑고 시원해요. »"
+    },
+    {
+     "question": "어디에서 스키를 타면 좋아요?",
+     "answer": "강원도",
+     "wrong": [
+      "부산",
+      "제주도"
+     ],
+     "why": "« 강원도에 가세요. 눈이 많이 오고 스키장이 아주 좋아요. »"
+    }
+   ],
+   "rules": [
+    {
+     "title": "-고",
+     "body": "Relie deux actions ou deux états : 맑고 시원해요 (dégagé et frais), 춥고 바람이 불어요."
+    },
+    {
+     "title": "-(으)ㄹ 거예요 (supposition)",
+     "body": "Même forme que le futur, mais pour une prévision : 내일은 추울 거예요 (il fera sûrement froid demain)."
+    },
+    {
+     "title": "Verbes irréguliers en ㅂ",
+     "body": "Le ㅂ final devient 우 devant une voyelle : 춥다 → 추워요, 덥다 → 더워요, 맵다 → 매워요."
+    }
+   ],
+   "drills": [
+    {
+     "question": "오늘은 하늘이 맑___ 따뜻해요.",
+     "answer": "고",
+     "wrong": [
+      "아서",
+      "지만"
+     ],
+     "why": "-고 relie deux états.",
+     "translation": "Aujourd'hui, le ciel est dégagé et il fait doux."
+    },
+    {
+     "question": "내일은 비가 ___. (supposition, 오다)",
+     "answer": "올 거예요",
+     "wrong": [
+      "와 거예요",
+      "오을 거예요"
+     ],
+     "why": "오 finit par une voyelle : 올 거예요.",
+     "translation": "Il pleuvra sûrement demain."
+    },
+    {
+     "question": "겨울에는 정말 (춥다) ___.",
+     "answer": "추워요",
+     "wrong": [
+      "춥어요",
+      "추어요"
+     ],
+     "why": "ㅂ irrégulier : 춥 → 추우 → 추워요.",
+     "translation": "En hiver, il fait vraiment froid."
+    },
+    {
+     "question": "여름에는 (덥다) ___.",
+     "answer": "더워요",
+     "wrong": [
+      "덥어요",
+      "더어요"
+     ],
+     "why": "ㅂ irrégulier : 덥 → 더워요.",
+     "translation": "En été, il fait chaud."
+    },
+    {
+     "question": "이 신발은 가볍___ 편해요.",
+     "answer": "고",
+     "wrong": [
+      "고요",
+      "아요"
+     ],
+     "why": "-고 relie deux qualités.",
+     "translation": "Ces chaussures sont légères et confortables."
+    }
+   ]
+  },
+  {
+   "id": "u13",
+   "number": 13,
+   "titleKo": "어머니께 선물할 거예요",
+   "titleFr": "Je vais l'offrir à ma mère",
+   "level": 1,
+   "grammar": "한테 · 께 · -지만 · 옷",
+   "situation": "Emma cherche un cadeau dans un grand magasin.",
+   "lines": [
+    {
+     "speaker": "점원",
+     "ko": "손님, 뭘 찾으세요?",
+     "fr": "Que cherchez-vous, madame ?"
+    },
+    {
+     "speaker": "엠마",
+     "ko": "스카프를 사고 싶어요. 어머니께 선물할 거예요.",
+     "fr": "J'aimerais acheter une écharpe. C'est pour l'offrir à ma mère."
+    },
+    {
+     "speaker": "점원",
+     "ko": "이 빨간색 스카프는 어떠세요? 요즘 인기가 많아요.",
+     "fr": "Que pensez-vous de cette écharpe rouge ? Elle a beaucoup de succès en ce moment."
+    },
+    {
+     "speaker": "엠마",
+     "ko": "예쁘지만 색깔이 너무 밝아요. 어머니께서는 어두운 색을 좋아하세요.",
+     "fr": "Elle est jolie, mais la couleur est trop vive. Ma mère aime les couleurs sombres."
+    },
+    {
+     "speaker": "점원",
+     "ko": "그럼 이 남색 스카프는 어떠세요? 부드럽고 따뜻해요.",
+     "fr": "Alors celle-ci, bleu marine ? Elle est douce et chaude."
+    },
+    {
+     "speaker": "엠마",
+     "ko": "좋아요. 이건 얼마예요?",
+     "fr": "Elle me plaît. Combien coûte-t-elle ?"
+    },
+    {
+     "speaker": "점원",
+     "ko": "사만오천 원이에요.",
+     "fr": "45 000 wons."
+    },
+    {
+     "speaker": "엠마",
+     "ko": "조금 비싸지만 이걸로 할게요. 포장해 주세요.",
+     "fr": "C'est un peu cher, mais je la prends. Faites-moi un paquet cadeau, s'il vous plaît."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "엠마 씨는 누구한테 선물할 거예요?",
+     "answer": "어머니께 선물할 거예요.",
+     "wrong": [
+      "친구한테 선물할 거예요.",
+      "동생한테 선물할 거예요."
+     ],
+     "why": "« 어머니께 선물할 거예요. »"
+    },
+    {
+     "question": "엠마 씨는 왜 빨간색 스카프를 안 사요?",
+     "answer": "색깔이 너무 밝아요.",
+     "wrong": [
+      "너무 비싸요.",
+      "안 예뻐요."
+     ],
+     "why": "« 예쁘지만 색깔이 너무 밝아요. »"
+    },
+    {
+     "question": "엠마 씨는 어떤 스카프를 사요?",
+     "answer": "남색 스카프를 사요.",
+     "wrong": [
+      "빨간색 스카프를 사요.",
+      "하얀색 스카프를 사요."
+     ],
+     "why": "Elle prend l'écharpe bleu marine, douce et chaude."
+    },
+    {
+     "question": "스카프는 얼마예요?",
+     "answer": "45,000원이에요.",
+     "wrong": [
+      "40,500원이에요.",
+      "54,000원이에요."
+     ],
+     "why": "사만오천 = 40 000 (사만) + 5 000 (오천)."
+    }
+   ],
+   "rules": [
+    {
+     "title": "한테 / 께",
+     "body": "« à quelqu'un » : 친구한테 줘요. Pour une personne respectée : 께 (어머니께 드려요). « de quelqu'un » : 한테서 (친구한테서 받았어요)."
+    },
+    {
+     "title": "-지만",
+     "body": "Opposition, « mais » : 예쁘지만 비싸요 (c'est joli, mais cher)."
+    },
+    {
+     "title": "Porter un vêtement",
+     "body": "입다 (vêtements), 신다 (chaussures, chaussettes), 쓰다 (chapeau, lunettes), 끼다 (gants, bague)."
+    }
+   ],
+   "drills": [
+    {
+     "question": "친구___ 편지를 써요.",
+     "answer": "한테",
+     "wrong": [
+      "께서",
+      "에서"
+     ],
+     "why": "« à quelqu'un » : 한테.",
+     "translation": "J'écris une lettre à un ami."
+    },
+    {
+     "question": "할머니___ 꽃을 드렸어요.",
+     "answer": "께",
+     "wrong": [
+      "한테서",
+      "께서"
+     ],
+     "why": "Destinataire respecté : 께.",
+     "translation": "J'ai offert des fleurs à ma grand-mère."
+    },
+    {
+     "question": "이 옷은 예쁘___ 비싸요.",
+     "answer": "지만",
+     "wrong": [
+      "고",
+      "러"
+     ],
+     "why": "Opposition : -지만.",
+     "translation": "Ce vêtement est joli, mais cher."
+    },
+    {
+     "question": "모자를 ___.",
+     "answer": "써요",
+     "wrong": [
+      "입어요",
+      "신어요"
+     ],
+     "why": "Chapeau et lunettes : 쓰다 → 써요.",
+     "translation": "Je porte un chapeau."
+    },
+    {
+     "question": "구두를 ___.",
+     "answer": "신어요",
+     "wrong": [
+      "써요",
+      "껴요"
+     ],
+     "why": "Chaussures : 신다.",
+     "translation": "Je mets des chaussures."
+    }
+   ]
+  },
+  {
+   "id": "u14",
+   "number": 14,
+   "titleKo": "배가 너무 불러서 베트남 음식을 못 먹었어요",
+   "titleFr": "J'avais trop mangé, je n'ai pas pu manger vietnamien",
+   "level": 1,
+   "grammar": "-아서/-어서 · 못 · 건강",
+   "situation": "Taeo appelle Lin, qui n'est pas venue à la soirée d'hier.",
+   "lines": [
+    {
+     "speaker": "태오",
+     "ko": "여보세요? 린 씨, 어제 왜 모임에 안 왔어요?",
+     "fr": "Allô ? Lin, pourquoi tu n'es pas venue à la soirée hier ?"
+    },
+    {
+     "speaker": "린",
+     "ko": "미안해요. 감기에 걸려서 못 갔어요. 열도 나고 머리도 아팠어요.",
+     "fr": "Désolée. J'avais attrapé un rhume, je n'ai pas pu venir. J'avais de la fièvre et mal à la tête."
+    },
+    {
+     "speaker": "태오",
+     "ko": "정말요? 지금은 괜찮아요?",
+     "fr": "C'est vrai ? Ça va mieux maintenant ?"
+    },
+    {
+     "speaker": "린",
+     "ko": "네, 약을 먹고 푹 자서 지금은 괜찮아요.",
+     "fr": "Oui, j'ai pris un médicament et bien dormi, alors ça va."
+    },
+    {
+     "speaker": "태오",
+     "ko": "다행이에요. 어제는 베트남 식당에 갔어요.",
+     "fr": "Tant mieux. Hier, on est allés dans un restaurant vietnamien."
+    },
+    {
+     "speaker": "린",
+     "ko": "맛있었어요?",
+     "fr": "C'était bon ?"
+    },
+    {
+     "speaker": "태오",
+     "ko": "네. 그런데 점심을 너무 많이 먹어서 배가 불렀어요. 그래서 쌀국수를 많이 못 먹었어요.",
+     "fr": "Oui. Mais j'avais trop mangé à midi, j'étais calé. Du coup, je n'ai pas pu manger beaucoup de phô."
+    },
+    {
+     "speaker": "린",
+     "ko": "하하, 다음에는 같이 가요! 다음 주 금요일은 어때요?",
+     "fr": "Ha ha, la prochaine fois, on y va ensemble ! Vendredi prochain, ça te va ?"
+    },
+    {
+     "speaker": "태오",
+     "ko": "좋아요. 그때 봐요.",
+     "fr": "D'accord. À vendredi."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "린 씨는 왜 모임에 못 갔어요?",
+     "answer": "감기에 걸려서 못 갔어요.",
+     "wrong": [
+      "일이 많아서 못 갔어요.",
+      "늦게 일어나서 못 갔어요."
+     ],
+     "why": "« 감기에 걸려서 못 갔어요. »"
+    },
+    {
+     "question": "린 씨는 어제 어디가 아팠어요?",
+     "answer": "머리가 아팠어요.",
+     "wrong": [
+      "배가 아팠어요.",
+      "이가 아팠어요."
+     ],
+     "why": "« 열도 나고 머리도 아팠어요. »"
+    },
+    {
+     "question": "태오 씨는 왜 쌀국수를 많이 못 먹었어요?",
+     "answer": "배가 불러서 못 먹었어요.",
+     "wrong": [
+      "맛이 없어서 못 먹었어요.",
+      "돈이 없어서 못 먹었어요."
+     ],
+     "why": "Il avait trop mangé à midi : « 배가 불렀어요. »"
+    },
+    {
+     "question": "두 사람은 언제 같이 베트남 식당에 가요?",
+     "answer": "다음 주 금요일에 가요.",
+     "wrong": [
+      "오늘 가요.",
+      "이번 주 토요일에 가요."
+     ],
+     "why": "« 다음 주 금요일은 어때요? » « 좋아요. »"
+    }
+   ],
+   "rules": [
+    {
+     "title": "-아서 / -어서 (cause)",
+     "body": "« parce que, alors » : 감기에 걸려서 못 갔어요. Le temps se marque à la fin seulement (jamais 걸렸어서), et pas avec un ordre ou une proposition."
+    },
+    {
+     "title": "못 / 안",
+     "body": "못 = ne pas pouvoir (impossibilité) : 못 갔어요. 안 = ne pas vouloir, simple négation : 안 갔어요."
+    },
+    {
+     "title": "La santé",
+     "body": "머리가 아파요 (j'ai mal à la tête), 열이 나요 (j'ai de la fièvre), 감기에 걸렸어요 (j'ai un rhume), 기침이 나요 (je tousse)."
+    }
+   ],
+   "drills": [
+    {
+     "question": "어제 비가 많이 ___ 집에 있었어요. (오다)",
+     "answer": "와서",
+     "wrong": [
+      "왔어서",
+      "오서"
+     ],
+     "why": "오 + 아서 → 와서. Le passé ne se met pas avant 서.",
+     "translation": "Comme il a beaucoup plu hier, je suis resté à la maison."
+    },
+    {
+     "question": "배가 ___ 병원에 가요. (아프다)",
+     "answer": "아파서",
+     "wrong": [
+      "아퍼서",
+      "아프서"
+     ],
+     "why": "아프다 perd son ㅡ : 아파서.",
+     "translation": "J'ai mal au ventre, alors je vais à l'hôpital."
+    },
+    {
+     "question": "다리를 다쳐서 운동을 ___ 해요.",
+     "answer": "못",
+     "wrong": [
+      "안",
+      "지 않"
+     ],
+     "why": "Impossibilité : 못.",
+     "translation": "Je me suis blessé à la jambe, je ne peux pas faire de sport."
+    },
+    {
+     "question": "약속이 있어서 파티에 ___ 가요. (je ne peux pas)",
+     "answer": "못",
+     "wrong": [
+      "안",
+      "없"
+     ],
+     "why": "Une contrainte extérieure empêche : 못.",
+     "translation": "J'ai un rendez-vous, je ne peux pas aller à la fête."
+    },
+    {
+     "question": "너무 (피곤하다) ___ 일찍 잤어요.",
+     "answer": "피곤해서",
+     "wrong": [
+      "피곤하서",
+      "피곤했어서"
+     ],
+     "why": "하다 → 해서.",
+     "translation": "J'étais trop fatigué, alors je me suis couché tôt."
+    }
+   ]
+  }
+ ]
+}

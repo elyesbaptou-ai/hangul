@@ -1,0 +1,595 @@
+{
+ "sections": [
+  {
+   "id": "vocab",
+   "title": "Vocabulaire",
+   "minutes": 5,
+   "instruction": "Choisis le sens du mot.",
+   "questions": [
+    {
+     "question": "사과",
+     "answer": "pomme",
+     "wrong": [
+      "poire",
+      "pêche",
+      "raisin"
+     ],
+     "why": "사과 = pomme (unité 5).",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "어제",
+     "answer": "hier",
+     "wrong": [
+      "demain",
+      "aujourd'hui",
+      "ce soir"
+     ],
+     "why": "어제 = hier, 내일 = demain, 오늘 = aujourd'hui.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "도서관",
+     "answer": "bibliothèque",
+     "wrong": [
+      "librairie",
+      "bureau de poste",
+      "banque"
+     ],
+     "why": "도서관 = bibliothèque (unité 8).",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "비싸다",
+     "answer": "être cher",
+     "wrong": [
+      "être bon marché",
+      "être grand",
+      "être loin"
+     ],
+     "why": "비싸다 = cher. Son contraire : 싸다.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "약속",
+     "answer": "rendez-vous",
+     "wrong": [
+      "cadeau",
+      "billet",
+      "voyage"
+     ],
+     "why": "약속 = rendez-vous, promesse.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "편하다",
+     "answer": "être confortable",
+     "wrong": [
+      "être fatigué",
+      "être pressé",
+      "être difficile"
+     ],
+     "why": "편하다 = confortable, pratique.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "빌리다",
+     "answer": "emprunter",
+     "wrong": [
+      "rendre",
+      "acheter",
+      "oublier"
+     ],
+     "why": "빌리다 = emprunter. Rendre se dit 돌려주다.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "경험",
+     "answer": "expérience",
+     "wrong": [
+      "examen",
+      "économie",
+      "exemple"
+     ],
+     "why": "경험 = expérience (vécue).",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "환경",
+     "answer": "environnement",
+     "wrong": [
+      "échange",
+      "hôpital",
+      "circulation"
+     ],
+     "why": "환경 = environnement.",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "줄이다",
+     "answer": "réduire",
+     "wrong": [
+      "augmenter",
+      "choisir",
+      "répéter"
+     ],
+     "why": "줄이다 = réduire, diminuer.",
+     "level": 3,
+     "passage": null
+    }
+   ]
+  },
+  {
+   "id": "grammar",
+   "title": "Grammaire",
+   "minutes": 8,
+   "instruction": "Choisis la forme qui complète la phrase.",
+   "questions": [
+    {
+     "question": "저는 회사원___.",
+     "answer": "이에요",
+     "wrong": [
+      "예요",
+      "이다",
+      "은요"
+     ],
+     "why": "회사원 finit par une consonne : 회사원이에요.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "친구___ 만나요.",
+     "answer": "를",
+     "wrong": [
+      "을",
+      "가",
+      "에"
+     ],
+     "why": "친구 finit par une voyelle, complément d'objet : 친구를.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "어제 영화를 ___.",
+     "answer": "봤어요",
+     "wrong": [
+      "볼 거예요",
+      "봐요",
+      "보세요"
+     ],
+     "why": "어제 (hier) demande le passé : 봤어요.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "지금 학교___ 가요.",
+     "answer": "에",
+     "wrong": [
+      "에서",
+      "를",
+      "이"
+     ],
+     "why": "Destination avec 가다 : 에.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "비가 ___ 우산을 샀어요.",
+     "answer": "와서",
+     "wrong": [
+      "오고",
+      "오지만",
+      "올까요"
+     ],
+     "why": "Cause : -아서/-어서 (오다 → 와서).",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "우리 같이 점심을 ___?",
+     "answer": "먹을까요",
+     "wrong": [
+      "먹어서",
+      "먹지만",
+      "먹었어요"
+     ],
+     "why": "Proposer : -(으)ㄹ까요 ?",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "이 옷은 예쁘___ 너무 비싸요.",
+     "answer": "지만",
+     "wrong": [
+      "고",
+      "러",
+      "서"
+     ],
+     "why": "Opposition : -지만.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "시간이 ___ 같이 영화 봐요.",
+     "answer": "있으면",
+     "wrong": [
+      "있어서",
+      "있지만",
+      "있고"
+     ],
+     "why": "Condition : -(으)면 (si tu as le temps).",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "한국어를 잘하___ 매일 연습해야 해요.",
+     "answer": "려면",
+     "wrong": [
+      "러",
+      "고",
+      "지만"
+     ],
+     "why": "But à atteindre : -(으)려면 (pour bien parler, il faut…).",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "저는 음악을 들으___ 공부해요.",
+     "answer": "면서",
+     "wrong": [
+      "러",
+      "려면",
+      "니까"
+     ],
+     "why": "Deux actions simultanées : -(으)면서.",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "하늘이 흐려요. 곧 비가 ___ 것 같아요.",
+     "answer": "올",
+     "wrong": [
+      "와",
+      "오는지",
+      "오고"
+     ],
+     "why": "Supposition : -(으)ㄹ 것 같다.",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "지금 밖에 비가 오___ 우산 있어요?",
+     "answer": "는데",
+     "wrong": [
+      "고",
+      "서",
+      "러"
+     ],
+     "why": "-는데 pose le contexte avant une question.",
+     "level": 3,
+     "passage": null
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "title": "Compréhension écrite",
+   "minutes": 8,
+   "instruction": "Lis le texte, puis réponds.",
+   "questions": [
+    {
+     "question": "마리 씨는 어디에서 한국어를 배워요?",
+     "answer": "서울에서 배워요.",
+     "wrong": [
+      "파리에서 배워요.",
+      "부산에서 배워요."
+     ],
+     "why": "« 지금 서울에서 한국어를 배워요. »",
+     "level": 1,
+     "passage": "t1"
+    },
+    {
+     "question": "마리 씨는 몇 시에 학교에 가요?",
+     "answer": "9시에 가요.",
+     "wrong": [
+      "8시에 가요.",
+      "10시에 가요."
+     ],
+     "why": "« 아침 아홉 시에 학교에 가요. »",
+     "level": 1,
+     "passage": "t1"
+    },
+    {
+     "question": "마리 씨는 주말에 뭐 해요?",
+     "answer": "집에서 쉬어요.",
+     "wrong": [
+      "친구를 만나요.",
+      "학교에 가요."
+     ],
+     "why": "« 주말에는 집에서 쉬어요. »",
+     "level": 1,
+     "passage": "t1"
+    },
+    {
+     "question": "이번 주 토요일에 도서관에 갈 수 있어요?",
+     "answer": "아니요, 문을 닫아요.",
+     "wrong": [
+      "네, 오전에만 열어요.",
+      "네, 오후 여섯 시까지 열어요."
+     ],
+     "why": "« 이번 주 토요일은 청소 때문에 문을 닫습니다. »",
+     "level": 2,
+     "passage": "t2"
+    },
+    {
+     "question": "일요일에는 몇 시까지 열어요?",
+     "answer": "오후 6시까지",
+     "wrong": [
+      "오전 10시까지",
+      "오후 2시까지"
+     ],
+     "why": "« 오전 열 시부터 오후 여섯 시까지 엽니다. »",
+     "level": 2,
+     "passage": "t2"
+    },
+    {
+     "question": "책은 몇 권까지 빌릴 수 있어요?",
+     "answer": "다섯 권",
+     "wrong": [
+      "두 권",
+      "열 권"
+     ],
+     "why": "« 한 사람이 다섯 권까지 빌릴 수 있습니다. »",
+     "level": 2,
+     "passage": "t2"
+    },
+    {
+     "question": "사람들이 자전거를 타는 이유가 아닌 것은 무엇입니까?",
+     "answer": "더 빨리 도착할 수 있어서",
+     "wrong": [
+      "운동이 돼서",
+      "교통비를 아낄 수 있어서"
+     ],
+     "why": "Le texte cite le sport, les économies et l'environnement, jamais la rapidité.",
+     "level": 3,
+     "passage": "t3"
+    },
+    {
+     "question": "언제 자전거를 타기 어렵습니까?",
+     "answer": "비가 오거나 추운 날",
+     "wrong": [
+      "주말이나 휴일",
+      "아침 출근 시간"
+     ],
+     "why": "« 비가 오거나 너무 추운 날에는 자전거를 타기가 어렵습니다. »",
+     "level": 3,
+     "passage": "t3"
+    },
+    {
+     "question": "서울시는 무엇을 할 계획입니까?",
+     "answer": "자전거 주차장을 더 만들 거예요.",
+     "wrong": [
+      "자전거를 무료로 빌려줄 거예요.",
+      "지하철역을 새로 만들 거예요."
+     ],
+     "why": "« 지하철역 근처에 자전거 주차장을 더 만들 계획입니다. »",
+     "level": 3,
+     "passage": "t3"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "Compréhension orale",
+   "minutes": 9,
+   "instruction": "Écoute l'enregistrement (deux écoutes au maximum), puis réponds.",
+   "questions": [
+    {
+     "question": "화장실은 몇 층에 있어요?",
+     "answer": "3층",
+     "wrong": [
+      "2층",
+      "1층"
+     ],
+     "why": "« 이 층에는 없어요. 삼 층에 있어요. »",
+     "level": 1,
+     "passage": "a1"
+    },
+    {
+     "question": "화장실은 어디 옆에 있어요?",
+     "answer": "엘리베이터 옆",
+     "wrong": [
+      "계단 옆",
+      "식당 옆"
+     ],
+     "why": "« 엘리베이터 옆에 있어요. »",
+     "level": 1,
+     "passage": "a1"
+    },
+    {
+     "question": "손님은 무엇을 사요?",
+     "answer": "티셔츠 두 장",
+     "wrong": [
+      "바지 한 벌",
+      "바지하고 티셔츠"
+     ],
+     "why": "Le pantalon est trop cher : il prend deux t-shirts.",
+     "level": 1,
+     "passage": "a2"
+    },
+    {
+     "question": "손님은 모두 얼마를 내요?",
+     "answer": "30,000원",
+     "wrong": [
+      "15,000원",
+      "45,000원"
+     ],
+     "why": "2 × 15 000 = 30 000 wons (삼만 원).",
+     "level": 1,
+     "passage": "a2"
+    },
+    {
+     "question": "두 사람은 처음에 몇 시에 만나기로 했어요?",
+     "answer": "7시",
+     "wrong": [
+      "8시",
+      "6시"
+     ],
+     "why": "« 오늘 저녁 일곱 시에 만나기로 했지요? »",
+     "level": 2,
+     "passage": "a3"
+    },
+    {
+     "question": "민수 씨는 왜 늦어요?",
+     "answer": "회사 일이 늦게 끝나서",
+     "wrong": [
+      "길이 막혀서",
+      "늦게 일어나서"
+     ],
+     "why": "« 회사 일이 늦게 끝나서… »",
+     "level": 2,
+     "passage": "a3"
+    },
+    {
+     "question": "두 사람은 어디에서 만나요?",
+     "answer": "식당 앞에서",
+     "wrong": [
+      "회사 앞에서",
+      "지하철역에서"
+     ],
+     "why": "« 여덟 시에 식당 앞에서 만나요. »",
+     "level": 2,
+     "passage": "a3"
+    },
+    {
+     "question": "무엇에 대한 안내입니까?",
+     "answer": "엘리베이터 점검",
+     "wrong": [
+      "화재 대피 훈련",
+      "주차장 공사"
+     ],
+     "why": "« 엘리베이터 점검이 있을 예정입니다. »",
+     "level": 3,
+     "passage": "a4"
+    },
+    {
+     "question": "점검 시간에는 어떻게 해야 합니까?",
+     "answer": "계단을 이용해야 해요.",
+     "wrong": [
+      "엘리베이터를 기다려야 해요.",
+      "건물 밖으로 나가야 해요."
+     ],
+     "why": "« 계단을 이용해 주시기 바랍니다. »",
+     "level": 3,
+     "passage": "a4"
+    }
+   ]
+  }
+ ],
+ "passages": {
+  "t1": {
+   "kind": "text",
+   "level": 1,
+   "text": "저는 마리예요. 프랑스 사람이에요. 지금 서울에서 한국어를 배워요. 아침 아홉 시에 학교에 가요. 오후에는 카페에서 친구를 만나요. 주말에는 집에서 쉬어요."
+  },
+  "t2": {
+   "kind": "text",
+   "level": 2,
+   "text": "[안내] 세종 도서관 이용 안내. 이번 주 토요일은 청소 때문에 문을 닫습니다. 일요일에는 오전 열 시부터 오후 여섯 시까지 엽니다. 책은 한 사람이 다섯 권까지 빌릴 수 있습니다. 빌린 책은 2주 안에 돌려주세요."
+  },
+  "t3": {
+   "kind": "text",
+   "level": 3,
+   "text": "요즘 출근할 때 자전거를 타는 사람이 많아졌습니다. 자전거를 타면 운동도 되고 교통비도 아낄 수 있기 때문입니다. 또 자동차를 덜 이용하니까 환경에도 좋습니다. 하지만 비가 오거나 너무 추운 날에는 자전거를 타기가 어렵습니다. 그래서 서울시는 지하철역 근처에 자전거 주차장을 더 만들 계획입니다."
+  },
+  "a1": {
+   "kind": "audio",
+   "level": 1,
+   "lines": [
+    {
+     "speaker": "손님",
+     "ko": "실례합니다. 화장실이 어디에 있어요?"
+    },
+    {
+     "speaker": "직원",
+     "ko": "이 층에는 없어요. 삼 층에 있어요."
+    },
+    {
+     "speaker": "손님",
+     "ko": "삼 층 어디에 있어요?"
+    },
+    {
+     "speaker": "직원",
+     "ko": "엘리베이터 옆에 있어요."
+    }
+   ]
+  },
+  "a2": {
+   "kind": "audio",
+   "level": 1,
+   "lines": [
+    {
+     "speaker": "손님",
+     "ko": "이 바지 얼마예요?"
+    },
+    {
+     "speaker": "점원",
+     "ko": "삼만 원이에요."
+    },
+    {
+     "speaker": "손님",
+     "ko": "좀 비싸요. 이 티셔츠는요?"
+    },
+    {
+     "speaker": "점원",
+     "ko": "티셔츠는 한 장에 만오천 원이에요."
+    },
+    {
+     "speaker": "손님",
+     "ko": "그럼 티셔츠 두 장 주세요."
+    }
+   ]
+  },
+  "a3": {
+   "kind": "audio",
+   "level": 2,
+   "lines": [
+    {
+     "speaker": "지수",
+     "ko": "여보세요, 민수 씨? 오늘 저녁 일곱 시에 만나기로 했지요?"
+    },
+    {
+     "speaker": "민수",
+     "ko": "네. 그런데 미안해요. 회사 일이 늦게 끝나서 여덟 시쯤 도착할 것 같아요."
+    },
+    {
+     "speaker": "지수",
+     "ko": "괜찮아요. 그럼 여덟 시에 식당 앞에서 만나요."
+    },
+    {
+     "speaker": "민수",
+     "ko": "고마워요. 이따가 봐요."
+    }
+   ]
+  },
+  "a4": {
+   "kind": "audio",
+   "level": 3,
+   "lines": [
+    {
+     "speaker": "안내",
+     "ko": "안내 말씀 드리겠습니다. 오늘 오후 두 시부터 네 시까지 엘리베이터 점검이 있을 예정입니다. 점검 시간에는 계단을 이용해 주시기 바랍니다. 불편을 드려서 죄송합니다."
+    }
+   ]
+  }
+ }
+}
