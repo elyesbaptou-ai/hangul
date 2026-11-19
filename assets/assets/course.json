@@ -154,6 +154,113 @@
      "why": "의사 finit par une voyelle : 의사예요 ? (même forme pour la question).",
      "translation": "Cette personne est médecin ?"
     }
+   ],
+   "vocab": [
+    {
+     "id": "u01_v01",
+     "hangul": "대학생",
+     "romanization": "daehaksaeng",
+     "french": "étudiant(e) à l'université",
+     "level": 1
+    },
+    {
+     "id": "u01_v02",
+     "hangul": "학생",
+     "romanization": "haksaeng",
+     "french": "élève, étudiant",
+     "level": 1
+    },
+    {
+     "id": "u01_v03",
+     "hangul": "요리사",
+     "romanization": "yorisa",
+     "french": "cuisinier",
+     "level": 1
+    },
+    {
+     "id": "u01_v04",
+     "hangul": "회사원",
+     "romanization": "hoesawon",
+     "french": "employé de bureau",
+     "level": 1
+    },
+    {
+     "id": "u01_v05",
+     "hangul": "선생님",
+     "romanization": "seonsaengnim",
+     "french": "professeur",
+     "level": 1
+    },
+    {
+     "id": "u01_v06",
+     "hangul": "의사",
+     "romanization": "uisa",
+     "french": "médecin",
+     "level": 1
+    },
+    {
+     "id": "u01_v07",
+     "hangul": "가수",
+     "romanization": "gasu",
+     "french": "chanteur, chanteuse",
+     "level": 1
+    },
+    {
+     "id": "u01_v08",
+     "hangul": "친구",
+     "romanization": "chingu",
+     "french": "ami(e)",
+     "level": 1
+    },
+    {
+     "id": "u01_v09",
+     "hangul": "나라",
+     "romanization": "nara",
+     "french": "pays",
+     "level": 1
+    },
+    {
+     "id": "u01_v10",
+     "hangul": "사람",
+     "romanization": "saram",
+     "french": "personne",
+     "level": 1
+    },
+    {
+     "id": "u01_v11",
+     "hangul": "한국",
+     "romanization": "hanguk",
+     "french": "Corée",
+     "level": 1
+    },
+    {
+     "id": "u01_v12",
+     "hangul": "프랑스",
+     "romanization": "peurangseu",
+     "french": "France",
+     "level": 1
+    },
+    {
+     "id": "u01_v13",
+     "hangul": "일본",
+     "romanization": "ilbon",
+     "french": "Japon",
+     "level": 1
+    },
+    {
+     "id": "u01_v14",
+     "hangul": "만나서 반가워요",
+     "romanization": "mannaseo bangawoyo",
+     "french": "Enchanté(e)",
+     "level": 1
+    },
+    {
+     "id": "u01_v15",
+     "hangul": "무슨 일 하세요?",
+     "romanization": "museun il haseyo",
+     "french": "Que faites-vous dans la vie ?",
+     "level": 1
+    }
    ]
   },
   {
@@ -304,6 +411,120 @@
      ],
      "why": "가 + 아요 se contracte en 가요.",
      "translation": "Où vas-tu maintenant ?"
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u02_v01",
+     "hangul": "어디",
+     "romanization": "eodi",
+     "french": "où",
+     "level": 1
+    },
+    {
+     "id": "u02_v02",
+     "hangul": "가다",
+     "romanization": "gada",
+     "french": "aller",
+     "level": 1
+    },
+    {
+     "id": "u02_v03",
+     "hangul": "오다",
+     "romanization": "oda",
+     "french": "venir",
+     "level": 1
+    },
+    {
+     "id": "u02_v04",
+     "hangul": "도서관",
+     "romanization": "doseogwan",
+     "french": "bibliothèque",
+     "level": 1
+    },
+    {
+     "id": "u02_v05",
+     "hangul": "카페",
+     "romanization": "kape",
+     "french": "café (le lieu)",
+     "level": 1
+    },
+    {
+     "id": "u02_v06",
+     "hangul": "회사",
+     "romanization": "hoesa",
+     "french": "entreprise, travail",
+     "level": 1
+    },
+    {
+     "id": "u02_v07",
+     "hangul": "학교",
+     "romanization": "hakgyo",
+     "french": "école",
+     "level": 1
+    },
+    {
+     "id": "u02_v08",
+     "hangul": "시험",
+     "romanization": "siheom",
+     "french": "examen",
+     "level": 1
+    },
+    {
+     "id": "u02_v09",
+     "hangul": "공부하다",
+     "romanization": "gongbuhada",
+     "french": "étudier, réviser",
+     "level": 1
+    },
+    {
+     "id": "u02_v10",
+     "hangul": "마시다",
+     "romanization": "masida",
+     "french": "boire",
+     "level": 1
+    },
+    {
+     "id": "u02_v11",
+     "hangul": "먹다",
+     "romanization": "meokda",
+     "french": "manger",
+     "level": 1
+    },
+    {
+     "id": "u02_v12",
+     "hangul": "쉬다",
+     "romanization": "swida",
+     "french": "se reposer",
+     "level": 1
+    },
+    {
+     "id": "u02_v13",
+     "hangul": "지금",
+     "romanization": "jigeum",
+     "french": "maintenant",
+     "level": 1
+    },
+    {
+     "id": "u02_v14",
+     "hangul": "오늘",
+     "romanization": "oneul",
+     "french": "aujourd'hui",
+     "level": 1
+    },
+    {
+     "id": "u02_v15",
+     "hangul": "내일",
+     "romanization": "naeil",
+     "french": "demain",
+     "level": 1
+    },
+    {
+     "id": "u02_v16",
+     "hangul": "오랜만이에요",
+     "romanization": "oraenmanieyo",
+     "french": "Ça fait longtemps",
+     "level": 1
     }
    ]
   },
@@ -465,6 +686,134 @@
      "why": "Les numéros se lisent en sino-coréen : 이십오 번.",
      "translation": "Le bus n° 25"
     }
+   ],
+   "vocab": [
+    {
+     "id": "u03_v01",
+     "hangul": "전화번호",
+     "romanization": "jeonhwabeonho",
+     "french": "numéro de téléphone",
+     "level": 1
+    },
+    {
+     "id": "u03_v02",
+     "hangul": "공",
+     "romanization": "gong",
+     "french": "zéro (dans un numéro)",
+     "level": 1
+    },
+    {
+     "id": "u03_v03",
+     "hangul": "일",
+     "romanization": "il",
+     "french": "un (sino-coréen)",
+     "level": 1
+    },
+    {
+     "id": "u03_v04",
+     "hangul": "이",
+     "romanization": "i",
+     "french": "deux",
+     "level": 1
+    },
+    {
+     "id": "u03_v05",
+     "hangul": "삼",
+     "romanization": "sam",
+     "french": "trois",
+     "level": 1
+    },
+    {
+     "id": "u03_v06",
+     "hangul": "사",
+     "romanization": "sa",
+     "french": "quatre",
+     "level": 1
+    },
+    {
+     "id": "u03_v07",
+     "hangul": "오",
+     "romanization": "o",
+     "french": "cinq",
+     "level": 1
+    },
+    {
+     "id": "u03_v08",
+     "hangul": "육",
+     "romanization": "yuk",
+     "french": "six",
+     "level": 1
+    },
+    {
+     "id": "u03_v09",
+     "hangul": "칠",
+     "romanization": "chil",
+     "french": "sept",
+     "level": 1
+    },
+    {
+     "id": "u03_v10",
+     "hangul": "팔",
+     "romanization": "pal",
+     "french": "huit",
+     "level": 1
+    },
+    {
+     "id": "u03_v11",
+     "hangul": "구",
+     "romanization": "gu",
+     "french": "neuf",
+     "level": 1
+    },
+    {
+     "id": "u03_v12",
+     "hangul": "십",
+     "romanization": "sip",
+     "french": "dix",
+     "level": 1
+    },
+    {
+     "id": "u03_v13",
+     "hangul": "백",
+     "romanization": "baek",
+     "french": "cent",
+     "level": 1
+    },
+    {
+     "id": "u03_v14",
+     "hangul": "천",
+     "romanization": "cheon",
+     "french": "mille",
+     "level": 1
+    },
+    {
+     "id": "u03_v15",
+     "hangul": "만",
+     "romanization": "man",
+     "french": "dix mille",
+     "level": 1
+    },
+    {
+     "id": "u03_v16",
+     "hangul": "원",
+     "romanization": "won",
+     "french": "won (monnaie)",
+     "level": 1
+    },
+    {
+     "id": "u03_v17",
+     "hangul": "우산",
+     "romanization": "usan",
+     "french": "parapluie",
+     "level": 1
+    },
+    {
+     "id": "u03_v18",
+     "hangul": "얼마예요?",
+     "romanization": "eolmayeyo",
+     "french": "Combien ça coûte ?",
+     "level": 1
+    }
    ]
   },
   {
@@ -624,6 +973,148 @@
      ],
      "why": "Pour situer quelque chose : 어디에 있어요 ?",
      "translation": "Où sont les toilettes ?"
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u04_v01",
+     "hangul": "집",
+     "romanization": "jip",
+     "french": "maison",
+     "level": 1
+    },
+    {
+     "id": "u04_v02",
+     "hangul": "방",
+     "romanization": "bang",
+     "french": "chambre",
+     "level": 1
+    },
+    {
+     "id": "u04_v03",
+     "hangul": "휴대폰",
+     "romanization": "hyudaepon",
+     "french": "téléphone portable",
+     "level": 1
+    },
+    {
+     "id": "u04_v04",
+     "hangul": "책상",
+     "romanization": "chaeksang",
+     "french": "bureau (le meuble)",
+     "level": 1
+    },
+    {
+     "id": "u04_v05",
+     "hangul": "책",
+     "romanization": "chaek",
+     "french": "livre",
+     "level": 1
+    },
+    {
+     "id": "u04_v06",
+     "hangul": "컴퓨터",
+     "romanization": "keompyuteo",
+     "french": "ordinateur",
+     "level": 1
+    },
+    {
+     "id": "u04_v07",
+     "hangul": "침대",
+     "romanization": "chimdae",
+     "french": "lit",
+     "level": 1
+    },
+    {
+     "id": "u04_v08",
+     "hangul": "의자",
+     "romanization": "uija",
+     "french": "chaise",
+     "level": 1
+    },
+    {
+     "id": "u04_v09",
+     "hangul": "가방",
+     "romanization": "gabang",
+     "french": "sac",
+     "level": 1
+    },
+    {
+     "id": "u04_v10",
+     "hangul": "문",
+     "romanization": "mun",
+     "french": "porte",
+     "level": 1
+    },
+    {
+     "id": "u04_v11",
+     "hangul": "지갑",
+     "romanization": "jigap",
+     "french": "portefeuille",
+     "level": 1
+    },
+    {
+     "id": "u04_v12",
+     "hangul": "위",
+     "romanization": "wi",
+     "french": "dessus, sur",
+     "level": 1
+    },
+    {
+     "id": "u04_v13",
+     "hangul": "아래",
+     "romanization": "arae",
+     "french": "dessous, sous",
+     "level": 1
+    },
+    {
+     "id": "u04_v14",
+     "hangul": "앞",
+     "romanization": "ap",
+     "french": "devant",
+     "level": 1
+    },
+    {
+     "id": "u04_v15",
+     "hangul": "뒤",
+     "romanization": "dwi",
+     "french": "derrière",
+     "level": 1
+    },
+    {
+     "id": "u04_v16",
+     "hangul": "옆",
+     "romanization": "yeop",
+     "french": "à côté",
+     "level": 1
+    },
+    {
+     "id": "u04_v17",
+     "hangul": "안",
+     "romanization": "an",
+     "french": "dedans",
+     "level": 1
+    },
+    {
+     "id": "u04_v18",
+     "hangul": "있다",
+     "romanization": "itda",
+     "french": "il y a, se trouver",
+     "level": 1
+    },
+    {
+     "id": "u04_v19",
+     "hangul": "없다",
+     "romanization": "eopda",
+     "french": "il n'y a pas",
+     "level": 1
+    },
+    {
+     "id": "u04_v20",
+     "hangul": "여보세요",
+     "romanization": "yeoboseyo",
+     "french": "Allô",
+     "level": 1
     }
    ]
   },
@@ -795,6 +1286,120 @@
      "why": "하고 relie deux noms : « et ».",
      "translation": "Du pain et du lait, s'il vous plaît."
     }
+   ],
+   "vocab": [
+    {
+     "id": "u05_v01",
+     "hangul": "사과",
+     "romanization": "sagwa",
+     "french": "pomme",
+     "level": 1
+    },
+    {
+     "id": "u05_v02",
+     "hangul": "오렌지",
+     "romanization": "orenji",
+     "french": "orange",
+     "level": 1
+    },
+    {
+     "id": "u05_v03",
+     "hangul": "딸기",
+     "romanization": "ttalgi",
+     "french": "fraise",
+     "level": 1
+    },
+    {
+     "id": "u05_v04",
+     "hangul": "포도",
+     "romanization": "podo",
+     "french": "raisin",
+     "level": 1
+    },
+    {
+     "id": "u05_v05",
+     "hangul": "수박",
+     "romanization": "subak",
+     "french": "pastèque",
+     "level": 1
+    },
+    {
+     "id": "u05_v06",
+     "hangul": "맛있다",
+     "romanization": "masitda",
+     "french": "être bon (au goût)",
+     "level": 1
+    },
+    {
+     "id": "u05_v07",
+     "hangul": "하나",
+     "romanization": "hana",
+     "french": "un (coréen natif)",
+     "level": 1
+    },
+    {
+     "id": "u05_v08",
+     "hangul": "둘",
+     "romanization": "dul",
+     "french": "deux (natif)",
+     "level": 1
+    },
+    {
+     "id": "u05_v09",
+     "hangul": "셋",
+     "romanization": "set",
+     "french": "trois (natif)",
+     "level": 1
+    },
+    {
+     "id": "u05_v10",
+     "hangul": "넷",
+     "romanization": "net",
+     "french": "quatre (natif)",
+     "level": 1
+    },
+    {
+     "id": "u05_v11",
+     "hangul": "다섯",
+     "romanization": "daseot",
+     "french": "cinq (natif)",
+     "level": 1
+    },
+    {
+     "id": "u05_v12",
+     "hangul": "개",
+     "romanization": "gae",
+     "french": "compteur des objets",
+     "level": 1
+    },
+    {
+     "id": "u05_v13",
+     "hangul": "상자",
+     "romanization": "sangja",
+     "french": "boîte, barquette",
+     "level": 1
+    },
+    {
+     "id": "u05_v14",
+     "hangul": "모두",
+     "romanization": "modu",
+     "french": "en tout",
+     "level": 1
+    },
+    {
+     "id": "u05_v15",
+     "hangul": "주세요",
+     "romanization": "juseyo",
+     "french": "donnez-moi",
+     "level": 1
+    },
+    {
+     "id": "u05_v16",
+     "hangul": "어서 오세요",
+     "romanization": "eoseo oseyo",
+     "french": "Bienvenue",
+     "level": 1
+    }
    ]
   },
   {
@@ -945,6 +1550,106 @@
      ],
      "why": "Radical + 지 않아요 = négation longue.",
      "translation": "Ce ragoût de kimchi n'est pas épicé."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u06_v01",
+     "hangul": "식당",
+     "romanization": "sikdang",
+     "french": "restaurant",
+     "level": 1
+    },
+    {
+     "id": "u06_v02",
+     "hangul": "음식",
+     "romanization": "eumsik",
+     "french": "plat, nourriture",
+     "level": 1
+    },
+    {
+     "id": "u06_v03",
+     "hangul": "비빔밥",
+     "romanization": "bibimbap",
+     "french": "bibimbap (riz mélangé)",
+     "level": 1
+    },
+    {
+     "id": "u06_v04",
+     "hangul": "불고기",
+     "romanization": "bulgogi",
+     "french": "bulgogi (bœuf mariné)",
+     "level": 1
+    },
+    {
+     "id": "u06_v05",
+     "hangul": "김치찌개",
+     "romanization": "gimchijjigae",
+     "french": "ragoût de kimchi",
+     "level": 1
+    },
+    {
+     "id": "u06_v06",
+     "hangul": "냉면",
+     "romanization": "naengmyeon",
+     "french": "nouilles froides",
+     "level": 1
+    },
+    {
+     "id": "u06_v07",
+     "hangul": "맵다",
+     "romanization": "maepda",
+     "french": "être épicé",
+     "level": 1
+    },
+    {
+     "id": "u06_v08",
+     "hangul": "좋아하다",
+     "romanization": "joahada",
+     "french": "aimer",
+     "level": 1
+    },
+    {
+     "id": "u06_v09",
+     "hangul": "시키다",
+     "romanization": "sikida",
+     "french": "commander",
+     "level": 1
+    },
+    {
+     "id": "u06_v10",
+     "hangul": "아주",
+     "romanization": "aju",
+     "french": "très",
+     "level": 1
+    },
+    {
+     "id": "u06_v11",
+     "hangul": "조금",
+     "romanization": "jogeum",
+     "french": "un peu",
+     "level": 1
+    },
+    {
+     "id": "u06_v12",
+     "hangul": "정말",
+     "romanization": "jeongmal",
+     "french": "vraiment",
+     "level": 1
+    },
+    {
+     "id": "u06_v13",
+     "hangul": "어때요?",
+     "romanization": "eottaeyo",
+     "french": "Qu'en penses-tu ?",
+     "level": 1
+    },
+    {
+     "id": "u06_v14",
+     "hangul": "여기요!",
+     "romanization": "yeogiyo",
+     "french": "S'il vous plaît ! (pour appeler)",
+     "level": 1
     }
    ]
   },
@@ -1110,6 +1815,134 @@
      "why": "Les minutes sont en sino-coréen : 삼십 분.",
      "translation": "Trente minutes"
     }
+   ],
+   "vocab": [
+    {
+     "id": "u07_v01",
+     "hangul": "월요일",
+     "romanization": "woryoil",
+     "french": "lundi",
+     "level": 1
+    },
+    {
+     "id": "u07_v02",
+     "hangul": "화요일",
+     "romanization": "hwayoil",
+     "french": "mardi",
+     "level": 1
+    },
+    {
+     "id": "u07_v03",
+     "hangul": "수요일",
+     "romanization": "suyoil",
+     "french": "mercredi",
+     "level": 1
+    },
+    {
+     "id": "u07_v04",
+     "hangul": "목요일",
+     "romanization": "mogyoil",
+     "french": "jeudi",
+     "level": 1
+    },
+    {
+     "id": "u07_v05",
+     "hangul": "금요일",
+     "romanization": "geumyoil",
+     "french": "vendredi",
+     "level": 1
+    },
+    {
+     "id": "u07_v06",
+     "hangul": "토요일",
+     "romanization": "toyoil",
+     "french": "samedi",
+     "level": 1
+    },
+    {
+     "id": "u07_v07",
+     "hangul": "일요일",
+     "romanization": "iryoil",
+     "french": "dimanche",
+     "level": 1
+    },
+    {
+     "id": "u07_v08",
+     "hangul": "시",
+     "romanization": "si",
+     "french": "heure",
+     "level": 1
+    },
+    {
+     "id": "u07_v09",
+     "hangul": "분",
+     "romanization": "bun",
+     "french": "minute",
+     "level": 1
+    },
+    {
+     "id": "u07_v10",
+     "hangul": "반",
+     "romanization": "ban",
+     "french": "et demie",
+     "level": 1
+    },
+    {
+     "id": "u07_v11",
+     "hangul": "오전",
+     "romanization": "ojeon",
+     "french": "matin (avant midi)",
+     "level": 1
+    },
+    {
+     "id": "u07_v12",
+     "hangul": "오후",
+     "romanization": "ohu",
+     "french": "après-midi",
+     "level": 1
+    },
+    {
+     "id": "u07_v13",
+     "hangul": "영화관",
+     "romanization": "yeonghwagwan",
+     "french": "cinéma",
+     "level": 1
+    },
+    {
+     "id": "u07_v14",
+     "hangul": "시작하다",
+     "romanization": "sijakhada",
+     "french": "commencer",
+     "level": 1
+    },
+    {
+     "id": "u07_v15",
+     "hangul": "바쁘다",
+     "romanization": "bappeuda",
+     "french": "être occupé",
+     "level": 1
+    },
+    {
+     "id": "u07_v16",
+     "hangul": "수업",
+     "romanization": "sueop",
+     "french": "cours",
+     "level": 1
+    },
+    {
+     "id": "u07_v17",
+     "hangul": "며칠",
+     "romanization": "myeochil",
+     "french": "quel jour (date)",
+     "level": 1
+    },
+    {
+     "id": "u07_v18",
+     "hangul": "시월",
+     "romanization": "siwol",
+     "french": "octobre",
+     "level": 1
+    }
    ]
   },
   {
@@ -1260,6 +2093,106 @@
      ],
      "why": "먹 n'a ni ㅏ ni ㅗ : -었어요.",
      "translation": "Ce matin, j'ai mangé du pain."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u08_v01",
+     "hangul": "주말",
+     "romanization": "jumal",
+     "french": "week-end",
+     "level": 1
+    },
+    {
+     "id": "u08_v02",
+     "hangul": "공원",
+     "romanization": "gongwon",
+     "french": "parc",
+     "level": 1
+    },
+    {
+     "id": "u08_v03",
+     "hangul": "자전거를 타다",
+     "romanization": "jajeongeoreul tada",
+     "french": "faire du vélo",
+     "level": 1
+    },
+    {
+     "id": "u08_v04",
+     "hangul": "날씨",
+     "romanization": "nalssi",
+     "french": "le temps (météo)",
+     "level": 1
+    },
+    {
+     "id": "u08_v05",
+     "hangul": "읽다",
+     "romanization": "ikda",
+     "french": "lire",
+     "level": 1
+    },
+    {
+     "id": "u08_v06",
+     "hangul": "백화점",
+     "romanization": "baekhwajeom",
+     "french": "grand magasin",
+     "level": 1
+    },
+    {
+     "id": "u08_v07",
+     "hangul": "쇼핑하다",
+     "romanization": "syopinghada",
+     "french": "faire du shopping",
+     "level": 1
+    },
+    {
+     "id": "u08_v08",
+     "hangul": "요리하다",
+     "romanization": "yorihada",
+     "french": "cuisiner",
+     "level": 1
+    },
+    {
+     "id": "u08_v09",
+     "hangul": "만들다",
+     "romanization": "mandeulda",
+     "french": "fabriquer, préparer",
+     "level": 1
+    },
+    {
+     "id": "u08_v10",
+     "hangul": "어제",
+     "romanization": "eoje",
+     "french": "hier",
+     "level": 1
+    },
+    {
+     "id": "u08_v11",
+     "hangul": "지난주",
+     "romanization": "jinanju",
+     "french": "la semaine dernière",
+     "level": 1
+    },
+    {
+     "id": "u08_v12",
+     "hangul": "다음",
+     "romanization": "daeum",
+     "french": "prochain, la prochaine fois",
+     "level": 1
+    },
+    {
+     "id": "u08_v13",
+     "hangul": "시장",
+     "romanization": "sijang",
+     "french": "marché",
+     "level": 1
+    },
+    {
+     "id": "u08_v14",
+     "hangul": "편의점",
+     "romanization": "pyeonuijeom",
+     "french": "supérette",
+     "level": 1
     }
    ]
   },
@@ -1416,6 +2349,113 @@
      "why": "항상 = toujours, sans négation.",
      "translation": "Je fais toujours du sport le matin."
     }
+   ],
+   "vocab": [
+    {
+     "id": "u09_v01",
+     "hangul": "취미",
+     "romanization": "chwimi",
+     "french": "passe-temps",
+     "level": 1
+    },
+    {
+     "id": "u09_v02",
+     "hangul": "등산",
+     "romanization": "deungsan",
+     "french": "randonnée en montagne",
+     "level": 1
+    },
+    {
+     "id": "u09_v03",
+     "hangul": "산",
+     "romanization": "san",
+     "french": "montagne",
+     "level": 1
+    },
+    {
+     "id": "u09_v04",
+     "hangul": "축구",
+     "romanization": "chukgu",
+     "french": "football",
+     "level": 1
+    },
+    {
+     "id": "u09_v05",
+     "hangul": "경기",
+     "romanization": "gyeonggi",
+     "french": "match",
+     "level": 1
+    },
+    {
+     "id": "u09_v06",
+     "hangul": "테니스",
+     "romanization": "teniseu",
+     "french": "tennis",
+     "level": 1
+    },
+    {
+     "id": "u09_v07",
+     "hangul": "매주",
+     "romanization": "maeju",
+     "french": "chaque semaine",
+     "level": 1
+    },
+    {
+     "id": "u09_v08",
+     "hangul": "매일",
+     "romanization": "maeil",
+     "french": "chaque jour",
+     "level": 1
+    },
+    {
+     "id": "u09_v09",
+     "hangul": "항상",
+     "romanization": "hangsang",
+     "french": "toujours",
+     "level": 1
+    },
+    {
+     "id": "u09_v10",
+     "hangul": "자주",
+     "romanization": "jaju",
+     "french": "souvent",
+     "level": 1
+    },
+    {
+     "id": "u09_v11",
+     "hangul": "가끔",
+     "romanization": "gakkeum",
+     "french": "parfois",
+     "level": 1
+    },
+    {
+     "id": "u09_v12",
+     "hangul": "거의 안",
+     "romanization": "geoui an",
+     "french": "presque jamais",
+     "level": 1
+    },
+    {
+     "id": "u09_v13",
+     "hangul": "전혀 안",
+     "romanization": "jeonhyeo an",
+     "french": "pas du tout",
+     "level": 1
+    },
+    {
+     "id": "u09_v14",
+     "hangul": "같이",
+     "romanization": "gachi",
+     "french": "ensemble",
+     "level": 1
+    },
+    {
+     "id": "u09_v15",
+     "hangul": "만나다",
+     "romanization": "mannada",
+     "french": "rencontrer, retrouver",
+     "level": 1
+    }
    ]
   },
   {
@@ -1570,6 +2610,113 @@
      ],
      "why": "But du déplacement : 배우러 왔어요.",
      "translation": "Je suis venu au Sejong Hakdang pour apprendre le coréen."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u10_v01",
+     "hangul": "휴가",
+     "romanization": "hyuga",
+     "french": "vacances",
+     "level": 1
+    },
+    {
+     "id": "u10_v02",
+     "hangul": "할아버지",
+     "romanization": "harabeoji",
+     "french": "grand-père",
+     "level": 1
+    },
+    {
+     "id": "u10_v03",
+     "hangul": "할머니",
+     "romanization": "halmeoni",
+     "french": "grand-mère",
+     "level": 1
+    },
+    {
+     "id": "u10_v04",
+     "hangul": "낚시",
+     "romanization": "naksi",
+     "french": "pêche",
+     "level": 1
+    },
+    {
+     "id": "u10_v05",
+     "hangul": "바다",
+     "romanization": "bada",
+     "french": "mer",
+     "level": 1
+    },
+    {
+     "id": "u10_v06",
+     "hangul": "물고기",
+     "romanization": "mulgogi",
+     "french": "poisson",
+     "level": 1
+    },
+    {
+     "id": "u10_v07",
+     "hangul": "잡다",
+     "romanization": "japda",
+     "french": "attraper",
+     "level": 1
+    },
+    {
+     "id": "u10_v08",
+     "hangul": "사진",
+     "romanization": "sajin",
+     "french": "photo",
+     "level": 1
+    },
+    {
+     "id": "u10_v09",
+     "hangul": "여행",
+     "romanization": "yeohaeng",
+     "french": "voyage",
+     "level": 1
+    },
+    {
+     "id": "u10_v10",
+     "hangul": "계시다",
+     "romanization": "gyesida",
+     "french": "être, se trouver (honorifique)",
+     "level": 1
+    },
+    {
+     "id": "u10_v11",
+     "hangul": "드시다",
+     "romanization": "deusida",
+     "french": "manger (honorifique)",
+     "level": 1
+    },
+    {
+     "id": "u10_v12",
+     "hangul": "주무시다",
+     "romanization": "jumusida",
+     "french": "dormir (honorifique)",
+     "level": 1
+    },
+    {
+     "id": "u10_v13",
+     "hangul": "별로",
+     "romanization": "byeollo",
+     "french": "pas tellement",
+     "level": 1
+    },
+    {
+     "id": "u10_v14",
+     "hangul": "크다",
+     "romanization": "keuda",
+     "french": "être grand",
+     "level": 1
+    },
+    {
+     "id": "u10_v15",
+     "hangul": "배우다",
+     "romanization": "baeuda",
+     "french": "apprendre",
+     "level": 1
     }
    ]
   },
@@ -1727,6 +2874,106 @@
      "why": "닫 finit par une consonne : 닫을까요.",
      "translation": "Je ferme la fenêtre ?"
     }
+   ],
+   "vocab": [
+    {
+     "id": "u11_v01",
+     "hangul": "콘서트",
+     "romanization": "konseoteu",
+     "french": "concert",
+     "level": 1
+    },
+    {
+     "id": "u11_v02",
+     "hangul": "표",
+     "romanization": "pyo",
+     "french": "billet",
+     "level": 1
+    },
+    {
+     "id": "u11_v03",
+     "hangul": "장",
+     "romanization": "jang",
+     "french": "compteur des feuilles et billets",
+     "level": 1
+    },
+    {
+     "id": "u11_v04",
+     "hangul": "유명하다",
+     "romanization": "yumyeonghada",
+     "french": "être célèbre",
+     "level": 1
+    },
+    {
+     "id": "u11_v05",
+     "hangul": "공연장",
+     "romanization": "gongyeonjang",
+     "french": "salle de spectacle",
+     "level": 1
+    },
+    {
+     "id": "u11_v06",
+     "hangul": "계획",
+     "romanization": "gyehoek",
+     "french": "projet, programme",
+     "level": 1
+    },
+    {
+     "id": "u11_v07",
+     "hangul": "저녁",
+     "romanization": "jeonyeok",
+     "french": "soir, dîner",
+     "level": 1
+    },
+    {
+     "id": "u11_v08",
+     "hangul": "시간",
+     "romanization": "sigan",
+     "french": "temps, heure",
+     "level": 1
+    },
+    {
+     "id": "u11_v09",
+     "hangul": "영화",
+     "romanization": "yeonghwa",
+     "french": "film",
+     "level": 1
+    },
+    {
+     "id": "u11_v10",
+     "hangul": "사진을 찍다",
+     "romanization": "sajineul jjikda",
+     "french": "prendre une photo",
+     "level": 1
+    },
+    {
+     "id": "u11_v11",
+     "hangul": "창문",
+     "romanization": "changmun",
+     "french": "fenêtre",
+     "level": 1
+    },
+    {
+     "id": "u11_v12",
+     "hangul": "닫다",
+     "romanization": "datda",
+     "french": "fermer",
+     "level": 1
+    },
+    {
+     "id": "u11_v13",
+     "hangul": "전에",
+     "romanization": "jeone",
+     "french": "avant",
+     "level": 1
+    },
+    {
+     "id": "u11_v14",
+     "hangul": "잘됐네요",
+     "romanization": "jaldwaenneyo",
+     "french": "Tant mieux, parfait",
+     "level": 1
+    }
    ]
   },
   {
@@ -1882,6 +3129,120 @@
      "why": "-고 relie deux qualités.",
      "translation": "Ces chaussures sont légères et confortables."
     }
+   ],
+   "vocab": [
+    {
+     "id": "u12_v01",
+     "hangul": "봄",
+     "romanization": "bom",
+     "french": "printemps",
+     "level": 1
+    },
+    {
+     "id": "u12_v02",
+     "hangul": "여름",
+     "romanization": "yeoreum",
+     "french": "été",
+     "level": 1
+    },
+    {
+     "id": "u12_v03",
+     "hangul": "가을",
+     "romanization": "gaeul",
+     "french": "automne",
+     "level": 1
+    },
+    {
+     "id": "u12_v04",
+     "hangul": "겨울",
+     "romanization": "gyeoul",
+     "french": "hiver",
+     "level": 1
+    },
+    {
+     "id": "u12_v05",
+     "hangul": "춥다",
+     "romanization": "chupda",
+     "french": "faire froid",
+     "level": 1
+    },
+    {
+     "id": "u12_v06",
+     "hangul": "덥다",
+     "romanization": "deopda",
+     "french": "faire chaud",
+     "level": 1
+    },
+    {
+     "id": "u12_v07",
+     "hangul": "시원하다",
+     "romanization": "siwonhada",
+     "french": "être frais",
+     "level": 1
+    },
+    {
+     "id": "u12_v08",
+     "hangul": "따뜻하다",
+     "romanization": "ttatteuthada",
+     "french": "être doux, chaud",
+     "level": 1
+    },
+    {
+     "id": "u12_v09",
+     "hangul": "맑다",
+     "romanization": "makda",
+     "french": "être dégagé (ciel)",
+     "level": 1
+    },
+    {
+     "id": "u12_v10",
+     "hangul": "하늘",
+     "romanization": "haneul",
+     "french": "ciel",
+     "level": 1
+    },
+    {
+     "id": "u12_v11",
+     "hangul": "바람이 불다",
+     "romanization": "barami bulda",
+     "french": "le vent souffle",
+     "level": 1
+    },
+    {
+     "id": "u12_v12",
+     "hangul": "눈이 오다",
+     "romanization": "nuni oda",
+     "french": "neiger",
+     "level": 1
+    },
+    {
+     "id": "u12_v13",
+     "hangul": "비가 오다",
+     "romanization": "biga oda",
+     "french": "pleuvoir",
+     "level": 1
+    },
+    {
+     "id": "u12_v14",
+     "hangul": "옷",
+     "romanization": "ot",
+     "french": "vêtement",
+     "level": 1
+    },
+    {
+     "id": "u12_v15",
+     "hangul": "스키를 타다",
+     "romanization": "seukireul tada",
+     "french": "faire du ski",
+     "level": 1
+    },
+    {
+     "id": "u12_v16",
+     "hangul": "다음 달",
+     "romanization": "daeum dal",
+     "french": "le mois prochain",
+     "level": 1
+    }
    ]
   },
   {
@@ -2036,6 +3397,134 @@
      ],
      "why": "Chaussures : 신다.",
      "translation": "Je mets des chaussures."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u13_v01",
+     "hangul": "선물",
+     "romanization": "seonmul",
+     "french": "cadeau",
+     "level": 1
+    },
+    {
+     "id": "u13_v02",
+     "hangul": "선물하다",
+     "romanization": "seonmulhada",
+     "french": "offrir",
+     "level": 1
+    },
+    {
+     "id": "u13_v03",
+     "hangul": "어머니",
+     "romanization": "eomeoni",
+     "french": "mère",
+     "level": 1
+    },
+    {
+     "id": "u13_v04",
+     "hangul": "스카프",
+     "romanization": "seukapeu",
+     "french": "écharpe, foulard",
+     "level": 1
+    },
+    {
+     "id": "u13_v05",
+     "hangul": "빨간색",
+     "romanization": "ppalgansaek",
+     "french": "rouge",
+     "level": 1
+    },
+    {
+     "id": "u13_v06",
+     "hangul": "남색",
+     "romanization": "namsaek",
+     "french": "bleu marine",
+     "level": 1
+    },
+    {
+     "id": "u13_v07",
+     "hangul": "색깔",
+     "romanization": "saekkkal",
+     "french": "couleur",
+     "level": 1
+    },
+    {
+     "id": "u13_v08",
+     "hangul": "밝다",
+     "romanization": "bakda",
+     "french": "être clair, vif",
+     "level": 1
+    },
+    {
+     "id": "u13_v09",
+     "hangul": "어둡다",
+     "romanization": "eodupda",
+     "french": "être sombre",
+     "level": 1
+    },
+    {
+     "id": "u13_v10",
+     "hangul": "예쁘다",
+     "romanization": "yeppeuda",
+     "french": "être joli",
+     "level": 1
+    },
+    {
+     "id": "u13_v11",
+     "hangul": "비싸다",
+     "romanization": "bissada",
+     "french": "être cher",
+     "level": 1
+    },
+    {
+     "id": "u13_v12",
+     "hangul": "부드럽다",
+     "romanization": "budeureopda",
+     "french": "être doux (au toucher)",
+     "level": 1
+    },
+    {
+     "id": "u13_v13",
+     "hangul": "포장하다",
+     "romanization": "pojanghada",
+     "french": "emballer",
+     "level": 1
+    },
+    {
+     "id": "u13_v14",
+     "hangul": "입다",
+     "romanization": "ipda",
+     "french": "porter (un vêtement)",
+     "level": 1
+    },
+    {
+     "id": "u13_v15",
+     "hangul": "신다",
+     "romanization": "sinda",
+     "french": "mettre (des chaussures)",
+     "level": 1
+    },
+    {
+     "id": "u13_v16",
+     "hangul": "쓰다",
+     "romanization": "sseuda",
+     "french": "porter (chapeau, lunettes)",
+     "level": 1
+    },
+    {
+     "id": "u13_v17",
+     "hangul": "모자",
+     "romanization": "moja",
+     "french": "chapeau",
+     "level": 1
+    },
+    {
+     "id": "u13_v18",
+     "hangul": "구두",
+     "romanization": "gudu",
+     "french": "chaussures de ville",
+     "level": 1
     }
    ]
   },
@@ -2196,6 +3685,120 @@
      ],
      "why": "하다 → 해서.",
      "translation": "J'étais trop fatigué, alors je me suis couché tôt."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u14_v01",
+     "hangul": "모임",
+     "romanization": "moim",
+     "french": "réunion, soirée",
+     "level": 1
+    },
+    {
+     "id": "u14_v02",
+     "hangul": "감기",
+     "romanization": "gamgi",
+     "french": "rhume",
+     "level": 1
+    },
+    {
+     "id": "u14_v03",
+     "hangul": "감기에 걸리다",
+     "romanization": "gamgie geollida",
+     "french": "attraper un rhume",
+     "level": 1
+    },
+    {
+     "id": "u14_v04",
+     "hangul": "열이 나다",
+     "romanization": "yeori nada",
+     "french": "avoir de la fièvre",
+     "level": 1
+    },
+    {
+     "id": "u14_v05",
+     "hangul": "머리",
+     "romanization": "meori",
+     "french": "tête",
+     "level": 1
+    },
+    {
+     "id": "u14_v06",
+     "hangul": "배",
+     "romanization": "bae",
+     "french": "ventre",
+     "level": 1
+    },
+    {
+     "id": "u14_v07",
+     "hangul": "아프다",
+     "romanization": "apeuda",
+     "french": "avoir mal, être malade",
+     "level": 1
+    },
+    {
+     "id": "u14_v08",
+     "hangul": "약",
+     "romanization": "yak",
+     "french": "médicament",
+     "level": 1
+    },
+    {
+     "id": "u14_v09",
+     "hangul": "병원",
+     "romanization": "byeongwon",
+     "french": "hôpital",
+     "level": 1
+    },
+    {
+     "id": "u14_v10",
+     "hangul": "괜찮다",
+     "romanization": "gwaenchanta",
+     "french": "aller bien",
+     "level": 1
+    },
+    {
+     "id": "u14_v11",
+     "hangul": "배가 부르다",
+     "romanization": "baega bureuda",
+     "french": "être rassasié",
+     "level": 1
+    },
+    {
+     "id": "u14_v12",
+     "hangul": "쌀국수",
+     "romanization": "ssalguksu",
+     "french": "phô (soupe de nouilles de riz)",
+     "level": 1
+    },
+    {
+     "id": "u14_v13",
+     "hangul": "피곤하다",
+     "romanization": "pigonhada",
+     "french": "être fatigué",
+     "level": 1
+    },
+    {
+     "id": "u14_v14",
+     "hangul": "다치다",
+     "romanization": "dachida",
+     "french": "se blesser",
+     "level": 1
+    },
+    {
+     "id": "u14_v15",
+     "hangul": "기침",
+     "romanization": "gichim",
+     "french": "toux",
+     "level": 1
+    },
+    {
+     "id": "u14_v16",
+     "hangul": "다행이에요",
+     "romanization": "dahaengieyo",
+     "french": "Tant mieux, ouf",
+     "level": 1
     }
    ]
   }
